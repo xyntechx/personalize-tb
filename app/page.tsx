@@ -20,11 +20,8 @@ const Home = () => {
                 <div className="w-full grid grid-cols-3 gap-4">
                     {tbList.map((tb, i) => (
                         <Link
-                            key={tb}
-                            href={`/personalize/${tb
-                                .toLowerCase()
-                                .split(" ")
-                                .join("-")}`}
+                            key={tb.jsonTB}
+                            href={`/personalize/${tb.jsonTB}`}
                             className={clsx(
                                 "w-full text-center px-4 py-2 rounded-md transition-colors border border-transparent hover:border-black",
                                 {
@@ -38,7 +35,7 @@ const Home = () => {
                                 }
                             )}
                         >
-                            {tb}
+                            {tb.title}
                         </Link>
                     ))}
                 </div>
