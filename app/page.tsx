@@ -1,9 +1,50 @@
-import Image from "next/image";
+import Link from "next/link";
+import clsx from "clsx";
 
-export default function Home() {
+import BioInput from "./_components/BioInput";
+import { tbList } from "./_utils/tb-list";
+
+const Home = () => {
     return (
-        <main className="w-screen min-h-screen flex items-center justify-center flex-col">
-            <h1>Testing</h1>
+        <main className="w-screen min-h-screen flex items-center justify-center flex-col p-4">
+            <h1 className="text-4xl font-bold text-center">
+                Textbook Personalization
+            </h1>
+
+            <div className="flex items-center justify-center flex-col gap-y-2 w-full md:w-1/2 p-4">
+                <BioInput />
+            </div>
+
+            <div className="flex items-center justify-center flex-col gap-y-2 w-full md:w-1/2 p-4">
+                <p className="text-center font-bold">Textbook Choice</p>
+                <div className="w-full grid grid-cols-3 gap-4">
+                    {tbList.map((tb, i) => (
+                        <Link
+                            key={tb}
+                            href={`/personalize/${tb
+                                .toLowerCase()
+                                .split(" ")
+                                .join("-")}`}
+                            className={clsx(
+                                "w-full text-center px-4 py-2 rounded-md transition-colors border border-transparent hover:border-black",
+                                {
+                                    "bg-blue-100 hover:bg-blue-200":
+                                        i % 3 === 0,
+                                },
+                                { "bg-red-100 hover:bg-red-200": i % 3 === 1 },
+                                {
+                                    "bg-green-100 hover:bg-green-200":
+                                        i % 3 === 2,
+                                }
+                            )}
+                        >
+                            {tb}
+                        </Link>
+                    ))}
+                </div>
+            </div>
         </main>
     );
-}
+};
+
+export default Home;
