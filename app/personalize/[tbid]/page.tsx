@@ -1,12 +1,8 @@
-import { promises as fs } from "fs";
+import { textbooks } from "@/app/_utils/textbooks";
 import ChapterSelect from "@/app/_components/ChapterSelect";
 
 const Personalize = async ({ params }: { params: { tbid: string } }) => {
-    const file = await fs.readFile(
-        `/textbooks/${params.tbid}.json`,
-        "utf8"
-    );
-    const textbook = JSON.parse(file);
+    const textbook = textbooks[params.tbid];
     const chapters = [];
     for (const chap in textbook) {
         chapters.push(chap.slice(0, chap.length - 3).trim());
