@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { Textarea } from "@/components/ui/textarea";
 
 const BioInput = () => {
     const [bio, setBio] = useState("");
@@ -20,19 +21,19 @@ const BioInput = () => {
         if (typeof window !== undefined) {
             localStorage.setItem("personalize-tb-my-bio", bio);
         }
-    }, [, bio]);
+    }, [bio]);
 
     return (
         <>
             <label htmlFor="bio" className="text-center font-bold">
                 About Me
             </label>
-            <textarea
+            <Textarea
                 id="bio"
                 value={bio}
                 onChange={(e) => setBio(e.currentTarget.value)}
                 placeholder={isLoading ? "Loading..." : "Enter your bio..."}
-                className="w-full h-[150px] bg-gray-100 px-4 py-2 outline-none rounded-md resize-none border border-transparent focus:border-black"
+                className="w-full h-[150px] resize-none"
             />
         </>
     );
