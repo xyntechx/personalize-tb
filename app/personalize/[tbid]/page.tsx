@@ -3,7 +3,7 @@ import ChapterSelect from "@/app/_components/ChapterSelect";
 
 const Personalize = async ({ params }: { params: { tbid: string } }) => {
     const file = await fs.readFile(
-        `app/_textbooks/${params.tbid}.json`,
+        `/textbooks/${params.tbid}.json`,
         "utf8"
     );
     const textbook = JSON.parse(file);
