@@ -1,8 +1,8 @@
 import Link from "next/link";
 import clsx from "clsx";
 
-import BioInput from "./_components/BioInput";
-import { tbList } from "./_utils/tb-list";
+import BioInput from "./BioInput";
+import { tbList } from "../_utils/tb-list";
 
 const Home = () => {
     return (
