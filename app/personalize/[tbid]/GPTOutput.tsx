@@ -56,7 +56,7 @@ const GPTOutput = ({ selectedGraf }: { selectedGraf: string | undefined }) => {
                     className="w-full md:w-1/2 pt-4"
                     remarkPlugins={[remarkGfm]}
                     components={{
-                        h1({ node, ...rest }) {
+                        h1({ ...rest }) {
                             return (
                                 <h1
                                     className="font-bold text-2xl py-2"
@@ -64,7 +64,7 @@ const GPTOutput = ({ selectedGraf }: { selectedGraf: string | undefined }) => {
                                 />
                             );
                         },
-                        h2({ node, ...rest }) {
+                        h2({ ...rest }) {
                             return (
                                 <h2
                                     className="font-bold text-xl py-2"
@@ -72,7 +72,7 @@ const GPTOutput = ({ selectedGraf }: { selectedGraf: string | undefined }) => {
                                 />
                             );
                         },
-                        h3({ node, ...rest }) {
+                        h3({ ...rest }) {
                             return (
                                 <h3
                                     className="font-bold text-lg py-2"
@@ -81,22 +81,18 @@ const GPTOutput = ({ selectedGraf }: { selectedGraf: string | undefined }) => {
                             );
                         },
                         code(props) {
-                            const { children, className, node, ...rest } =
-                                props;
+                            const { children, className, ...rest } = props;
                             const match = /language-(\w+)/.exec(
                                 className || ""
                             );
                             return match ? (
                                 <SyntaxHighlighter
-                                    // {...rest}
                                     PreTag="div"
-                                    children={String(children).replace(
-                                        /\n$/,
-                                        ""
-                                    )}
                                     language={match[1]}
                                     style={atomDark}
-                                />
+                                >
+                                    {String(children).replace(/\n$/, "")}
+                                </SyntaxHighlighter>
                             ) : (
                                 <code {...rest} className={className}>
                                     {children}
