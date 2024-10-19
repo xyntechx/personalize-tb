@@ -1,0 +1,641 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "      Respiration: C6H12O6 + 6O2                                  6CO2 + 6H2O\n      Aerobic respiration: (1) involves oxidation of glucose (2) produces 38 ATP mlcs per glucose mlc oxidised, CO2 & water (3) requires oxygen\n\n           1                                       Glucose (6C)                                                GLYCOLYSIS (in cytosol)\n   Phosphorylation          Phosphofructokinase                ATP                                             * 1 glucose mlc   2 pyruvate mlcs\n       of sugars                    (PFK)                                                                      * 2 NADH + net 2 ATP are produced\n                                                               ADP                                             * O2 is not required for this step.\n                                            Fructose 1, 6-bisphosphate (6C)                                    1  Phosphorylation of sugar\n        2                                                                                                        addition of phosphate group from ATP activates the\n       Lysis                                                                                                       sugars & commits it to the glycolytic pathway\n                                                                                                               2  Lysis\n                            Glyceraldehyde-3-phosphate (3C)                         Dihydroxyacetone            1 mlc of fructose-1,6- bisphosphate (6C) lyses to form\n         3                  (G3P)                               NAD                 phosphate                     2 mlcs of glyceraldehyde-3-phosphate (G3P/TP)(3C)\n    Oxidation by                               Pi                                                                Hence the number of products formed (eg: ATP,\n  dehydrogenation                                              NADH                                                NADH, FADH2, CO2 etc.) in all subsequent rxns\n                                             1, 3-bisphophoglycerate (3C)                                         (i.e. Link, Krebs, OP.) including glycolysis is doubled.\n        4                                                      ADP                   Glycolysis                 3 Oxidation by dehydrogenation\n Substrate level                                               ATP                                               glyceraldehyde-3-phosphate (G3P/TP) undergoes\n phosphorylation                                                                                                   oxidation/dehydrogenation and phosphorylation\n                                           Glycerate-3-phosphate (3C)                                            NAD is reduced to NADH\n         4                                 (GP)                ADP                                              4  Substrate-level phosphorylation\n Substrate level                                                ATP                                              enzyme-mediated ATP synthesis\nphosphorylation                                                                                                  involves transfer of a phosphate group (P) from ai\n                                                   Pyruvate (3C)                                                  substrate mlc in a metabolic pathway to ADP.\n         5                                  CoA                NAD                                               occurs during glycolysis and Krebs cycle\n     Oxidative                                                                     Link Reaction\n decarboxylation                              CO2               NADH                                           LINK REACTION (in mitochondrial matrix)\n                                                  Acetyl CoA (2C)                                              * If O2 is present, pyruvate is actively transported\n                                                                                                                 into the mitochondrial matrix via a transport protein\n                                                                          CoA                                  * 2 pyruvate mlcs (3C) undergo          5  oxidative\n                                                                                                                 decarboxylation to form 2 acetyl CoA mlcs (2C)\n                                                                                                               * 2 NADH + 2 CO2 are produced\n                    Oxaloacetate (4C)                                    Citrate (6C)                          KREBS CYCLE (in mitochondrial matrix)\n                NADH                                                                                           * When 1 glucose molecule is oxidised, 2 Acetyl CoA\n          6                                                                               NAD                    mlcs form and enter the Krebs cycle. Thus 2 turns of\n                   NAD                                                                    NADH                   the Krebs cycle is necessary to oxidise 1 mlc of glucose.\n             FADH2                              Krebs Cycle                                                    * Acetyl CoA (2C) combines with oxaloacetate (4C) to\n          6       FAD                                                                                            form citrate (6C)\n                                                                                                  5            * Citrate (6C) is converted to \u03b1-ketoglutarate (5C) by\n                  ATP                                                                                             5-ketoglutarate (5C) then goes through a series ofoxidative decarboxylation\n             4   ADP                                                                      CO2                   * \u03b1\n                   CO2                                                                                            enzymatic reactions (i.e      5oxidative decarboxylation,\n                          NADH                                                                                    4  substrate level phosphorylation &             6  oxidation )\n                      5                   \u03b1- ketoglutarate (5C)                                                   and is converted to oxaloacetate (4C).\n                            NAD                                                                                * When oxaloacetate (4C) is regenerated ATP, NADH &\n     Oxidative Phosphorylation                                                                                    FADH2 are also produced.\n    Space                                                                                                      * 6 NADH + 2 FADH2 + 2 ATP + 4 CO2 are produced\n    between\n    membranesElectron                                                                                          OXIDATIVE PHOSPHORYLATION\n              carrier                                                                                          (on inner mitochondrial membrane)\n      Protein\n      complex                                                                                                  * When molecular oxygen (O) is available, NADH from2\n                                                                                                                 glycolysis, the link reaction & the Krebs cycle, donates\n                                                                                                                 high energy e-(s) to the first electron carrier of the\n    nner\n    mitochondrial\n    membrane                                                                                                     electron transport chain (ETC) on the inner\n         Electron            FADH2      FAD                                                                      mitochondrial membrane.\n         flow _                                                                                                * The e- first carrier is thus reduced & the NAD which is\n               NADH                                                                                              regenerated can pick up e-(s) and protons from\n                            NAD+                                                   ADP                           glycolysis, the link reaction or the Krebs cycle.\n                                                                                                                 The first reduced e- carrier then transfers the e- to the\n                                                                                                                 next e- carrier & reduces it while the first carrier itself\n    Matrix                      Electron transport chain                                  ATP synthase           becomes reoxidised.\n                                                                                                               * The transfer of electrons continues in this manner until\n                                                                                                                  they combine with H+ & O2 (the final e- acceptor), to\n                                                                                                                  form metabolic HO in the matrix. This reaction is2\n                                                                                                                  catalysed by cytochrome oxidase.\n                                                                                                                  (2e- + 2H+ + \u00bdO2   H0)2\n      * As e- are transferred down the increasingly electronegative electron carriers in the ETC, energy is released. This energy is used to\n        actively pump H+ from the mitochondrial matrix to intermembrane space.\n      * This creates a proton gradient across the inner mitochondrial membrane. The energy stored in the form of a H+ gradient across a\n        membrane is known as a proton-motive force.\n      * As protons diffuse through ATP synthase (which projects into the matrix) down the H+ concentration gradient into the mitochondrial\n      matrix, ATP synthase is activated and it phosphorylates ADP to ATP in the matrix.\n\n    Prepared by: Mrs Selvamani Nair (2018)                                             Raffles Institution (Yr 5-6)                                                                     1",
+                "md": "# Respiration\n\nC6H12O6 + 6O2 &rarr; 6CO2 + 6H2O\n\n# Aerobic respiration:\n\n1. involves oxidation of glucose\n2. produces 38 ATP mlcs per glucose mlc oxidised, CO2 & water\n3. requires oxygen\n\n# 1 Glucose (6C)\n\n# GLYCOLYSIS (in cytosol)\n\n|Phosphorylation of sugars|Phosphofructokinase (PFK)|ATP|* 1 glucose mlc &rarr; 2 pyruvate mlcs|\n|---|---|---|---|\n| | |ADP|* 2 NADH + net 2 ATP are produced|\n| | | |* O2 is not required for this step.|\n\n# 1 Phosphorylation of sugar\n\naddition of phosphate group from ATP activates the sugars & commits it to the glycolytic pathway\n\n# 2 Lysis\n\n1 mlc of fructose-1,6-bisphosphate (6C) lyses to form 2 mlcs of glyceraldehyde-3-phosphate (G3P/TP)(3C)\n\n# 3 Oxidation by dehydrogenation\n\nglyceraldehyde-3-phosphate (G3P/TP) undergoes oxidation/dehydrogenation and phosphorylation\n\n# 4 Substrate-level phosphorylation\n\nenzyme-mediated ATP synthesis involves transfer of a phosphate group (P) from a substrate mlc in a metabolic pathway to ADP. occurs during glycolysis and Krebs cycle\n\n# 5 Oxidative decarboxylation\n\nLINK REACTION (in mitochondrial matrix)\n\n- If O2 is present, pyruvate is actively transported into the mitochondrial matrix via a transport protein\n- 2 pyruvate mlcs (3C) undergo oxidative decarboxylation to form 2 acetyl CoA mlcs (2C)\n- 2 NADH + 2 CO2 are produced\n\n# KREBS CYCLE (in mitochondrial matrix)\n\nWhen 1 glucose molecule is oxidised, 2 Acetyl CoA mlcs form and enter the Krebs cycle. Thus 2 turns of the Krebs cycle is necessary to oxidise 1 mlc of glucose.\n\n|Oxaloacetate (4C)|Citrate (6C)|\n|---|---|\n|NADH| |\n|NAD|NADH|\n|FADH2|Krebs Cycle|\n|ATP|ADP|\n|CO2| |\n|NADH|\u03b1-ketoglutarate (5C)|\n|NAD| |\n\n# Oxidative Phosphorylation\n\nOXIDATIVE PHOSPHORYLATION (on inner mitochondrial membrane)\n\n- When molecular oxygen (O) is available, NADH from glycolysis, the link reaction & the Krebs cycle, donates high energy e-(s) to the first electron carrier of the electron transport chain (ETC) on the inner mitochondrial membrane.\n- The e- first carrier is thus reduced & the NAD which is regenerated can pick up e-(s) and protons from glycolysis, the link reaction or the Krebs cycle.\n- The first reduced e- carrier then transfers the e- to the next e- carrier & reduces it while the first carrier itself becomes reoxidised.\n- The transfer of electrons continues in this manner until they combine with H+ & O2 (the final e- acceptor), to form metabolic H2O in the matrix. This reaction is catalysed by cytochrome oxidase.\n\n# Prepared by:\n\nMrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 32,
+                        "width": 27,
+                        "x": 173.1,
+                        "y": 281.65,
+                        "original_width": 17,
+                        "original_height": 21
+                    },
+                    {
+                        "name": "img_p0_2.png",
+                        "height": 29,
+                        "width": 40,
+                        "x": 166.35,
+                        "y": 165.99999999999994,
+                        "original_width": 27,
+                        "original_height": 20
+                    },
+                    {
+                        "name": "img_p0_2.png",
+                        "height": 29,
+                        "width": 40,
+                        "x": 166.5,
+                        "y": 275.55,
+                        "original_width": 27,
+                        "original_height": 20
+                    },
+                    {
+                        "name": "img_p0_3.png",
+                        "height": 36,
+                        "width": 26,
+                        "x": 103.47,
+                        "y": 361.95899999999995
+                    },
+                    {
+                        "name": "img_p0_3.png",
+                        "height": 57,
+                        "width": 19,
+                        "x": 238.81,
+                        "y": 335.53999999999996,
+                        "original_width": 26,
+                        "original_height": 36
+                    },
+                    {
+                        "name": "img_p0_3.png",
+                        "height": 36,
+                        "width": 26,
+                        "x": 218.8595,
+                        "y": 456.04769999999996
+                    },
+                    {
+                        "name": "img_p0_2.png",
+                        "height": 29,
+                        "width": 40,
+                        "x": 266.5,
+                        "y": 417.29999999999995,
+                        "original_width": 27,
+                        "original_height": 20
+                    },
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 21,
+                        "width": 17,
+                        "x": 99.4,
+                        "y": 432.24999999999994
+                    },
+                    {
+                        "name": "img_p0_2.png",
+                        "height": 41,
+                        "width": 27,
+                        "x": 219.52,
+                        "y": 319.0525,
+                        "original_width": 27,
+                        "original_height": 20
+                    },
+                    {
+                        "name": "img_p0_4.png",
+                        "height": 406,
+                        "width": 575,
+                        "x": 34.5,
+                        "y": 488.2499999999999,
+                        "original_width": 947,
+                        "original_height": 517
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Respiration",
+                        "md": "# Respiration",
+                        "bBox": { "x": 160, "y": 175.92, "w": 7.18, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "C6H12O6 + 6O2 &rarr; 6CO2 + 6H2O",
+                        "md": "C6H12O6 + 6O2 &rarr; 6CO2 + 6H2O",
+                        "bBox": { "x": 48, "y": 48.92, "w": 237.34, "h": 12 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Aerobic respiration:",
+                        "md": "# Aerobic respiration:",
+                        "bBox": { "x": 160, "y": 175.92, "w": 7.18, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. involves oxidation of glucose\n2. produces 38 ATP mlcs per glucose mlc oxidised, CO2 & water\n3. requires oxygen",
+                        "md": "1. involves oxidation of glucose\n2. produces 38 ATP mlcs per glucose mlc oxidised, CO2 & water\n3. requires oxygen",
+                        "bBox": { "x": 48, "y": 90.92, "w": 22.56, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1 Glucose (6C)",
+                        "md": "# 1 Glucose (6C)",
+                        "bBox": { "x": 52, "y": 89.92, "w": 167.52, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "GLYCOLYSIS (in cytosol)",
+                        "md": "# GLYCOLYSIS (in cytosol)",
+                        "bBox": { "x": 44, "y": 85.92, "w": 396.6, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Phosphorylation of sugars",
+                                "Phosphofructokinase (PFK)",
+                                "ATP",
+                                "* 1 glucose mlc &rarr; 2 pyruvate mlcs"
+                            ],
+                            [
+                                "",
+                                "",
+                                "ADP",
+                                "* 2 NADH + net 2 ATP are produced"
+                            ],
+                            ["", "", "", "* O2 is not required for this step."]
+                        ],
+                        "md": "|Phosphorylation of sugars|Phosphofructokinase (PFK)|ATP|* 1 glucose mlc &rarr; 2 pyruvate mlcs|\n|---|---|---|---|\n| | |ADP|* 2 NADH + net 2 ATP are produced|\n| | | |* O2 is not required for this step.|",
+                        "isPerfectTable": true,
+                        "csv": "\"Phosphorylation of sugars\",\"Phosphofructokinase (PFK)\",\"ATP\",\"* 1 glucose mlc &rarr; 2 pyruvate mlcs\"\n\"\",\"\",\"ADP\",\"* 2 NADH + net 2 ATP are produced\"\n\"\",\"\",\"\",\"* O2 is not required for this step.\"",
+                        "bBox": { "x": 24, "y": 90.92, "w": 139.15, "h": 16.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1 Phosphorylation of sugar",
+                        "md": "# 1 Phosphorylation of sugar",
+                        "bBox": { "x": 24, "y": 90.92, "w": 104.94, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "addition of phosphate group from ATP activates the sugars & commits it to the glycolytic pathway",
+                        "md": "addition of phosphate group from ATP activates the sugars & commits it to the glycolytic pathway",
+                        "bBox": { "x": 75, "y": 100.92, "w": 288.61, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2 Lysis",
+                        "md": "# 2 Lysis",
+                        "bBox": { "x": 44, "y": 131.92, "w": 20.29, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1 mlc of fructose-1,6-bisphosphate (6C) lyses to form 2 mlcs of glyceraldehyde-3-phosphate (G3P/TP)(3C)",
+                        "md": "1 mlc of fructose-1,6-bisphosphate (6C) lyses to form 2 mlcs of glyceraldehyde-3-phosphate (G3P/TP)(3C)",
+                        "bBox": { "x": 48, "y": 90.92, "w": 188.39, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "3 Oxidation by dehydrogenation",
+                        "md": "# 3 Oxidation by dehydrogenation",
+                        "bBox": { "x": 29, "y": 166.92, "w": 115.06, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "glyceraldehyde-3-phosphate (G3P/TP) undergoes oxidation/dehydrogenation and phosphorylation",
+                        "md": "glyceraldehyde-3-phosphate (G3P/TP) undergoes oxidation/dehydrogenation and phosphorylation",
+                        "bBox": { "x": 24, "y": 98.92, "w": 170.06, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "4 Substrate-level phosphorylation",
+                        "md": "# 4 Substrate-level phosphorylation",
+                        "bBox": { "x": 24, "y": 98.92, "w": 124.63, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "enzyme-mediated ATP synthesis involves transfer of a phosphate group (P) from a substrate mlc in a metabolic pathway to ADP. occurs during glycolysis and Krebs cycle",
+                        "md": "enzyme-mediated ATP synthesis involves transfer of a phosphate group (P) from a substrate mlc in a metabolic pathway to ADP. occurs during glycolysis and Krebs cycle",
+                        "bBox": { "x": 44, "y": 100.92, "w": 176.56, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "5 Oxidative decarboxylation",
+                        "md": "# 5 Oxidative decarboxylation",
+                        "bBox": { "x": 26, "y": 264.92, "w": 476.12, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "LINK REACTION (in mitochondrial matrix)\n\n- If O2 is present, pyruvate is actively transported into the mitochondrial matrix via a transport protein\n- 2 pyruvate mlcs (3C) undergo oxidative decarboxylation to form 2 acetyl CoA mlcs (2C)\n- 2 NADH + 2 CO2 are produced",
+                        "md": "LINK REACTION (in mitochondrial matrix)\n\n- If O2 is present, pyruvate is actively transported into the mitochondrial matrix via a transport protein\n- 2 pyruvate mlcs (3C) undergo oxidative decarboxylation to form 2 acetyl CoA mlcs (2C)\n- 2 NADH + 2 CO2 are produced",
+                        "bBox": { "x": 26, "y": 131.92, "w": 187.54, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "KREBS CYCLE (in mitochondrial matrix)",
+                        "md": "# KREBS CYCLE (in mitochondrial matrix)",
+                        "bBox": {
+                            "x": 34.5,
+                            "y": 264.92,
+                            "w": 467.62,
+                            "h": 8.04
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "value": "When 1 glucose molecule is oxidised, 2 Acetyl CoA mlcs form and enter the Krebs cycle. Thus 2 turns of the Krebs cycle is necessary to oxidise 1 mlc of glucose.",
+                        "md": "When 1 glucose molecule is oxidised, 2 Acetyl CoA mlcs form and enter the Krebs cycle. Thus 2 turns of the Krebs cycle is necessary to oxidise 1 mlc of glucose.",
+                        "bBox": { "x": 48, "y": 90.92, "w": 199.58, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Oxaloacetate (4C)", "Citrate (6C)"],
+                            ["NADH", ""],
+                            ["NAD", "NADH"],
+                            ["FADH2", "Krebs Cycle"],
+                            ["ATP", "ADP"],
+                            ["CO2", ""],
+                            ["NADH", "\u03b1-ketoglutarate (5C)"],
+                            ["NAD", ""]
+                        ],
+                        "md": "|Oxaloacetate (4C)|Citrate (6C)|\n|---|---|\n|NADH| |\n|NAD|NADH|\n|FADH2|Krebs Cycle|\n|ATP|ADP|\n|CO2| |\n|NADH|\u03b1-ketoglutarate (5C)|\n|NAD| |",
+                        "isPerfectTable": true,
+                        "csv": "\"Oxaloacetate (4C)\",\"Citrate (6C)\"\n\"NADH\",\"\"\n\"NAD\",\"NADH\"\n\"FADH2\",\"Krebs Cycle\"\n\"ATP\",\"ADP\"\n\"CO2\",\"\"\n\"NADH\",\"\u03b1-ketoglutarate (5C)\"\n\"NAD\",\"\"",
+                        "bBox": {
+                            "x": 48,
+                            "y": 100.92,
+                            "w": 67.52,
+                            "h": 112.04
+                        }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Oxidative Phosphorylation",
+                        "md": "# Oxidative Phosphorylation",
+                        "bBox": { "x": 24, "y": 98.92, "w": 126.23, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "OXIDATIVE PHOSPHORYLATION (on inner mitochondrial membrane)\n\n- When molecular oxygen (O) is available, NADH from glycolysis, the link reaction & the Krebs cycle, donates high energy e-(s) to the first electron carrier of the electron transport chain (ETC) on the inner mitochondrial membrane.\n- The e- first carrier is thus reduced & the NAD which is regenerated can pick up e-(s) and protons from glycolysis, the link reaction or the Krebs cycle.\n- The first reduced e- carrier then transfers the e- to the next e- carrier & reduces it while the first carrier itself becomes reoxidised.\n- The transfer of electrons continues in this manner until they combine with H+ & O2 (the final e- acceptor), to form metabolic H2O in the matrix. This reaction is catalysed by cytochrome oxidase.",
+                        "md": "OXIDATIVE PHOSPHORYLATION (on inner mitochondrial membrane)\n\n- When molecular oxygen (O) is available, NADH from glycolysis, the link reaction & the Krebs cycle, donates high energy e-(s) to the first electron carrier of the electron transport chain (ETC) on the inner mitochondrial membrane.\n- The e- first carrier is thus reduced & the NAD which is regenerated can pick up e-(s) and protons from glycolysis, the link reaction or the Krebs cycle.\n- The first reduced e- carrier then transfers the e- to the next e- carrier & reduces it while the first carrier itself becomes reoxidised.\n- The transfer of electrons continues in this manner until they combine with H+ & O2 (the final e- acceptor), to form metabolic H2O in the matrix. This reaction is catalysed by cytochrome oxidase.",
+                        "bBox": { "x": 24, "y": 98.92, "w": 192.09, "h": 11.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Prepared by:",
+                        "md": "# Prepared by:",
+                        "bBox": { "x": 0, "y": 0, "w": 595.32, "h": 841.92 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Mrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                        "md": "Mrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                        "bBox": { "x": 48, "y": 90.92, "w": 97.38, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 2,
+                "text": "                                                                                                                                                                                                    CO2                                                                          ATP                                                                                        NADH                                                                                  FADH2\n      Glycolysis                                                                                                                                                                                    -                                                                            2 (net)                                                                                    2                                                                                     -\n      Link reaction                                                                                                                                                                                 2                                                                            -                                                                                          1 x 2 = 2                                                                             -\n      Krebs cycle                                                                                                                                                                                   4                                                                            2                                                                                          3 x 2 = 6                                                                             2\n                                                                                                                                              Sub-total                                             6CO2                                                                         4ATP                                                                                       10 NADH                                                                               2 FADH2\n\n      Oxidative phosphorylation\n      * From 1NADH                                                            3 ATP (or 2.5 ATP) form\n      * From 1FADH2                                                               2 ATP (or 1.5 ATP) form\n          Thus from 10 NADH and 2 FADH2                                                                                                                   (10 X 3 ) + ( 2 X 2 ) = 34 ATP form\n\n      Total ATP from the oxidation of 1 glucose molecule: 34 + 4 = 38 ATP\n      * The e-(s)from FADH2 are also transferred down the ETC. However, FADH2 releases the e-(s) lower in the ETC compared to NADH. Hence,\n             Less energy is released from FADH2 during e- transfer. The regenerated FAD then can pick up e(s) and protons from the Krebs cycle.Protons are pumped across this                                                                                                                                                                                                           -\n                                                         membrane as electrons flow through                                                                                                               outer                                                                           * NAD : nicotinamide adenine dinucleotide (a coenzyme)inner                                                          membrane\n                                                                                                                                                                                                                                                                                                                                                                                                                       outer\n                                                         the electron transport chain;                                                                                                                    mitochondrial                                                                   * FAD : flavine adenine dinucleotide (a coenzyme)membrane\n                                                                                                                                                                                                          membrane                                                                        * NAD\n           70S ribosomes                                                                                                                                                                                                                                                                                   a coenzyme and a mobile electron carriercrista\n                                                                                                                                                                                                                       inner                                                                               carries electrons & protons (in its reduced form, NADH) from\n                                                                            High [ Ht ]                                                                                                                                mitochondrial                                                                          organic molecules to electron carriers in ETC & reduces them\n                                                                                                                                                                                                                       membrane                                                                               while, NADH itself is reoxidised to NAD+\n                                                                                                                 pumping of                                                                                                                matrix                                         * The number of ATP molecules produced per glucose molecule\n                                                                                                                 protons                                                                                                                                                                          can vary between 36 to 38. This is because the mitochondrial\n                                                                                                        Low [ Ht                                                                                                                                                                                  membrane is impermeable to the NADH generated by glycolysis.\n                                                                                                                                                                                                                                                                                                  The H+ and electrons of the NADH are passed to either NAD orparticle\n                                                                                                                                                                                                                                                                                                                                                                      stalked           matrix\n                                                                                                                                                                                                                intermembrane                                                                     FAD inside the mitochondrion via a shuttle system, and ifATP\n                                                                                                                                                                                                                 space                                                                            passed to FAD, only 2 ATP will be produced instead of 3.synthase\n                                                                                                                                                                                                                                                                                                                        tip of stalked particle has\n                    circular DNA                                                                                                                                           ATP synthase                                                                                                   * Chemiosmosis: an energy coupling mechanism that uses\n                                                                         A mitochondrion                                                                                                                                                                                                          energy stored in the form of hydrogen ion gradient across a\n                                                                                                                                                                                                                                                                                                  membrane to synthesise ATP.\n\n   Anaerobic respiration: (1) involves oxidation of glucose in absence of oxygen (2) produces 2 ATP mlcs per glucose molecule\n                                                                                                                                      Glucose                                                                                                                                                                                                                          * In the absence of oxygen (O2), there is no\n                                                                        Phosphofructokinase(PFK)                                                                      ATP                                                                                                                                                                                                   final e- acceptor to accept electrons from the\n                                                                                                                                                                      ADP                                                                                                                                                                                                   electron transport chain (ETC).\n                                                                                                                    Fructose 1, 6-bisphosphate (6C)                                                                                                                                                                                                                    * Electron carriers remain reduced and so\n                                                                                                                                                                                                                                                                                                                                                                            NADH and FADH2 can no longer donate\n                                                                          Glyceraldehyde-3 phosphate (3C)                                                                                                                     Dihydroxyacetone                                                                                                                              electrons to the ETC. Hence oxidative\n                                                                          (G3P)                                                                                        NAD                                                    phosphate                                                                                                                                     phosphorylation (OP) cannot occur .\n                                                                                                                            Pi >                                       NADH\n                                                                                                                      1, 3-bisphophoglycerate (3C)                                                                                                                                                                                                                     * In absence of oxidative phosphorylation, there\n                                                                                                                                                                                                                                                                                                                                                                              there is no regeneration of NAD & FAD and\n                                                                                                                                                                      ADP                                                                                                                                                                                                     thus the link reaction & Krebs cycle cannot\n                                                                                                                                                                >ATP                                                                                                                                                                                                          occur (because there are no e- acceptors i.e.\n                                                                                                                  Glycerate-                            'phosphate (3C                                                                                                                                                                                                        NAD & FAD).\n                                                                                                                 (GP                                                  ADP\n                                                                                                                                                                 > ATP                                                                                                                                                                                                 * In the absence of oxygen, glycolysis can still\n                                                                                                                                       Pyruvate (3C)                                                                                                                                                                                                                          occur as the NAD needed for glycolysis is\n                                                                                                                                                                                                                                                                                                                                                                              regenerated from fermentation reactions.\n                             NAD                          NADH                                                                                                                                                     NADH                            NAD                                                                                                                 * Alcoholic fermentation occurs in yeasts while\n       Ethanol                                                                 Ethanal                                                                                                                                                                            Lactate                                                                                                   lactate fermentation occurs in muscles of\n                                                                                 +                                                                                                                                                                                                                                                                                          animals.\n                                                                           CO2                                                                                                                                                                                                                                                                                         * Both fermentation reactions regenerate\n                                                                                                                                                                                                                                                                                                                                                                            NAD from NADH in order to keep glycolysis\n                                          alcoholic fermentation                                                                                                                        lactic acid fermentation                                                                                                                                                            going. ATP is only produced from glycolysis.\n                                                             (in yeast)                                                                                                                                   (in humans)                                                                                                                                                  * In animals                                                pyruvate is reduced by e- (s)\n                                                                                                                                                                                            Lactate is transported in the blood                                                                                                                                             from NADH in the presence of lactate\n                                                                                                                                                                                            to the liver where it is converted                                                                                                                                              dehydrogenase to lactate.\n                                                                                                                                                                                            back to pyruvate which can then                                                                                                                                                 In yeasts\n                                                                                                                                                                                                                                                                                                                                                                            and CO2 . Ethanal is then reduced by e- (s) pyruvate converted to ethanal\n                                                                                                                                                                                            enter the link reaction again during                                                                                                                                            from NADH in the presence of alcohol\n                                                                                                                                                                                            aerobic respiration.                                                                                                                                                            dehydrogenase to ethanol.\n                                                                                                                                                                                                                                                                                                                                                                       * Thus pyruvate or ethanal are the final e-\n                                                                                                                                                                                                                                                                                                                                                                            acceptors during anaerobic respiration.\n\n                                                                                                                                                                                                                                                                                                                                                                       * Only 2 ATP mlcs. are produced per glucose\n                                                                                                                                                                                                                                                                                                                                                                              mlc. during anaerobic respiration. This is 19\n                                                                                                                                                                                                                                                                                                                                                                              times lower compared to aerobic respiration\n                                                                                                                                                                                                                                                                                                                                                                              which produces 38 ATP mlcs. per glucose mlc.\n\n                                                                                                                                                                                                                                                                                                                                                                       * Fermentation reactions occur in the cytosol.\n\nPrepared by: Mrs Selvamani Nair (2018)                                                                                                                                                                                                                  Raffles Institution (Yr 5-6)                                                                                                                                                                                       2",
+                "md": "# Cellular Respiration\n\n# Energy Yield from Glucose Oxidation\n\n|Process|CO2|ATP|NADH|FADH2|\n|---|---|---|---|---|\n|Glycolysis|-|2 (net)|2|-|\n|Link reaction|2|-|1 x 2 = 2|-|\n|Krebs cycle|4|2|3 x 2 = 6|2|\n|Sub-total|6 CO2|4 ATP|10 NADH|2 FADH2|\n\n# Oxidative Phosphorylation\n\n- From 1 NADH: 3 ATP (or 2.5 ATP) form\n- From 1 FADH2: 2 ATP (or 1.5 ATP) form\n\nThus from 10 NADH and 2 FADH2: (10 x 3) + (2 x 2) = 34 ATP form\n\nTotal ATP from the oxidation of 1 glucose molecule: 34 + 4 = 38 ATP\n\nThe e-(s) from FADH2 are also transferred down the ETC. However, FADH2 releases the e-(s) lower in the ETC compared to NADH. Hence, less energy is released from FADH2 during e- transfer. The regenerated FAD then can pick up e-(s) and protons from the Krebs cycle. Protons are pumped across this membrane as electrons flow through the electron transport chain; the outer mitochondrial membrane.\n\nNAD: nicotinamide adenine dinucleotide (a coenzyme)\n\nFAD: flavine adenine dinucleotide (a coenzyme)\n\n70S ribosomes\n\nHigh [H+]\n\nLow [H+]\n\nATP synthase\n\nCircular DNA\n\nA mitochondrion\n\nChemiosmosis: an energy coupling mechanism that uses energy stored in the form of hydrogen ion gradient across a membrane to synthesise ATP.\n\n# Anaerobic Respiration\n\n(1) involves oxidation of glucose in absence of oxygen (2) produces 2 ATP mlcs per glucose molecule\n\nIn the absence of oxygen (O2), there is no final e- acceptor to accept electrons from the electron transport chain (ETC).\n\nElectron carriers remain reduced and so NADH and FADH2 can no longer donate electrons to the ETC. Hence oxidative phosphorylation (OP) cannot occur.\n\nIn absence of oxidative phosphorylation, there is no regeneration of NAD & FAD and thus the link reaction & Krebs cycle cannot occur (because there are no e- acceptors i.e. NAD & FAD).\n\nIn the absence of oxygen, glycolysis can still occur as the NAD needed for glycolysis is regenerated from fermentation reactions.\n\nAlcoholic fermentation occurs in yeasts while lactate fermentation occurs in muscles of animals.\n\nBoth fermentation reactions regenerate NAD from NADH in order to keep glycolysis going. ATP is only produced from glycolysis.\n\nIn animals, pyruvate is reduced by e-(s) from NADH in the presence of lactate dehydrogenase to lactate.\n\nIn yeasts, pyruvate is converted to ethanal from NADH in the presence of alcohol dehydrogenase to ethanol.\n\nThus pyruvate or ethanal are the final e- acceptors during anaerobic respiration.\n\nOnly 2 ATP mlcs are produced per glucose mlc during anaerobic respiration. This is 19 times lower compared to aerobic respiration which produces 38 ATP mlcs per glucose mlc.\n\nFermentation reactions occur in the cytosol.\n\nPrepared by: Mrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                "images": [
+                    {
+                        "name": "img_p1_1.png",
+                        "height": 287,
+                        "width": 790,
+                        "x": 36,
+                        "y": 179.39999999999998,
+                        "original_width": 1977,
+                        "original_height": 719
+                    },
+                    {
+                        "name": "img_p1_2.png",
+                        "height": 372,
+                        "width": 443,
+                        "x": 100.3,
+                        "y": 382.2999999999999,
+                        "original_width": 374,
+                        "original_height": 314
+                    },
+                    {
+                        "name": "img_p1_3.png",
+                        "height": 34,
+                        "width": 56,
+                        "x": 74.35,
+                        "y": 554.9999999999999,
+                        "original_width": 81,
+                        "original_height": 51
+                    },
+                    {
+                        "name": "img_p1_4.png",
+                        "height": 35,
+                        "width": 61,
+                        "x": 243.05,
+                        "y": 553.15,
+                        "original_width": 88,
+                        "original_height": 51
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Cellular Respiration",
+                        "md": "# Cellular Respiration",
+                        "bBox": { "x": 0, "y": 0, "w": 595.32, "h": 841.92 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Energy Yield from Glucose Oxidation",
+                        "md": "# Energy Yield from Glucose Oxidation",
+                        "bBox": {
+                            "x": 160.71,
+                            "y": 385.97,
+                            "w": 28.37,
+                            "h": 7.35
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Process", "CO2", "ATP", "NADH", "FADH2"],
+                            ["Glycolysis", "-", "2 (net)", "2", "-"],
+                            ["Link reaction", "2", "-", "1 x 2 = 2", "-"],
+                            ["Krebs cycle", "4", "2", "3 x 2 = 6", "2"],
+                            [
+                                "Sub-total",
+                                "6 CO2",
+                                "4 ATP",
+                                "10 NADH",
+                                "2 FADH2"
+                            ]
+                        ],
+                        "md": "|Process|CO2|ATP|NADH|FADH2|\n|---|---|---|---|---|\n|Glycolysis|-|2 (net)|2|-|\n|Link reaction|2|-|1 x 2 = 2|-|\n|Krebs cycle|4|2|3 x 2 = 6|2|\n|Sub-total|6 CO2|4 ATP|10 NADH|2 FADH2|",
+                        "isPerfectTable": true,
+                        "csv": "\"Process\",\"CO2\",\"ATP\",\"NADH\",\"FADH2\"\n\"Glycolysis\",\"-\",\"2 (net)\",\"2\",\"-\"\n\"Link reaction\",\"2\",\"-\",\"1 x 2 = 2\",\"-\"\n\"Krebs cycle\",\"4\",\"2\",\"3 x 2 = 6\",\"2\"\n\"Sub-total\",\"6 CO2\",\"4 ATP\",\"10 NADH\",\"2 FADH2\"",
+                        "bBox": { "x": 41, "y": 43.92, "w": 191.8, "h": 8.4 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Oxidative Phosphorylation",
+                        "md": "# Oxidative Phosphorylation",
+                        "bBox": { "x": 41, "y": 101.92, "w": 100.87, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- From 1 NADH: 3 ATP (or 2.5 ATP) form\n- From 1 FADH2: 2 ATP (or 1.5 ATP) form\n\nThus from 10 NADH and 2 FADH2: (10 x 3) + (2 x 2) = 34 ATP form\n\nTotal ATP from the oxidation of 1 glucose molecule: 34 + 4 = 38 ATP\n\nThe e-(s) from FADH2 are also transferred down the ETC. However, FADH2 releases the e-(s) lower in the ETC compared to NADH. Hence, less energy is released from FADH2 during e- transfer. The regenerated FAD then can pick up e-(s) and protons from the Krebs cycle. Protons are pumped across this membrane as electrons flow through the electron transport chain; the outer mitochondrial membrane.\n\nNAD: nicotinamide adenine dinucleotide (a coenzyme)\n\nFAD: flavine adenine dinucleotide (a coenzyme)\n\n70S ribosomes\n\nHigh [H+]\n\nLow [H+]\n\nATP synthase\n\nCircular DNA\n\nA mitochondrion\n\nChemiosmosis: an energy coupling mechanism that uses energy stored in the form of hydrogen ion gradient across a membrane to synthesise ATP.",
+                        "md": "- From 1 NADH: 3 ATP (or 2.5 ATP) form\n- From 1 FADH2: 2 ATP (or 1.5 ATP) form\n\nThus from 10 NADH and 2 FADH2: (10 x 3) + (2 x 2) = 34 ATP form\n\nTotal ATP from the oxidation of 1 glucose molecule: 34 + 4 = 38 ATP\n\nThe e-(s) from FADH2 are also transferred down the ETC. However, FADH2 releases the e-(s) lower in the ETC compared to NADH. Hence, less energy is released from FADH2 during e- transfer. The regenerated FAD then can pick up e-(s) and protons from the Krebs cycle. Protons are pumped across this membrane as electrons flow through the electron transport chain; the outer mitochondrial membrane.\n\nNAD: nicotinamide adenine dinucleotide (a coenzyme)\n\nFAD: flavine adenine dinucleotide (a coenzyme)\n\n70S ribosomes\n\nHigh [H+]\n\nLow [H+]\n\nATP synthase\n\nCircular DNA\n\nA mitochondrion\n\nChemiosmosis: an energy coupling mechanism that uses energy stored in the form of hydrogen ion gradient across a membrane to synthesise ATP.",
+                        "bBox": { "x": 41, "y": 43.92, "w": 279.8, "h": 9.47 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Anaerobic Respiration",
+                        "md": "# Anaerobic Respiration",
+                        "bBox": { "x": 0, "y": 0, "w": 595.32, "h": 841.92 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "(1) involves oxidation of glucose in absence of oxygen (2) produces 2 ATP mlcs per glucose molecule\n\nIn the absence of oxygen (O2), there is no final e- acceptor to accept electrons from the electron transport chain (ETC).\n\nElectron carriers remain reduced and so NADH and FADH2 can no longer donate electrons to the ETC. Hence oxidative phosphorylation (OP) cannot occur.\n\nIn absence of oxidative phosphorylation, there is no regeneration of NAD & FAD and thus the link reaction & Krebs cycle cannot occur (because there are no e- acceptors i.e. NAD & FAD).\n\nIn the absence of oxygen, glycolysis can still occur as the NAD needed for glycolysis is regenerated from fermentation reactions.\n\nAlcoholic fermentation occurs in yeasts while lactate fermentation occurs in muscles of animals.\n\nBoth fermentation reactions regenerate NAD from NADH in order to keep glycolysis going. ATP is only produced from glycolysis.\n\nIn animals, pyruvate is reduced by e-(s) from NADH in the presence of lactate dehydrogenase to lactate.\n\nIn yeasts, pyruvate is converted to ethanal from NADH in the presence of alcohol dehydrogenase to ethanol.\n\nThus pyruvate or ethanal are the final e- acceptors during anaerobic respiration.\n\nOnly 2 ATP mlcs are produced per glucose mlc during anaerobic respiration. This is 19 times lower compared to aerobic respiration which produces 38 ATP mlcs per glucose mlc.\n\nFermentation reactions occur in the cytosol.\n\nPrepared by: Mrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                        "md": "(1) involves oxidation of glucose in absence of oxygen (2) produces 2 ATP mlcs per glucose molecule\n\nIn the absence of oxygen (O2), there is no final e- acceptor to accept electrons from the electron transport chain (ETC).\n\nElectron carriers remain reduced and so NADH and FADH2 can no longer donate electrons to the ETC. Hence oxidative phosphorylation (OP) cannot occur.\n\nIn absence of oxidative phosphorylation, there is no regeneration of NAD & FAD and thus the link reaction & Krebs cycle cannot occur (because there are no e- acceptors i.e. NAD & FAD).\n\nIn the absence of oxygen, glycolysis can still occur as the NAD needed for glycolysis is regenerated from fermentation reactions.\n\nAlcoholic fermentation occurs in yeasts while lactate fermentation occurs in muscles of animals.\n\nBoth fermentation reactions regenerate NAD from NADH in order to keep glycolysis going. ATP is only produced from glycolysis.\n\nIn animals, pyruvate is reduced by e-(s) from NADH in the presence of lactate dehydrogenase to lactate.\n\nIn yeasts, pyruvate is converted to ethanal from NADH in the presence of alcohol dehydrogenase to ethanol.\n\nThus pyruvate or ethanal are the final e- acceptors during anaerobic respiration.\n\nOnly 2 ATP mlcs are produced per glucose mlc during anaerobic respiration. This is 19 times lower compared to aerobic respiration which produces 38 ATP mlcs per glucose mlc.\n\nFermentation reactions occur in the cytosol.\n\nPrepared by: Mrs Selvamani Nair (2018)\n\nRaffles Institution (Yr 5-6)",
+                        "bBox": { "x": 36, "y": 43.92, "w": 284.8, "h": 11.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 3,
+                "text": "            ATP : adenosine triphosphate\n\n            * ATP: universal energy currency\n            * Energy released from glucose oxidation during respiration is used to make ATP from ADP + Pi\n            * ATP made can then be hydrolysed to ADP + P, releasing energy in the processi\n            * Removal of terminal phosphate group from ATP yields 30.6 kJ/mol of free energy\n                  This energy is useful for cellular work such as muscle contraction, maintenance of constant body temperature and active transport\n            * When ATP is hydrolysed, it is incorrect to say that a \u201chigh energy bond\u201d is broken. Instead modification occurs to the molecule as a whole and\n              there is a net release of energy when the phosphate group is removed\n            * ATP is actually carrier of energy, does not store energy (compare: fats and glycogen which store energy)\n            * ATP is the same nucleoside triphosphate used to form RNA\n\n Differences between Photosynthesis and Aerobic Respiration\nFeature                              Photosynthesis\nAnabolic/ Catabolic                  Anabolic\n                                     Synthesis of carbohydrate molecules from simple\n                                     inorganic molecules\nEnergy storage                       Energy from light          stored in carbohydrates\n\nOxygen                               Released\nCO2 & HO2                            Used\nDry mass                             Increases\nConditions                           In cells possessing chlorophyll, and in the presence of light\nOrganelle                            Chloroplast\nElectron carrier                     NADP\nHigh [H+]                            Thylakoid space\nMajor reactions                      Light-dependent reaction (cyclic & non-cyclic\n                                     photophosphorylation^) and Calvin cycle\n\nAerobic Respiration\nCatabolic\nBreakdown of carbohydrate molecules into simple\ninorganic molecules\nEnergy from carbohydrates               incorporated into\nATP (for use in energy-requiring processes)\nUsed\nReleased\nDecreases\nIn all living cells, in the presence of oxygen\nMitochondrion (and cytosol)\nNAD, FAD\nIntermembrane space\nGlycolysis, link reaction, Krebs cycle, oxidative\nphosphorylation\n\n            Compare Photophosphorylation and Oxidative Phosphorylation\n            Feature                              Photophosphorylation                                                  Oxidative Phosphorylation\n            Location                             Both processes take place on membranes\n                                                 Thylakoid membrane of chloroplast                                     Inner mitochondrial membrane\n            Involvement of light                 Light energy needed for splitting of water                            Light energy not needed\n            Source of energy for                 Ultimately comes from light                                           Comes from oxidation of glucose (chemical energy)\n            ATP synthesis\n            Energy conversion                    Light energy \u2190 Chemical energy                                        Chemical energy (glucose) \u2190 Chemical energy (ATP)\n            Electron donors                      Non-cyclic: water. Cyclic: P700 in PSI.                               NADH and FADH2\n            Electron acceptors                   Non-cyclic: NADP. Cyclic: P700 in PSI.                                Oxygen (and it combines with H+ to produce metabolic water)\n            By-product                           Photolysis of water produces O2 as a by-product in                    HO is produced when oxygen combines with electrons and\n                                                                                                                         2\n                                                 non-cyclic photophosphorylation                                       H+ at the end of the ETC\n            Proton gradient                      Energy lost from the flow of electrons along ETC is used to actively pump protons across a membrane to generate a\n                                                 proton gradient\n                                                 ADP is phosphorylated to ATP via ATP synthase using energy directly from the flow of protons down their gradient in\n                                                 chemiosmosis\n                                                 Protons are pumped inwards from stroma across                         Protons are pumped outwards from matrix across inner\n                                                 thylakoid membrane into thylakoid space                               mitochondrial membrane into intermembrane space\n\n Distinguish between Calvin and Krebs cycle\nFeature                            Calvin Cycle\nLocation                           Stroma of chloroplast\nRedox reaction                     Reduction\n                                   NADPH reduces GP\nCarbon dioxide                     Fixed by RuBisCO (1 molecule accepted by RuBP per\n                                   cycle, catalyzed by RuBisCO)\nATP                                Used in reduction of GP to G3P and regeneration of RuBP\nSubstance regenerated              Ribulose bisphosphate (5C)\n\nKrebs Cycle\nMitochondrial matrix\nOxidation (by dehydrogenation)\nNAD, FAD oxidize intermediates\nReleased by oxidative decarboxylation (2 molecules\nper cycle)\nSynthesised by substrate-level phosphorylation\nOxaloacetate (4C)\n\n            Functions of NAD & FAD\n            1. The high-energy electrons yielded from the oxidation of organic food such as carbohydrates, fats and proteins in glycolysis, link reaction\n                 and Krebs cycle are transferred to NAD and FAD, reducing them and forming NADH and FADH2\n            2. They are coenzymes which serve as mobile electron carriers which transport the high-energy electrons from organic molecules to the\n                 electron transport chain in the inner mitochondrial membrane\n            3. By passing their electrons to the electron transport chain, NADH and FADH2 are oxidized, regenerating NAD and FAD, allowing them to pick\n                 up more electrons and protons from glycolysis, link reaction and Krebs cycle\n\n            Functions of ETC\n            1. Generating a proton motive force to produce ATP\n            2. Regeneration of coenzymes NAD and FAD so that they can pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n\n            Importance of Oxygen\n            1. By acting as the final electron acceptor at the end of the ETC where it combines with electrons and protons to form water, O2 re-oxidises the\n                 ETC so that the electron carriers NADH and FADH2 can continue donating their electrons to the chain, thereby allowing oxidative\n                 phosphorylation to continue to generate ATP\n            2. NAD and FAD are regenerated when NADH and FADH2 donate electrons to the ETC, allowing NAD and FAD to pick up more electrons and\n            3. Reduction of oxygen to water removes H+ from the matrix, contributing to the generation of a proton gradient across the inner mitochondrial\n                                                                                                                                                          protons from glycolysis, link reaction and Krebs cycle\n                 membrane\n            Prepared by: Mrs Selvamani Nair (2018)                                              Raffles Institution (Yr 5-6)                                                                       3",
+                "md": "# ATP : adenosine triphosphate\n\n- ATP: universal energy currency\n- Energy released from glucose oxidation during respiration is used to make ATP from ADP + Pi\n- ATP made can then be hydrolysed to ADP + P, releasing energy in the process\n- Removal of terminal phosphate group from ATP yields 30.6 kJ/mol of free energy\nThis energy is useful for cellular work such as muscle contraction, maintenance of constant body temperature and active transport\n- When ATP is hydrolysed, it is incorrect to say that a \u201chigh energy bond\u201d is broken. Instead modification occurs to the molecule as a whole and there is a net release of energy when the phosphate group is removed\n- ATP is actually carrier of energy, does not store energy (compare: fats and glycogen which store energy)\n- ATP is the same nucleoside triphosphate used to form RNA\n\n# Differences between Photosynthesis and Aerobic Respiration\n\n|Feature|Photosynthesis|Aerobic Respiration|\n|---|---|---|\n|Anabolic/ Catabolic|Anabolic|Catabolic|\n| |Synthesis of carbohydrate molecules from simple inorganic molecules|Breakdown of carbohydrate molecules into simple inorganic molecules|\n|Energy storage|Energy from light stored in carbohydrates|Energy from carbohydrates incorporated into ATP (for use in energy-requiring processes)|\n|Oxygen|Released|Used|\n|CO2 & H2O|Used|Released|\n|Dry mass|Increases|Decreases|\n|Conditions|In cells possessing chlorophyll, and in the presence of light|In all living cells, in the presence of oxygen|\n|Organelle|Chloroplast|Mitochondrion (and cytosol)|\n|Electron carrier|NADP|NAD, FAD|\n|High [H+]|Thylakoid space|Intermembrane space|\n|Major reactions|Light-dependent reaction (cyclic & non-cyclic photophosphorylation) and Calvin cycle|Glycolysis, link reaction, Krebs cycle, oxidative phosphorylation|\n\n# Compare Photophosphorylation and Oxidative Phosphorylation\n\n|Feature|Photophosphorylation|Oxidative Phosphorylation|\n|---|---|---|\n|Location|Thylakoid membrane of chloroplast|Inner mitochondrial membrane|\n|Involvement of light|Light energy needed for splitting of water|Light energy not needed|\n|Source of energy for ATP synthesis|Ultimately comes from light|Comes from oxidation of glucose (chemical energy)|\n|Energy conversion|Light energy \u2190 Chemical energy|Chemical energy (glucose) \u2190 Chemical energy (ATP)|\n|Electron donors|Non-cyclic: water. Cyclic: P700 in PSI.|NADH and FADH2|\n|Electron acceptors|Non-cyclic: NADP. Cyclic: P700 in PSI.|Oxygen (and it combines with H+ to produce metabolic water)|\n|By-product|Photolysis of water produces O2 as a by-product in non-cyclic photophosphorylation|H2O is produced when oxygen combines with electrons and H+ at the end of the ETC|\n|Proton gradient|Energy lost from the flow of electrons along ETC is used to actively pump protons across a membrane to generate a proton gradient|ADP is phosphorylated to ATP via ATP synthase using energy directly from the flow of protons down their gradient in chemiosmosis|\n| |Protons are pumped inwards from stroma across thylakoid membrane into thylakoid space|Protons are pumped outwards from matrix across inner mitochondrial membrane into intermembrane space|\n\n# Distinguish between Calvin and Krebs cycle\n\n|Feature|Calvin Cycle|Krebs Cycle|\n|---|---|---|\n|Location|Stroma of chloroplast|Mitochondrial matrix|\n|Redox reaction|Reduction|Oxidation (by dehydrogenation)|\n|Carbon dioxide|Fixed by RuBisCO (1 molecule accepted by RuBP per cycle, catalyzed by RuBisCO)|Released by oxidative decarboxylation (2 molecules per cycle)|\n|ATP|Used in reduction of GP to G3P and regeneration of RuBP|Synthesised by substrate-level phosphorylation|\n|Substance regenerated|Ribulose bisphosphate (5C)|Oxaloacetate (4C)|\n\n# Functions of NAD & FAD\n\n1. The high-energy electrons yielded from the oxidation of organic food such as carbohydrates, fats and proteins in glycolysis, link reaction and Krebs cycle are transferred to NAD and FAD, reducing them and forming NADH and FADH2\n2. They are coenzymes which serve as mobile electron carriers which transport the high-energy electrons from organic molecules to the electron transport chain in the inner mitochondrial membrane\n3. By passing their electrons to the electron transport chain, NADH and FADH2 are oxidized, regenerating NAD and FAD, allowing them to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n\n# Functions of ETC\n\n1. Generating a proton motive force to produce ATP\n2. Regeneration of coenzymes NAD and FAD so that they can pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n\n# Importance of Oxygen\n\n1. By acting as the final electron acceptor at the end of the ETC where it combines with electrons and protons to form water, O2 re-oxidises the ETC so that the electron carriers NADH and FADH2 can continue donating their electrons to the chain, thereby allowing oxidative phosphorylation to continue to generate ATP\n2. NAD and FAD are regenerated when NADH and FADH2 donate electrons to the ETC, allowing NAD and FAD to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n3. Reduction of oxygen to water removes H+ from the matrix, contributing to the generation of a proton gradient across the inner mitochondrial membrane\n\nPrepared by: Mrs Selvamani Nair (2018) Raffles Institution (Yr 5-6)",
+                "images": [],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "ATP : adenosine triphosphate",
+                        "md": "# ATP : adenosine triphosphate",
+                        "bBox": { "x": 36, "y": 44.92, "w": 113.4, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- ATP: universal energy currency\n- Energy released from glucose oxidation during respiration is used to make ATP from ADP + Pi\n- ATP made can then be hydrolysed to ADP + P, releasing energy in the process\n- Removal of terminal phosphate group from ATP yields 30.6 kJ/mol of free energy\nThis energy is useful for cellular work such as muscle contraction, maintenance of constant body temperature and active transport\n- When ATP is hydrolysed, it is incorrect to say that a \u201chigh energy bond\u201d is broken. Instead modification occurs to the molecule as a whole and there is a net release of energy when the phosphate group is removed\n- ATP is actually carrier of energy, does not store energy (compare: fats and glycogen which store energy)\n- ATP is the same nucleoside triphosphate used to form RNA",
+                        "md": "- ATP: universal energy currency\n- Energy released from glucose oxidation during respiration is used to make ATP from ADP + Pi\n- ATP made can then be hydrolysed to ADP + P, releasing energy in the process\n- Removal of terminal phosphate group from ATP yields 30.6 kJ/mol of free energy\nThis energy is useful for cellular work such as muscle contraction, maintenance of constant body temperature and active transport\n- When ATP is hydrolysed, it is incorrect to say that a \u201chigh energy bond\u201d is broken. Instead modification occurs to the molecule as a whole and there is a net release of energy when the phosphate group is removed\n- ATP is actually carrier of energy, does not store energy (compare: fats and glycogen which store energy)\n- ATP is the same nucleoside triphosphate used to form RNA",
+                        "bBox": { "x": 36, "y": 84.92, "w": 254.49, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Differences between Photosynthesis and Aerobic Respiration",
+                        "md": "# Differences between Photosynthesis and Aerobic Respiration",
+                        "bBox": { "x": 38, "y": 84.92, "w": 234.28, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Feature",
+                                "Photosynthesis",
+                                "Aerobic Respiration"
+                            ],
+                            ["Anabolic/ Catabolic", "Anabolic", "Catabolic"],
+                            [
+                                "",
+                                "Synthesis of carbohydrate molecules from simple inorganic molecules",
+                                "Breakdown of carbohydrate molecules into simple inorganic molecules"
+                            ],
+                            [
+                                "Energy storage",
+                                "Energy from light stored in carbohydrates",
+                                "Energy from carbohydrates incorporated into ATP (for use in energy-requiring processes)"
+                            ],
+                            ["Oxygen", "Released", "Used"],
+                            ["CO2 & H2O", "Used", "Released"],
+                            ["Dry mass", "Increases", "Decreases"],
+                            [
+                                "Conditions",
+                                "In cells possessing chlorophyll, and in the presence of light",
+                                "In all living cells, in the presence of oxygen"
+                            ],
+                            [
+                                "Organelle",
+                                "Chloroplast",
+                                "Mitochondrion (and cytosol)"
+                            ],
+                            ["Electron carrier", "NADP", "NAD, FAD"],
+                            [
+                                "High [H+]",
+                                "Thylakoid space",
+                                "Intermembrane space"
+                            ],
+                            [
+                                "Major reactions",
+                                "Light-dependent reaction (cyclic & non-cyclic photophosphorylation) and Calvin cycle",
+                                "Glycolysis, link reaction, Krebs cycle, oxidative phosphorylation"
+                            ]
+                        ],
+                        "md": "|Feature|Photosynthesis|Aerobic Respiration|\n|---|---|---|\n|Anabolic/ Catabolic|Anabolic|Catabolic|\n| |Synthesis of carbohydrate molecules from simple inorganic molecules|Breakdown of carbohydrate molecules into simple inorganic molecules|\n|Energy storage|Energy from light stored in carbohydrates|Energy from carbohydrates incorporated into ATP (for use in energy-requiring processes)|\n|Oxygen|Released|Used|\n|CO2 & H2O|Used|Released|\n|Dry mass|Increases|Decreases|\n|Conditions|In cells possessing chlorophyll, and in the presence of light|In all living cells, in the presence of oxygen|\n|Organelle|Chloroplast|Mitochondrion (and cytosol)|\n|Electron carrier|NADP|NAD, FAD|\n|High [H+]|Thylakoid space|Intermembrane space|\n|Major reactions|Light-dependent reaction (cyclic & non-cyclic photophosphorylation) and Calvin cycle|Glycolysis, link reaction, Krebs cycle, oxidative phosphorylation|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Photosynthesis\",\"Aerobic Respiration\"\n\"Anabolic/ Catabolic\",\"Anabolic\",\"Catabolic\"\n\"\",\"Synthesis of carbohydrate molecules from simple inorganic molecules\",\"Breakdown of carbohydrate molecules into simple inorganic molecules\"\n\"Energy storage\",\"Energy from light stored in carbohydrates\",\"Energy from carbohydrates incorporated into ATP (for use in energy-requiring processes)\"\n\"Oxygen\",\"Released\",\"Used\"\n\"CO2 & H2O\",\"Used\",\"Released\"\n\"Dry mass\",\"Increases\",\"Decreases\"\n\"Conditions\",\"In cells possessing chlorophyll, and in the presence of light\",\"In all living cells, in the presence of oxygen\"\n\"Organelle\",\"Chloroplast\",\"Mitochondrion (and cytosol)\"\n\"Electron carrier\",\"NADP\",\"NAD, FAD\"\n\"High [H+]\",\"Thylakoid space\",\"Intermembrane space\"\n\"Major reactions\",\"Light-dependent reaction (cyclic & non-cyclic photophosphorylation) and Calvin cycle\",\"Glycolysis, link reaction, Krebs cycle, oxidative phosphorylation\"",
+                        "bBox": { "x": 36, "y": 84.92, "w": 207.86, "h": 90.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Compare Photophosphorylation and Oxidative Phosphorylation",
+                        "md": "# Compare Photophosphorylation and Oxidative Phosphorylation",
+                        "bBox": { "x": 36, "y": 84.92, "w": 242.16, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Feature",
+                                "Photophosphorylation",
+                                "Oxidative Phosphorylation"
+                            ],
+                            [
+                                "Location",
+                                "Thylakoid membrane of chloroplast",
+                                "Inner mitochondrial membrane"
+                            ],
+                            [
+                                "Involvement of light",
+                                "Light energy needed for splitting of water",
+                                "Light energy not needed"
+                            ],
+                            [
+                                "Source of energy for ATP synthesis",
+                                "Ultimately comes from light",
+                                "Comes from oxidation of glucose (chemical energy)"
+                            ],
+                            [
+                                "Energy conversion",
+                                "Light energy \u2190 Chemical energy",
+                                "Chemical energy (glucose) \u2190 Chemical energy (ATP)"
+                            ],
+                            [
+                                "Electron donors",
+                                "Non-cyclic: water. Cyclic: P700 in PSI.",
+                                "NADH and FADH2"
+                            ],
+                            [
+                                "Electron acceptors",
+                                "Non-cyclic: NADP. Cyclic: P700 in PSI.",
+                                "Oxygen (and it combines with H+ to produce metabolic water)"
+                            ],
+                            [
+                                "By-product",
+                                "Photolysis of water produces O2 as a by-product in non-cyclic photophosphorylation",
+                                "H2O is produced when oxygen combines with electrons and H+ at the end of the ETC"
+                            ],
+                            [
+                                "Proton gradient",
+                                "Energy lost from the flow of electrons along ETC is used to actively pump protons across a membrane to generate a proton gradient",
+                                "ADP is phosphorylated to ATP via ATP synthase using energy directly from the flow of protons down their gradient in chemiosmosis"
+                            ],
+                            [
+                                "",
+                                "Protons are pumped inwards from stroma across thylakoid membrane into thylakoid space",
+                                "Protons are pumped outwards from matrix across inner mitochondrial membrane into intermembrane space"
+                            ]
+                        ],
+                        "md": "|Feature|Photophosphorylation|Oxidative Phosphorylation|\n|---|---|---|\n|Location|Thylakoid membrane of chloroplast|Inner mitochondrial membrane|\n|Involvement of light|Light energy needed for splitting of water|Light energy not needed|\n|Source of energy for ATP synthesis|Ultimately comes from light|Comes from oxidation of glucose (chemical energy)|\n|Energy conversion|Light energy \u2190 Chemical energy|Chemical energy (glucose) \u2190 Chemical energy (ATP)|\n|Electron donors|Non-cyclic: water. Cyclic: P700 in PSI.|NADH and FADH2|\n|Electron acceptors|Non-cyclic: NADP. Cyclic: P700 in PSI.|Oxygen (and it combines with H+ to produce metabolic water)|\n|By-product|Photolysis of water produces O2 as a by-product in non-cyclic photophosphorylation|H2O is produced when oxygen combines with electrons and H+ at the end of the ETC|\n|Proton gradient|Energy lost from the flow of electrons along ETC is used to actively pump protons across a membrane to generate a proton gradient|ADP is phosphorylated to ATP via ATP synthase using energy directly from the flow of protons down their gradient in chemiosmosis|\n| |Protons are pumped inwards from stroma across thylakoid membrane into thylakoid space|Protons are pumped outwards from matrix across inner mitochondrial membrane into intermembrane space|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Photophosphorylation\",\"Oxidative Phosphorylation\"\n\"Location\",\"Thylakoid membrane of chloroplast\",\"Inner mitochondrial membrane\"\n\"Involvement of light\",\"Light energy needed for splitting of water\",\"Light energy not needed\"\n\"Source of energy for ATP synthesis\",\"Ultimately comes from light\",\"Comes from oxidation of glucose (chemical energy)\"\n\"Energy conversion\",\"Light energy \u2190 Chemical energy\",\"Chemical energy (glucose) \u2190 Chemical energy (ATP)\"\n\"Electron donors\",\"Non-cyclic: water. Cyclic: P700 in PSI.\",\"NADH and FADH2\"\n\"Electron acceptors\",\"Non-cyclic: NADP. Cyclic: P700 in PSI.\",\"Oxygen (and it combines with H+ to produce metabolic water)\"\n\"By-product\",\"Photolysis of water produces O2 as a by-product in non-cyclic photophosphorylation\",\"H2O is produced when oxygen combines with electrons and H+ at the end of the ETC\"\n\"Proton gradient\",\"Energy lost from the flow of electrons along ETC is used to actively pump protons across a membrane to generate a proton gradient\",\"ADP is phosphorylated to ATP via ATP synthase using energy directly from the flow of protons down their gradient in chemiosmosis\"\n\"\",\"Protons are pumped inwards from stroma across thylakoid membrane into thylakoid space\",\"Protons are pumped outwards from matrix across inner mitochondrial membrane into intermembrane space\"",
+                        "bBox": { "x": 36, "y": 84.92, "w": 412.69, "h": 90.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Distinguish between Calvin and Krebs cycle",
+                        "md": "# Distinguish between Calvin and Krebs cycle",
+                        "bBox": { "x": 38, "y": 84.92, "w": 171.12, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Calvin Cycle", "Krebs Cycle"],
+                            [
+                                "Location",
+                                "Stroma of chloroplast",
+                                "Mitochondrial matrix"
+                            ],
+                            [
+                                "Redox reaction",
+                                "Reduction",
+                                "Oxidation (by dehydrogenation)"
+                            ],
+                            [
+                                "Carbon dioxide",
+                                "Fixed by RuBisCO (1 molecule accepted by RuBP per cycle, catalyzed by RuBisCO)",
+                                "Released by oxidative decarboxylation (2 molecules per cycle)"
+                            ],
+                            [
+                                "ATP",
+                                "Used in reduction of GP to G3P and regeneration of RuBP",
+                                "Synthesised by substrate-level phosphorylation"
+                            ],
+                            [
+                                "Substance regenerated",
+                                "Ribulose bisphosphate (5C)",
+                                "Oxaloacetate (4C)"
+                            ]
+                        ],
+                        "md": "|Feature|Calvin Cycle|Krebs Cycle|\n|---|---|---|\n|Location|Stroma of chloroplast|Mitochondrial matrix|\n|Redox reaction|Reduction|Oxidation (by dehydrogenation)|\n|Carbon dioxide|Fixed by RuBisCO (1 molecule accepted by RuBP per cycle, catalyzed by RuBisCO)|Released by oxidative decarboxylation (2 molecules per cycle)|\n|ATP|Used in reduction of GP to G3P and regeneration of RuBP|Synthesised by substrate-level phosphorylation|\n|Substance regenerated|Ribulose bisphosphate (5C)|Oxaloacetate (4C)|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Calvin Cycle\",\"Krebs Cycle\"\n\"Location\",\"Stroma of chloroplast\",\"Mitochondrial matrix\"\n\"Redox reaction\",\"Reduction\",\"Oxidation (by dehydrogenation)\"\n\"Carbon dioxide\",\"Fixed by RuBisCO (1 molecule accepted by RuBP per cycle, catalyzed by RuBisCO)\",\"Released by oxidative decarboxylation (2 molecules per cycle)\"\n\"ATP\",\"Used in reduction of GP to G3P and regeneration of RuBP\",\"Synthesised by substrate-level phosphorylation\"\n\"Substance regenerated\",\"Ribulose bisphosphate (5C)\",\"Oxaloacetate (4C)\"",
+                        "bBox": { "x": 36, "y": 84.92, "w": 207.2, "h": 90.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Functions of NAD & FAD",
+                        "md": "# Functions of NAD & FAD",
+                        "bBox": { "x": 36, "y": 84.92, "w": 173.12, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. The high-energy electrons yielded from the oxidation of organic food such as carbohydrates, fats and proteins in glycolysis, link reaction and Krebs cycle are transferred to NAD and FAD, reducing them and forming NADH and FADH2\n2. They are coenzymes which serve as mobile electron carriers which transport the high-energy electrons from organic molecules to the electron transport chain in the inner mitochondrial membrane\n3. By passing their electrons to the electron transport chain, NADH and FADH2 are oxidized, regenerating NAD and FAD, allowing them to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle",
+                        "md": "1. The high-energy electrons yielded from the oxidation of organic food such as carbohydrates, fats and proteins in glycolysis, link reaction and Krebs cycle are transferred to NAD and FAD, reducing them and forming NADH and FADH2\n2. They are coenzymes which serve as mobile electron carriers which transport the high-energy electrons from organic molecules to the electron transport chain in the inner mitochondrial membrane\n3. By passing their electrons to the electron transport chain, NADH and FADH2 are oxidized, regenerating NAD and FAD, allowing them to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle",
+                        "bBox": { "x": 36, "y": 84.92, "w": 523.3, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Functions of ETC",
+                        "md": "# Functions of ETC",
+                        "bBox": { "x": 36, "y": 84.92, "w": 173.12, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. Generating a proton motive force to produce ATP\n2. Regeneration of coenzymes NAD and FAD so that they can pick up more electrons and protons from glycolysis, link reaction and Krebs cycle",
+                        "md": "1. Generating a proton motive force to produce ATP\n2. Regeneration of coenzymes NAD and FAD so that they can pick up more electrons and protons from glycolysis, link reaction and Krebs cycle",
+                        "bBox": { "x": 36, "y": 84.92, "w": 512.53, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Importance of Oxygen",
+                        "md": "# Importance of Oxygen",
+                        "bBox": { "x": 36, "y": 84.92, "w": 173.12, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. By acting as the final electron acceptor at the end of the ETC where it combines with electrons and protons to form water, O2 re-oxidises the ETC so that the electron carriers NADH and FADH2 can continue donating their electrons to the chain, thereby allowing oxidative phosphorylation to continue to generate ATP\n2. NAD and FAD are regenerated when NADH and FADH2 donate electrons to the ETC, allowing NAD and FAD to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n3. Reduction of oxygen to water removes H+ from the matrix, contributing to the generation of a proton gradient across the inner mitochondrial membrane\n\nPrepared by: Mrs Selvamani Nair (2018) Raffles Institution (Yr 5-6)",
+                        "md": "1. By acting as the final electron acceptor at the end of the ETC where it combines with electrons and protons to form water, O2 re-oxidises the ETC so that the electron carriers NADH and FADH2 can continue donating their electrons to the chain, thereby allowing oxidative phosphorylation to continue to generate ATP\n2. NAD and FAD are regenerated when NADH and FADH2 donate electrons to the ETC, allowing NAD and FAD to pick up more electrons and protons from glycolysis, link reaction and Krebs cycle\n3. Reduction of oxygen to water removes H+ from the matrix, contributing to the generation of a proton gradient across the inner mitochondrial membrane\n\nPrepared by: Mrs Selvamani Nair (2018) Raffles Institution (Yr 5-6)",
+                        "bBox": { "x": 36, "y": 84.92, "w": 522.99, "h": 11.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 60.0,
+            "job_credits_usage": 3,
+            "job_pages": 3,
+            "job_is_cache_hit": false,
+            "credits_max": 1000
+        },
+        "job_id": "fd1c659e-2510-40a6-bd3e-507facc82665",
+        "file_path": "src/14.pdf"
+    }
+]

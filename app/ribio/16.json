@@ -1,0 +1,1419 @@
+[
+    {
+        "pages": [
+            {
+                "page": 1,
+                "text": "          Genetics and Inheritance (9744)                   Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                            2018\n          General structure of a eukaryotic and prokaryotic cell:\n            Feature                        Eukaryotic cell                                                          Prokaryotic cell (bacteria)\n            Cell size                      Larger: 10-100\u03bcm in diameter                                             Smaller: 0.5 - 5\u03bcm in diameter\n            Nucleus                        Nucleus with nuclear envelope present;                                   No true nucleus / No nuclear envelope\n            Genetic material               Linear DNA associated with many proteins;                                Circular DNA associated with few histone-like proteins;\n                                           Found in membrane bound nucleus;                                         Found in a region of the cytoplasm known as the nucleoid region;\n                                           No plasmids                                                              Plasmids present\n            Ribosome for                   80S;                                                                     70S;\n            protein synthesis              Ribosomes may be attached to ER or free in cytoplasm                     No ER present. Ribosomes free in cytoplasm.\n            Organelles                     Many;                                                                    Few;\n                                           Many membrane bound organelles present;                                  No membrane bound organelles;\n            Cell walls                     Composed of cellulose in plants & chitin in fungi                        Composed of peptidoglycan or murein\n\nStructure of the genome of a prokaryotic and eukaryotic cell:\nFeature                               Structure of Eukaryotic Genome\nSize                                  107-1011 base pairs (larger)\nAppearance                            Multiple, linear molecules\nMolecule                              Double helix DNA\nAssociation with proteins             Yes \u2013 large amounts of it e.g. histones, scaffold proteins\nLevel of DNA                          High: DNA double helix \u2190 negatively charged DNA associated with\npacking/coiling                       positively charged histones via (electrostatic attraction): DNA is wound\n                                      around 8 histone proteins twice to form nucleosomes with linker DNA\n                                      joining adjacent nucleosomes, forming a 10nm fibre/chromation \u2190 which\n                                      coils around itself to form 30nm fibre/solenoid (interphase chromatin)\u2190\n                                      which forms looped domains when associated with scaffold proteins,\n                                      forming 300nm fibre \u2190 which supercoils chromosome (at metaphase) (See\n                                      * below)\nLocation                              Nucleus\nExtrachromosomal DNA                  Yes \u2013 if you consider mitochondria and chloroplast circular DNA\n\n\nStructure of Prokaryotic Genome\n104-107 base pairs (smaller)\nGenerally a single, circular molecule\nDouble helix DNA\nYes \u2013 relatively less histone-like proteins\nRelatively low: DNA double helix \u2190\nfolded into looped domains by protein-\nDNA associations \u2190which undergoes\nsupercoiling with the help of DNA gyrase\nand topoisomerase(See * below)\n\n\n\nNucleoid region \u2013 not membrane-bound\nYes \u2013 plasmids (much smaller rings of\nDNA)\n\nOrganisation of the genome of a prokaryotic and eukaryotic cell:\n                                                              Organisation of Eukaryotic Genome\nNumber of genes                                               25,000\nNon-coding regions (between and within                        Common \u2013 about 98%\ngenes)\ni. presence of introns                                        Many\nii. presence of promoters                                     Yes\niii. presence of repeated sequences                           Many (e.g. telomeres & centromeres)\niv. presence of enhancers/ silencers                          Common\nPresence of operons                                           Very few known ones\n\nOrganisation of Prokaryotic Genome\n4,500\nNot common \u2013 typically less than 15%\n\nRare\nYes\nFew\nRare\nMany\n\n*** How telomerase works\n1. A short 3-nucleotide segment of RNA withinRNA Ju\n     telomerase binds to part of a DNA repeat in\n     the 3\u2019overhang by complementray base pairing.\n\n                                                 3\n 2. The adjacent part of the RNA within telomerase\n     is used as a template to synthesise a short\n     complementary 6-nucleotide DNA repeat.\n\nHistones          DNA double helix\n                                              Nucleosome\n                                                (\u201cbead\u201d)     Circular\n      Linker DNA                                             chromosomal\n       (\u201cstring\u201d)                                            DNA\n            Nucleosomes (10-nm fiber)\n\n\n\n 3. Telomerase catalyses the formation of the\n     phosphodiester bonds between the existingn\n     3\u2019OH group of existing DNA overhang and 5\u2019\n                                          VwV\n     phosphate group of incoming\n     deoxyribonucleotide\n 4. After the repeat is made, telomerase\n   translocates 6 nucleotides to the right in the 5\u2019 synthesizes#a\n   to 3\u2019 direction of the DNA overhang and begins toEtr-nd\n                                                 RNA Frimer}       Enee\n   make another repeat. The above process is\n   repeated such that a series of tandem repeats are\n   made, elongating the telomere.\n5. Then primase makes an RNA primer near the\n   end of the telomere. DNA polymerase adds\n   nucleotides to the 3\u2019OH end of the primer and\n   hence synthesizes a complementary strand .\n   The nick is then sealed by ligase. The RNA\n   primer is eventually removed.\n\n                                                                 Newly synthesized RNA primer\n                                                                 strand                    to be removed\n                                                               Looped\n                                     Nucleosome                domains\n        30-nm fiber or solenoid\n\n                                 Protein scaffold\n\n          Looped domains (300-nm fiber)\n\n                                                              Supercoiling\n\n\n\n\n\n      Metaphase eukaryotic chromosome                 Prokaryotic\n                                                      chromosome\n* Packing of DNA in eukaryotic and prokaryotic\n  chromosomes:\n  The packing of the very long eukaryotic DNA ensures that\n   it fits into the nucleus and that it does not get\n   entangled and break.\n\n\n            Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong S H                                Raffles Institution (Yr 5-6)                                                       1",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# General structure of a eukaryotic and prokaryotic cell:\n\n|Feature|Eukaryotic cell|Prokaryotic cell (bacteria)|\n|---|---|---|\n|Cell size|Larger: 10-100\u03bcm in diameter|Smaller: 0.5 - 5\u03bcm in diameter|\n|Nucleus|Nucleus with nuclear envelope present;|No true nucleus / No nuclear envelope|\n|Genetic material|Linear DNA associated with many proteins; Found in membrane bound nucleus; No plasmids|Circular DNA associated with few histone-like proteins; Found in a region of the cytoplasm known as the nucleoid region; Plasmids present|\n|Ribosome for protein synthesis|80S; Ribosomes may be attached to ER or free in cytoplasm|70S; No ER present. Ribosomes free in cytoplasm.|\n|Organelles|Many; Many membrane bound organelles present;|Few; No membrane bound organelles;|\n|Cell walls|Composed of cellulose in plants & chitin in fungi|Composed of peptidoglycan or murein|\n\n# Structure of the genome of a prokaryotic and eukaryotic cell:\n\n# Structure of Eukaryotic Genome\n\n|Feature|Details|\n|---|---|\n|Size|107-1011 base pairs (larger)|\n|Appearance|Multiple, linear molecules|\n|Molecule|Double helix DNA|\n|Association with proteins|Yes \u2013 large amounts of it e.g. histones, scaffold proteins|\n|Level of DNA packing/coiling|High: DNA double helix \u2190 negatively charged DNA associated with positively charged histones via (electrostatic attraction): DNA is wound around 8 histone proteins twice to form nucleosomes with linker DNA joining adjacent nucleosomes, forming a 10nm fibre/chromatin \u2190 which coils around itself to form 30nm fibre/solenoid (interphase chromatin)\u2190 which forms looped domains when associated with scaffold proteins, forming 300nm fibre \u2190 which supercoils chromosome (at metaphase) (See * below)|\n|Location|Nucleus|\n|Extrachromosomal DNA|Yes \u2013 if you consider mitochondria and chloroplast circular DNA|\n\n# Structure of Prokaryotic Genome\n\n|Feature|Details|\n|---|---|\n|Size|104-107 base pairs (smaller)|\n|Appearance|Generally a single, circular molecule|\n|Molecule|Double helix DNA|\n|Association with proteins|Yes \u2013 relatively less histone-like proteins|\n|Level of DNA packing/coiling|Relatively low: DNA double helix \u2190 folded into looped domains by protein-DNA associations \u2190 which undergoes supercoiling with the help of DNA gyrase and topoisomerase (See * below)|\n|Nucleoid region|Not membrane-bound|\n|Extrachromosomal DNA|Yes \u2013 plasmids (much smaller rings of DNA)|\n\n# Organisation of the genome of a prokaryotic and eukaryotic cell:\n\n# Organisation of Eukaryotic Genome\n\n|Feature|Details|\n|---|---|\n|Number of genes|25,000|\n|Non-coding regions (between and within genes)|Common \u2013 about 98%|\n|i. presence of introns|Many|\n|ii. presence of promoters|Yes|\n|iii. presence of repeated sequences|Many (e.g. telomeres & centromeres)|\n|iv. presence of enhancers/ silencers|Common|\n|Presence of operons|Very few known ones|\n\n# Organisation of Prokaryotic Genome\n\n|Feature|Details|\n|---|---|\n|Number of genes|4,500|\n|Non-coding regions|Not common \u2013 typically less than 15%|\n|i. presence of introns|Rare|\n|ii. presence of promoters|Yes|\n|iii. presence of repeated sequences|Few|\n|iv. presence of enhancers/ silencers|Rare|\n\n# How telomerase works\n\n1. A short 3-nucleotide segment of RNA within telomerase binds to part of a DNA repeat in the 3\u2019 overhang by complementary base pairing.\n2. The adjacent part of the RNA within telomerase is used as a template to synthesise a short complementary 6-nucleotide DNA repeat.\n3. Telomerase catalyses the formation of the phosphodiester bonds between the existing 3\u2019 OH group of existing DNA overhang and 5\u2019 phosphate group of incoming deoxyribonucleotide.\n4. After the repeat is made, telomerase translocates 6 nucleotides to the right in the 5\u2019 to 3\u2019 direction of the DNA overhang and begins to make another repeat. The above process is repeated such that a series of tandem repeats are made, elongating the telomere.\n5. Then primase makes an RNA primer near the end of the telomere. DNA polymerase adds nucleotides to the 3\u2019 OH end of the primer and hence synthesizes a complementary strand. The nick is then sealed by ligase. The RNA primer is eventually removed.\n\n# Visual Representation\n\nNewly synthesized RNA primer strand to be removed\n\nLooped Nucleosome domains\n\n30-nm fiber or solenoid\n\nProtein scaffold\n\nLooped domains (300-nm fiber)\n\nSupercoiling\n\n# Metaphase eukaryotic chromosome\n\n# Prokaryotic chromosome\n\n* Packing of DNA in eukaryotic and prokaryotic chromosomes:\n\nThe packing of the very long eukaryotic DNA ensures that it fits into the nucleus and that it does not get entangled and break.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong S H\n\nRaffles Institution (Yr 5-6)",
+                "images": [
+                    {
+                        "name": "img_p0_1.png",
+                        "height": 514,
+                        "width": 416,
+                        "x": 149.15,
+                        "y": 443.9,
+                        "original_width": 320,
+                        "original_height": 397
+                    },
+                    {
+                        "name": "img_p0_2.png",
+                        "height": 81,
+                        "width": 277,
+                        "x": 216.2,
+                        "y": 694.7990000000001,
+                        "original_width": 243,
+                        "original_height": 61
+                    },
+                    {
+                        "name": "img_p0_3.png",
+                        "height": 473,
+                        "width": 290,
+                        "x": 361,
+                        "y": 446.04999999999995,
+                        "original_width": 228,
+                        "original_height": 600
+                    },
+                    {
+                        "name": "img_p0_4.png",
+                        "height": 77,
+                        "width": 60,
+                        "x": 515.15,
+                        "y": 506.45000000000005,
+                        "original_width": 81,
+                        "original_height": 105
+                    },
+                    {
+                        "name": "img_p0_5.png",
+                        "height": 89,
+                        "width": 75,
+                        "x": 515.15,
+                        "y": 615.95,
+                        "original_width": 217,
+                        "original_height": 177
+                    },
+                    {
+                        "name": "img_p0_6.png",
+                        "height": 86,
+                        "width": 67,
+                        "x": 515.15,
+                        "y": 560.15,
+                        "original_width": 179,
+                        "original_height": 158
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.52, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 161.99, "y": 31, "w": 260.74, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 547, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "General structure of a eukaryotic and prokaryotic cell:",
+                        "md": "# General structure of a eukaryotic and prokaryotic cell:",
+                        "bBox": { "x": 31, "y": 44, "w": 194.37, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Feature",
+                                "Eukaryotic cell",
+                                "Prokaryotic cell (bacteria)"
+                            ],
+                            [
+                                "Cell size",
+                                "Larger: 10-100\u03bcm in diameter",
+                                "Smaller: 0.5 - 5\u03bcm in diameter"
+                            ],
+                            [
+                                "Nucleus",
+                                "Nucleus with nuclear envelope present;",
+                                "No true nucleus / No nuclear envelope"
+                            ],
+                            [
+                                "Genetic material",
+                                "Linear DNA associated with many proteins; Found in membrane bound nucleus; No plasmids",
+                                "Circular DNA associated with few histone-like proteins; Found in a region of the cytoplasm known as the nucleoid region; Plasmids present"
+                            ],
+                            [
+                                "Ribosome for protein synthesis",
+                                "80S; Ribosomes may be attached to ER or free in cytoplasm",
+                                "70S; No ER present. Ribosomes free in cytoplasm."
+                            ],
+                            [
+                                "Organelles",
+                                "Many; Many membrane bound organelles present;",
+                                "Few; No membrane bound organelles;"
+                            ],
+                            [
+                                "Cell walls",
+                                "Composed of cellulose in plants & chitin in fungi",
+                                "Composed of peptidoglycan or murein"
+                            ]
+                        ],
+                        "md": "|Feature|Eukaryotic cell|Prokaryotic cell (bacteria)|\n|---|---|---|\n|Cell size|Larger: 10-100\u03bcm in diameter|Smaller: 0.5 - 5\u03bcm in diameter|\n|Nucleus|Nucleus with nuclear envelope present;|No true nucleus / No nuclear envelope|\n|Genetic material|Linear DNA associated with many proteins; Found in membrane bound nucleus; No plasmids|Circular DNA associated with few histone-like proteins; Found in a region of the cytoplasm known as the nucleoid region; Plasmids present|\n|Ribosome for protein synthesis|80S; Ribosomes may be attached to ER or free in cytoplasm|70S; No ER present. Ribosomes free in cytoplasm.|\n|Organelles|Many; Many membrane bound organelles present;|Few; No membrane bound organelles;|\n|Cell walls|Composed of cellulose in plants & chitin in fungi|Composed of peptidoglycan or murein|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Eukaryotic cell\",\"Prokaryotic cell (bacteria)\"\n\"Cell size\",\"Larger: 10-100\u03bcm in diameter\",\"Smaller: 0.5 - 5\u03bcm in diameter\"\n\"Nucleus\",\"Nucleus with nuclear envelope present;\",\"No true nucleus / No nuclear envelope\"\n\"Genetic material\",\"Linear DNA associated with many proteins; Found in membrane bound nucleus; No plasmids\",\"Circular DNA associated with few histone-like proteins; Found in a region of the cytoplasm known as the nucleoid region; Plasmids present\"\n\"Ribosome for protein synthesis\",\"80S; Ribosomes may be attached to ER or free in cytoplasm\",\"70S; No ER present. Ribosomes free in cytoplasm.\"\n\"Organelles\",\"Many; Many membrane bound organelles present;\",\"Few; No membrane bound organelles;\"\n\"Cell walls\",\"Composed of cellulose in plants & chitin in fungi\",\"Composed of peptidoglycan or murein\"",
+                        "bBox": { "x": 36, "y": 58, "w": 231.01, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure of the genome of a prokaryotic and eukaryotic cell:",
+                        "md": "# Structure of the genome of a prokaryotic and eukaryotic cell:",
+                        "bBox": { "x": 36, "y": 58, "w": 215.62, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure of Eukaryotic Genome",
+                        "md": "# Structure of Eukaryotic Genome",
+                        "bBox": { "x": 144, "y": 185, "w": 122.72, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Details"],
+                            ["Size", "107-1011 base pairs (larger)"],
+                            ["Appearance", "Multiple, linear molecules"],
+                            ["Molecule", "Double helix DNA"],
+                            [
+                                "Association with proteins",
+                                "Yes \u2013 large amounts of it e.g. histones, scaffold proteins"
+                            ],
+                            [
+                                "Level of DNA packing/coiling",
+                                "High: DNA double helix \u2190 negatively charged DNA associated with positively charged histones via (electrostatic attraction): DNA is wound around 8 histone proteins twice to form nucleosomes with linker DNA joining adjacent nucleosomes, forming a 10nm fibre/chromatin \u2190 which coils around itself to form 30nm fibre/solenoid (interphase chromatin)\u2190 which forms looped domains when associated with scaffold proteins, forming 300nm fibre \u2190 which supercoils chromosome (at metaphase) (See * below)"
+                            ],
+                            ["Location", "Nucleus"],
+                            [
+                                "Extrachromosomal DNA",
+                                "Yes \u2013 if you consider mitochondria and chloroplast circular DNA"
+                            ]
+                        ],
+                        "md": "|Feature|Details|\n|---|---|\n|Size|107-1011 base pairs (larger)|\n|Appearance|Multiple, linear molecules|\n|Molecule|Double helix DNA|\n|Association with proteins|Yes \u2013 large amounts of it e.g. histones, scaffold proteins|\n|Level of DNA packing/coiling|High: DNA double helix \u2190 negatively charged DNA associated with positively charged histones via (electrostatic attraction): DNA is wound around 8 histone proteins twice to form nucleosomes with linker DNA joining adjacent nucleosomes, forming a 10nm fibre/chromatin \u2190 which coils around itself to form 30nm fibre/solenoid (interphase chromatin)\u2190 which forms looped domains when associated with scaffold proteins, forming 300nm fibre \u2190 which supercoils chromosome (at metaphase) (See * below)|\n|Location|Nucleus|\n|Extrachromosomal DNA|Yes \u2013 if you consider mitochondria and chloroplast circular DNA|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Details\"\n\"Size\",\"107-1011 base pairs (larger)\"\n\"Appearance\",\"Multiple, linear molecules\"\n\"Molecule\",\"Double helix DNA\"\n\"Association with proteins\",\"Yes \u2013 large amounts of it e.g. histones, scaffold proteins\"\n\"Level of DNA packing/coiling\",\"High: DNA double helix \u2190 negatively charged DNA associated with positively charged histones via (electrostatic attraction): DNA is wound around 8 histone proteins twice to form nucleosomes with linker DNA joining adjacent nucleosomes, forming a 10nm fibre/chromatin \u2190 which coils around itself to form 30nm fibre/solenoid (interphase chromatin)\u2190 which forms looped domains when associated with scaffold proteins, forming 300nm fibre \u2190 which supercoils chromosome (at metaphase) (See * below)\"\n\"Location\",\"Nucleus\"\n\"Extrachromosomal DNA\",\"Yes \u2013 if you consider mitochondria and chloroplast circular DNA\"",
+                        "bBox": { "x": 36, "y": 58, "w": 266.32, "h": 12.87 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure of Prokaryotic Genome",
+                        "md": "# Structure of Prokaryotic Genome",
+                        "bBox": {
+                            "x": 161.99,
+                            "y": 185,
+                            "w": 386.73,
+                            "h": 8.04
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Details"],
+                            ["Size", "104-107 base pairs (smaller)"],
+                            [
+                                "Appearance",
+                                "Generally a single, circular molecule"
+                            ],
+                            ["Molecule", "Double helix DNA"],
+                            [
+                                "Association with proteins",
+                                "Yes \u2013 relatively less histone-like proteins"
+                            ],
+                            [
+                                "Level of DNA packing/coiling",
+                                "Relatively low: DNA double helix \u2190 folded into looped domains by protein-DNA associations \u2190 which undergoes supercoiling with the help of DNA gyrase and topoisomerase (See * below)"
+                            ],
+                            ["Nucleoid region", "Not membrane-bound"],
+                            [
+                                "Extrachromosomal DNA",
+                                "Yes \u2013 plasmids (much smaller rings of DNA)"
+                            ]
+                        ],
+                        "md": "|Feature|Details|\n|---|---|\n|Size|104-107 base pairs (smaller)|\n|Appearance|Generally a single, circular molecule|\n|Molecule|Double helix DNA|\n|Association with proteins|Yes \u2013 relatively less histone-like proteins|\n|Level of DNA packing/coiling|Relatively low: DNA double helix \u2190 folded into looped domains by protein-DNA associations \u2190 which undergoes supercoiling with the help of DNA gyrase and topoisomerase (See * below)|\n|Nucleoid region|Not membrane-bound|\n|Extrachromosomal DNA|Yes \u2013 plasmids (much smaller rings of DNA)|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Details\"\n\"Size\",\"104-107 base pairs (smaller)\"\n\"Appearance\",\"Generally a single, circular molecule\"\n\"Molecule\",\"Double helix DNA\"\n\"Association with proteins\",\"Yes \u2013 relatively less histone-like proteins\"\n\"Level of DNA packing/coiling\",\"Relatively low: DNA double helix \u2190 folded into looped domains by protein-DNA associations \u2190 which undergoes supercoiling with the help of DNA gyrase and topoisomerase (See * below)\"\n\"Nucleoid region\",\"Not membrane-bound\"\n\"Extrachromosomal DNA\",\"Yes \u2013 plasmids (much smaller rings of DNA)\"",
+                        "bBox": { "x": 36, "y": 58, "w": 144.39, "h": 11.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation of the genome of a prokaryotic and eukaryotic cell:",
+                        "md": "# Organisation of the genome of a prokaryotic and eukaryotic cell:",
+                        "bBox": { "x": 36, "y": 58, "w": 229.49, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation of Eukaryotic Genome",
+                        "md": "# Organisation of Eukaryotic Genome",
+                        "bBox": {
+                            "x": 161.99,
+                            "y": 355,
+                            "w": 186.54,
+                            "h": 8.04
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Details"],
+                            ["Number of genes", "25,000"],
+                            [
+                                "Non-coding regions (between and within genes)",
+                                "Common \u2013 about 98%"
+                            ],
+                            ["i. presence of introns", "Many"],
+                            ["ii. presence of promoters", "Yes"],
+                            [
+                                "iii. presence of repeated sequences",
+                                "Many (e.g. telomeres & centromeres)"
+                            ],
+                            ["iv. presence of enhancers/ silencers", "Common"],
+                            ["Presence of operons", "Very few known ones"]
+                        ],
+                        "md": "|Feature|Details|\n|---|---|\n|Number of genes|25,000|\n|Non-coding regions (between and within genes)|Common \u2013 about 98%|\n|i. presence of introns|Many|\n|ii. presence of promoters|Yes|\n|iii. presence of repeated sequences|Many (e.g. telomeres & centromeres)|\n|iv. presence of enhancers/ silencers|Common|\n|Presence of operons|Very few known ones|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Details\"\n\"Number of genes\",\"25,000\"\n\"Non-coding regions (between and within genes)\",\"Common \u2013 about 98%\"\n\"i. presence of introns\",\"Many\"\n\"ii. presence of promoters\",\"Yes\"\n\"iii. presence of repeated sequences\",\"Many (e.g. telomeres & centromeres)\"\n\"iv. presence of enhancers/ silencers\",\"Common\"\n\"Presence of operons\",\"Very few known ones\"",
+                        "bBox": { "x": 36, "y": 58, "w": 154.13, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation of Prokaryotic Genome",
+                        "md": "# Organisation of Prokaryotic Genome",
+                        "bBox": {
+                            "x": 161.99,
+                            "y": 355,
+                            "w": 369.81,
+                            "h": 8.04
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Details"],
+                            ["Number of genes", "4,500"],
+                            [
+                                "Non-coding regions",
+                                "Not common \u2013 typically less than 15%"
+                            ],
+                            ["i. presence of introns", "Rare"],
+                            ["ii. presence of promoters", "Yes"],
+                            ["iii. presence of repeated sequences", "Few"],
+                            ["iv. presence of enhancers/ silencers", "Rare"]
+                        ],
+                        "md": "|Feature|Details|\n|---|---|\n|Number of genes|4,500|\n|Non-coding regions|Not common \u2013 typically less than 15%|\n|i. presence of introns|Rare|\n|ii. presence of promoters|Yes|\n|iii. presence of repeated sequences|Few|\n|iv. presence of enhancers/ silencers|Rare|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Details\"\n\"Number of genes\",\"4,500\"\n\"Non-coding regions\",\"Not common \u2013 typically less than 15%\"\n\"i. presence of introns\",\"Rare\"\n\"ii. presence of promoters\",\"Yes\"\n\"iii. presence of repeated sequences\",\"Few\"\n\"iv. presence of enhancers/ silencers\",\"Rare\"",
+                        "bBox": { "x": 36, "y": 58, "w": 134.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "How telomerase works",
+                        "md": "# How telomerase works",
+                        "bBox": { "x": 0, "y": 0, "w": 612, "h": 792 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. A short 3-nucleotide segment of RNA within telomerase binds to part of a DNA repeat in the 3\u2019 overhang by complementary base pairing.\n2. The adjacent part of the RNA within telomerase is used as a template to synthesise a short complementary 6-nucleotide DNA repeat.\n3. Telomerase catalyses the formation of the phosphodiester bonds between the existing 3\u2019 OH group of existing DNA overhang and 5\u2019 phosphate group of incoming deoxyribonucleotide.\n4. After the repeat is made, telomerase translocates 6 nucleotides to the right in the 5\u2019 to 3\u2019 direction of the DNA overhang and begins to make another repeat. The above process is repeated such that a series of tandem repeats are made, elongating the telomere.\n5. Then primase makes an RNA primer near the end of the telomere. DNA polymerase adds nucleotides to the 3\u2019 OH end of the primer and hence synthesizes a complementary strand. The nick is then sealed by ligase. The RNA primer is eventually removed.",
+                        "md": "1. A short 3-nucleotide segment of RNA within telomerase binds to part of a DNA repeat in the 3\u2019 overhang by complementary base pairing.\n2. The adjacent part of the RNA within telomerase is used as a template to synthesise a short complementary 6-nucleotide DNA repeat.\n3. Telomerase catalyses the formation of the phosphodiester bonds between the existing 3\u2019 OH group of existing DNA overhang and 5\u2019 phosphate group of incoming deoxyribonucleotide.\n4. After the repeat is made, telomerase translocates 6 nucleotides to the right in the 5\u2019 to 3\u2019 direction of the DNA overhang and begins to make another repeat. The above process is repeated such that a series of tandem repeats are made, elongating the telomere.\n5. Then primase makes an RNA primer near the end of the telomere. DNA polymerase adds nucleotides to the 3\u2019 OH end of the primer and hence synthesizes a complementary strand. The nick is then sealed by ligase. The RNA primer is eventually removed.",
+                        "bBox": { "x": 36, "y": 195, "w": 180.56, "h": 12.87 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Visual Representation",
+                        "md": "# Visual Representation",
+                        "bBox": {
+                            "x": 161.99,
+                            "y": 566.65,
+                            "w": 17.78,
+                            "h": 3.96
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Newly synthesized RNA primer strand to be removed\n\nLooped Nucleosome domains\n\n30-nm fiber or solenoid\n\nProtein scaffold\n\nLooped domains (300-nm fiber)\n\nSupercoiling",
+                        "md": "Newly synthesized RNA primer strand to be removed\n\nLooped Nucleosome domains\n\n30-nm fiber or solenoid\n\nProtein scaffold\n\nLooped domains (300-nm fiber)\n\nSupercoiling",
+                        "bBox": { "x": 36, "y": 195, "w": 114.66, "h": 12.87 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Metaphase eukaryotic chromosome",
+                        "md": "# Metaphase eukaryotic chromosome",
+                        "bBox": { "x": 380, "y": 682, "w": 118.87, "h": 6.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Prokaryotic chromosome",
+                        "md": "# Prokaryotic chromosome",
+                        "bBox": { "x": 518, "y": 682, "w": 43.8, "h": 6.96 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "* Packing of DNA in eukaryotic and prokaryotic chromosomes:\n\nThe packing of the very long eukaryotic DNA ensures that it fits into the nucleus and that it does not get entangled and break.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong S H\n\nRaffles Institution (Yr 5-6)",
+                        "md": "* Packing of DNA in eukaryotic and prokaryotic chromosomes:\n\nThe packing of the very long eukaryotic DNA ensures that it fits into the nucleus and that it does not get entangled and break.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong S H\n\nRaffles Institution (Yr 5-6)",
+                        "bBox": { "x": 36, "y": 78, "w": 251.37, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 2,
+                "text": "          Genetics and Inheritance (9744)                                                     Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                                              2018\n\n\n                                        Non-coding Regulatory Sequences\n      Introns                  Promoter                     Enhancer\nStructure                Structure                  Structure\n- non coding             - located just              - usually located far\n  DNA                      upstream of the            away from the\n  sequences                transcription start        promoter (usually\n  found within a           site of a gene             much further\n  gene,                                               upstream or\n\n  specifically           - has critical               downstream)\n  between exons            elements\n  in a specific            e.g.1. TATA box\n  segment of               at -25 sequence\n  DNA (also                (i.e. located 25bp\n  present in               upstream of\n  pre- mRNA)               transcription start\n\n                           site)\n- only in                  e.g. 2. CAAT\n  eukaryotes               and GC boxes\n\n                           are not critical in\n                           determining\n                           transcription\n                           frequency\n\n\n\n\n\n\n\n  Non-coding DNA (does not code for proteins or RNA )\n                                                                             Non-coding Repetitive DNA\n         Silencer                                                            Telomere                                                            Centromere\nStructure                        Structure                                                                                                Structure\n- usually located far            1- found at both ends/terminals of linear, eukaryotic chromosomes                                        1- Constricted region\n  away from the                                                                                                                                on chromosome\n  promoter (usually              2- non-coding DNA made up of a series of tandem repeat sequences                                              where kinetochore\n  much further                      (a specific sequence of                                    5                                               microtubules\n  upstream or                       nucleotides occurring                       End of parental                 Leading strand\n                                                                                                                Lagging strand                 attach during\n  downstream)                       many times in a row)                          DNA strands                                                  nuclear division\n                                                                                               3                                          2- non-coding DNA\n                                 3- in humans,                                                      Last fragment Previous fragment            made up of a\n                                    each repeat has                                                                                            series of tandem\n                                    the sequence                                                      RNA primer    00IT                       repeat sequences\n                                    5\u2019 TTAGGG 3\u2019                               Lagging strand 5\n                                                                                              3\n                                                                              Primer removed but                Removal of primers and\n                                 4- have a single                              cannot be replaced               replacement with DNA\n                                    stranded region                            with DNA because                 where a 3  end is\n                                    at their 3\u2019 ends                           no 3  end available              available\n                                                                             for DNA polymerase      5\n                                    known as the 3\u2019                                           3\n                                    overhang                                                                    Second round\n                                    (due to a limitation                                                        of replication\n                                    of DNA polymerase,                                               5       00000000000\n                                    this region of DNA                             New leading strand3\n                                    does not have a                                New lagging strand\n                                    complementary                                          5 3\n                                    strand)                                                                     Further rounds\n                                                                                                                of replication\n                                                                                                     Shorter and shorter\n                                                                                                     daughter molecules\n\n            Function                 Function                   Function                        Function                         Function                                                                           Function\n            - enables a              - recognition &            - recognition &                - recognition &                   1-Telomeres ensure that genes are not eroded (\u2260 DNA not eroded) and vital          1- allow sister\n              process                  binding site for           binding site for               binding site for                   genetic information is not lost with each round of DNA replication due to           chromatids to\n              called                   general                    activators (which              repressors (which                  the end replication problem.                                                        adhere to each\n              \u2018alternative             transcription              are specific                   are specific                       As DNA polymerase requires a free 3\u2019OH of a pre-existing strand to add              other\n              RNA splicing\u2019            factors which              transcription                  transcription                      nucleotides, the last RNA primer on the lagging strand with DNA cannot be\n              to occur where           then recruits              factors)                       factors)                           replaced with DNA. Hence, the DNA molecule shortens with each round of          2- allow kinetochore\n              different exons          RNA                                                                                          replication. Telomeres, which are non-coding sequences at the ends of                proteins to attach\n              of a single pre-         Polymerase to            - increase                      - decrease                          linear chromosomes will be lost before any vital genetic information is. Since       and which in turn\n              mRNA can be              form                       the frequency of                the frequency of                  telomeres are non-coding, they can be lost without any deleterious effect.           allow spindle\n              joined such              transcription              transcription by                transcription by                                                                                                       fibres to attach so\n              that different           initiation                 promoting the                   preventing the                 2-Telomeres protect and stabilize the terminal ends of chromosomes by                   that sister\n              mature mRNAs             complex which              assembly of the                 assembly of the                   forming a loop using the 3\u2019overhang.                                                 chromatids\n              are produced             initiates                  transcription                   transcription                     This prevents single-stranded terminal end of one chromosome from                    / homologous\n              eg. mature               transcription              initiation complex              initiation complex                annealing to a complementary single-stranded terminal end of another                 chromosomes can\n              mRNA 1 \u2190                                            (with the help of                                                 chromosome, prevent fusing of 2 chromosomes.                                         align along the\n              exons 1, 2, 3;                                      DNA bending                                                       The formation of the loop also prevents the cell\u2019s DNA repair machinery              metaphase plate\n              mature mRNA 2          -TATA box                    proteins that bend                                                from detecting the chromosome as damaged DNA (i.e. double stranded                   and subsequently\n              \u2190 exons 1, 3             determines                 spacer DNA)                                                       breaks) and trigger apoptosis.                                                       be separated to\n              etc.                     precise location         Activators and repressors are not enzymes & do                                                                                                           opposite poles.\n            - one gene can             of transcription         not have an active site. Each has a DNA binding                  3-Telomeres allow their own extension, as they have a 3\u2019 overhang which\n              now code for             start site               domain that is complementary in shape & charge                      provides an attachment point for the correct positioning of the enzyme          Ultimately, allow s\n              more than                                         to a specific sequence of DNA, allowing them to                     telomerase. Although telomeres shorten with every round of DNA replication,     proper alignment and\n              one                                              bind to a specific enhancer / silencer sequence.                     telomerase activity in germ cells, embryonic stem cells and cancer cells can    segregation of\n              polypeptide                                                                                                           maintain telomere length. (See *** on pg1 on how telomerase works)              chromosomes.\n\n            Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui                                                              Raffles Institution (Yr 5-6)                                                                      2",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# Non-coding Regulatory Sequences\n\n# Introns\n\n# Structure\n\n- non coding DNA sequences found within a gene, specifically between exons in a specific segment of DNA (also present in pre-mRNA)\n- only in eukaryotes\n\n# Promoter\n\n# Structure\n\n- located just upstream of the transcription start site of a gene\n- has critical elements e.g. 1. TATA box at -25 sequence (i.e. located 25bp upstream of transcription start site)\n- e.g. 2. CAAT and GC boxes are not critical in determining transcription frequency\n\n# Enhancer\n\n# Structure\n\n- usually located far away from the promoter (usually much further upstream or downstream)\n\n# Non-coding DNA (does not code for proteins or RNA)\n\n# Non-coding Repetitive DNA\n\n# Silencer\n\n- usually located far away from the promoter (usually much further upstream or downstream)\n\n# Telomere\n\n- found at both ends/terminals of linear, eukaryotic chromosomes\n- non-coding DNA made up of a series of tandem repeat sequences (a specific sequence of nucleotides occurring many times in a row)\n- in humans, each repeat has the sequence 5\u2019 TTAGGG 3\u2019\n- have a single stranded region at their 3\u2019 ends known as the 3\u2019 overhang (due to a limitation of DNA polymerase, this region of DNA does not have a complementary strand)\n\n# Centromere\n\n- Constricted region on chromosome where kinetochore microtubules attach during nuclear division\n- non-coding DNA made up of a series of tandem repeat sequences\n\n# Function\n\n- enables a process called \u2018alternative RNA splicing\u2019 to occur where different exons of a single pre-mRNA can be joined such that different mature mRNAs are produced e.g. mature mRNA 1 \u2190 exons 1, 2, 3; mature mRNA 2 \u2190 exons 1, 3 etc.\n- recognition & binding site for general transcription factors which then recruits RNA Polymerase to form transcription initiation complex which initiates transcription\n- increase the frequency of transcription by promoting the assembly of the transcription initiation complex (with the help of DNA bending proteins that bend spacer DNA)\n- decrease the frequency of transcription by preventing the assembly of the transcription initiation complex\n- Telomeres ensure that genes are not eroded and vital genetic information is not lost with each round of DNA replication due to the end replication problem.\n- allow sister chromatids to adhere to each other\n- allow kinetochore proteins to attach and which in turn allow spindle fibres to attach so that sister chromatids / homologous chromosomes can align along the metaphase plate and subsequently be separated to opposite poles.\n- Telomeres protect and stabilize the terminal ends of chromosomes by forming a loop using the 3\u2019 overhang.\n- Telomeres allow their own extension, as they have a 3\u2019 overhang which provides an attachment point for the correct positioning of the enzyme telomerase.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                "images": [
+                    {
+                        "name": "img_p1_1.png",
+                        "height": 402,
+                        "width": 203,
+                        "x": 544.8,
+                        "y": 122.99999999999997,
+                        "original_width": 303,
+                        "original_height": 600
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.48, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 269, "y": 31, "w": 250.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 734, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Non-coding Regulatory Sequences",
+                        "md": "# Non-coding Regulatory Sequences",
+                        "bBox": { "x": 40, "y": 70, "w": 276.62, "h": 9.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Introns",
+                        "md": "# Introns",
+                        "bBox": { "x": 53, "y": 80, "w": 27.06, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure",
+                        "md": "# Structure",
+                        "bBox": { "x": 36, "y": 89, "w": 36.15, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- non coding DNA sequences found within a gene, specifically between exons in a specific segment of DNA (also present in pre-mRNA)\n- only in eukaryotes",
+                        "md": "- non coding DNA sequences found within a gene, specifically between exons in a specific segment of DNA (also present in pre-mRNA)\n- only in eukaryotes",
+                        "bBox": { "x": 36, "y": 99, "w": 57.6, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Promoter",
+                        "md": "# Promoter",
+                        "bBox": { "x": 123, "y": 80, "w": 35.63, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure",
+                        "md": "# Structure",
+                        "bBox": { "x": 36, "y": 89, "w": 36.15, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- located just upstream of the transcription start site of a gene\n- has critical elements e.g. 1. TATA box at -25 sequence (i.e. located 25bp upstream of transcription start site)\n- e.g. 2. CAAT and GC boxes are not critical in determining transcription frequency",
+                        "md": "- located just upstream of the transcription start site of a gene\n- has critical elements e.g. 1. TATA box at -25 sequence (i.e. located 25bp upstream of transcription start site)\n- e.g. 2. CAAT and GC boxes are not critical in determining transcription frequency",
+                        "bBox": { "x": 108, "y": 99, "w": 61.34, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Enhancer",
+                        "md": "# Enhancer",
+                        "bBox": { "x": 206, "y": 80, "w": 36.6, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Structure",
+                        "md": "# Structure",
+                        "bBox": { "x": 36, "y": 89, "w": 36.15, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- usually located far away from the promoter (usually much further upstream or downstream)",
+                        "md": "- usually located far away from the promoter (usually much further upstream or downstream)",
+                        "bBox": { "x": 123, "y": 80, "w": 70.2, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Non-coding DNA (does not code for proteins or RNA)",
+                        "md": "# Non-coding DNA (does not code for proteins or RNA)",
+                        "bBox": { "x": 40, "y": 108, "w": 17.55, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Non-coding Repetitive DNA",
+                        "md": "# Non-coding Repetitive DNA",
+                        "bBox": { "x": 40, "y": 70, "w": 587.83, "h": 9.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Silencer",
+                        "md": "# Silencer",
+                        "bBox": { "x": 301, "y": 80, "w": 31.19, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- usually located far away from the promoter (usually much further upstream or downstream)",
+                        "md": "- usually located far away from the promoter (usually much further upstream or downstream)",
+                        "bBox": { "x": 123, "y": 80, "w": 70.2, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Telomere",
+                        "md": "# Telomere",
+                        "bBox": { "x": 497, "y": 80, "w": 35.66, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- found at both ends/terminals of linear, eukaryotic chromosomes\n- non-coding DNA made up of a series of tandem repeat sequences (a specific sequence of nucleotides occurring many times in a row)\n- in humans, each repeat has the sequence 5\u2019 TTAGGG 3\u2019\n- have a single stranded region at their 3\u2019 ends known as the 3\u2019 overhang (due to a limitation of DNA polymerase, this region of DNA does not have a complementary strand)",
+                        "md": "- found at both ends/terminals of linear, eukaryotic chromosomes\n- non-coding DNA made up of a series of tandem repeat sequences (a specific sequence of nucleotides occurring many times in a row)\n- in humans, each repeat has the sequence 5\u2019 TTAGGG 3\u2019\n- have a single stranded region at their 3\u2019 ends known as the 3\u2019 overhang (due to a limitation of DNA polymerase, this region of DNA does not have a complementary strand)",
+                        "bBox": { "x": 40, "y": 108, "w": 81.83, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Centromere",
+                        "md": "# Centromere",
+                        "bBox": { "x": 690, "y": 80, "w": 45.02, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- Constricted region on chromosome where kinetochore microtubules attach during nuclear division\n- non-coding DNA made up of a series of tandem repeat sequences",
+                        "md": "- Constricted region on chromosome where kinetochore microtubules attach during nuclear division\n- non-coding DNA made up of a series of tandem repeat sequences",
+                        "bBox": { "x": 40, "y": 108, "w": 70.38, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Function",
+                        "md": "# Function",
+                        "bBox": { "x": 36, "y": 338, "w": 33.99, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- enables a process called \u2018alternative RNA splicing\u2019 to occur where different exons of a single pre-mRNA can be joined such that different mature mRNAs are produced e.g. mature mRNA 1 \u2190 exons 1, 2, 3; mature mRNA 2 \u2190 exons 1, 3 etc.\n- recognition & binding site for general transcription factors which then recruits RNA Polymerase to form transcription initiation complex which initiates transcription\n- increase the frequency of transcription by promoting the assembly of the transcription initiation complex (with the help of DNA bending proteins that bend spacer DNA)\n- decrease the frequency of transcription by preventing the assembly of the transcription initiation complex\n- Telomeres ensure that genes are not eroded and vital genetic information is not lost with each round of DNA replication due to the end replication problem.\n- allow sister chromatids to adhere to each other\n- allow kinetochore proteins to attach and which in turn allow spindle fibres to attach so that sister chromatids / homologous chromosomes can align along the metaphase plate and subsequently be separated to opposite poles.\n- Telomeres protect and stabilize the terminal ends of chromosomes by forming a loop using the 3\u2019 overhang.\n- Telomeres allow their own extension, as they have a 3\u2019 overhang which provides an attachment point for the correct positioning of the enzyme telomerase.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                        "md": "- enables a process called \u2018alternative RNA splicing\u2019 to occur where different exons of a single pre-mRNA can be joined such that different mature mRNAs are produced e.g. mature mRNA 1 \u2190 exons 1, 2, 3; mature mRNA 2 \u2190 exons 1, 3 etc.\n- recognition & binding site for general transcription factors which then recruits RNA Polymerase to form transcription initiation complex which initiates transcription\n- increase the frequency of transcription by promoting the assembly of the transcription initiation complex (with the help of DNA bending proteins that bend spacer DNA)\n- decrease the frequency of transcription by preventing the assembly of the transcription initiation complex\n- Telomeres ensure that genes are not eroded and vital genetic information is not lost with each round of DNA replication due to the end replication problem.\n- allow sister chromatids to adhere to each other\n- allow kinetochore proteins to attach and which in turn allow spindle fibres to attach so that sister chromatids / homologous chromosomes can align along the metaphase plate and subsequently be separated to opposite poles.\n- Telomeres protect and stabilize the terminal ends of chromosomes by forming a loop using the 3\u2019 overhang.\n- Telomeres allow their own extension, as they have a 3\u2019 overhang which provides an attachment point for the correct positioning of the enzyme telomerase.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                        "bBox": { "x": 36, "y": 80, "w": 496.66, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 3,
+                "text": "          Genetics and Inheritance (9744)                                                      Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                                                         2018\n            Purpose of regulation of gene expression:\n\n            \u2022 Cellular differentiation: regulation of genes                 production of different proteins           cells have different ultrastructures that their functions i.e. in a multicellular organism, all somatic cells carry identical\n               genes but cells show a wide variation in structure and function\n            \u2022 Adapt to changes: vary according to circumstances and demand\n            \u2022 Conserve resources (transcriptional level control predominates as it is the most efficient mechanism with minimal wastage, especially in prokaryotes)\n            \u2022 More varied proteome despite limited genome size\n\n            Regulation of gene expression at various stages in eukaryotes\n\n            Genomic/DNA               Eukaryotes (only)\n\n                                      (+) Histone acetylation\n                                          addition of acetyl group to certain amino acids (e.g. lysine) in the histone by histone acetyltransferase/acetylase\n                1) Histone                removes +ve charge on histones                  decreases electrostatic attraction between \u2013vely charged DNA and histones\n              acetylation &               promoter region is more accessible to RNA polymerase and general transcription factors                                   promotes transcription as it promotes assembly of transcription initiation\n              deacetylation               complex\n                                           (Note: acetylation works in concert with chromatin remodeling complex)\n\n                                      (-) Histone deacetylation\n                                          removal of acetyl groups from histones by histone deacetylase\n                                          restores +ve charge on histones              restores tighter interaction between DNA & histones\n                                          promoter region is less accessible to RNA polymerase and general transcription factors                             inhibits transcription as it prevents assembly of transcription initiation complex\n\n              2) Chromatin            Chromatin remodeling complex are protein complexes which\n               remodeling                 alter structure of nucleosomes temporarily\n                 complex              1) (-) can cause DNA to be more tightly coiled around histones                        inhibits transcription as it prevents assembly of transcription initiation complex\n                                      2) (+) can cause DNA to be less tightly coiled around histones                       promotes transcription as it promotes assembly of transcription initiation complex\n\n                                      (-)DNA methylation (Once DNA methylation occurs in certain genes in a cell, it is usually permanent for the entire lifetime of the cell.)\n                  3) DNA                  addition of a methyl group by DNA methylases to selected cytosine residues inhibits transcription by\n               methylation            1) blocking the binding of transcription factors at the promoter and hence preventing the formation of the transcription initiation complex\n                                      2) recruiting DNA-binding proteins (e.g. transcriptional repressors, histone deacetylases and repressive chromatin remodeling complexes)\n\n            Transcription             Eukaryotes                                                                                                          Prokaryotes\n\n                                      Specific transcription factors (activators and repressors)                                                          Activators and repressors\n\n                                      1) Activators                                                                                                       1) Activator (in lac operon)\n                                          bind to enhancers                                                                                                  is the activated Catabolite Activator Protein (CAP) which binds to the CAP binding\n                                          promote assembly of transcription initiation complex as bending of spacer DNA                                       site at the promoter of the lac operon and increases the affinity of RNA\n                                          allows binding of activators with RNA polymerase and/or GTFs at the promoter                                       polymerase to the promoter\n                                          transcription frequency increases                                                                                  transcription frequency increases                  Positive gene regulation\n                Regulatory            (Bound activator may recruit histone acetyltransferase and chromatin remodeling                                     (CAP is activated by binding to cAMP)\n                  proteins            complex to increase accessibility of promoter to general transcription factors and RNA\n                                      polymerase)\n\n2) Repressors\n    bind to silencers\n    prevent assembly of transcription initiation complex as bending of spacer DNA\n   allows repressor bind to general transcription factors hence preventing activators from\n   binding to general transcription factors\n    transcription frequency decreases\n(Bound repressor may recruit histone deacetylase and repressive chromatin\nremodeling complex to decrease accessibility of promoter to general transcription\nfactors and RNA polymerase)\n2) Repressor (in both lac and trp operon)\n   binds to the operator, preventing RNA polymerase from binding to the promoter\n   transcription frequency decreases                  Negative gene regulation\n\n(Genes with related functions are clustered in an operon\n   are controlled by a single promoter and operator region and\n   transcribed into a single polycistronic mRNA and are expressed together)\n\n\n\n            Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui                                                                Raffles Institution (Yr 5-6)                                                                               3",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# Purpose of regulation of gene expression:\n\n- Cellular differentiation: regulation of genes production of different proteins cells have different ultrastructures that their functions i.e. in a multicellular organism, all somatic cells carry identical genes but cells show a wide variation in structure and function\n- Adapt to changes: vary according to circumstances and demand\n- Conserve resources (transcriptional level control predominates as it is the most efficient mechanism with minimal wastage, especially in prokaryotes)\n- More varied proteome despite limited genome size\n\n# Regulation of gene expression at various stages in eukaryotes\n\n# Genomic/DNA\n\n# Eukaryotes (only)\n\n# 1) Histone acetylation & deacetylation\n\n|(+)|Histone acetylation|\n|---|---|\n| |addition of acetyl group to certain amino acids (e.g. lysine) in the histone by histone acetyltransferase/acetylase|\n| |removes +ve charge on histones|\n| |decreases electrostatic attraction between \u2013vely charged DNA and histones|\n| |promoter region is more accessible to RNA polymerase and general transcription factors|\n| |promotes transcription as it promotes assembly of transcription initiation complex|\n|(-)|Histone deacetylation|\n| |removal of acetyl groups from histones by histone deacetylase|\n| |restores +ve charge on histones|\n| |restores tighter interaction between DNA & histones|\n| |promoter region is less accessible to RNA polymerase and general transcription factors|\n| |inhibits transcription as it prevents assembly of transcription initiation complex|\n\n# 2) Chromatin remodeling complex\n\n| |Chromatin remodeling complex are protein complexes which alter structure of nucleosomes temporarily|\n|---|---|\n|(-)|can cause DNA to be more tightly coiled around histones|\n| |inhibits transcription as it prevents assembly of transcription initiation complex|\n|(+)|can cause DNA to be less tightly coiled around histones|\n| |promotes transcription as it promotes assembly of transcription initiation complex|\n\n# 3) DNA methylation\n\n|(-)|DNA methylation|\n|---|---|\n| |addition of a methyl group by DNA methylases to selected cytosine residues inhibits transcription by|\n| |1) blocking the binding of transcription factors at the promoter and hence preventing the formation of the transcription initiation complex|\n| |2) recruiting DNA-binding proteins (e.g. transcriptional repressors, histone deacetylases and repressive chromatin remodeling complexes)|\n\n# Transcription\n\n# Eukaryotes\n\n# Prokaryotes\n\n| |Specific transcription factors (activators and repressors)|\n|---|---|\n|1) Activators|1) Activator (in lac operon)|\n| |bind to enhancers|\n| |is the activated Catabolite Activator Protein (CAP) which binds to the CAP binding site at the promoter of the lac operon and increases the affinity of RNA polymerase to the promoter|\n| |promote assembly of transcription initiation complex as bending of spacer DNA allows binding of activators with RNA polymerase and/or GTFs at the promoter|\n| |transcription frequency increases|\n| |transcription frequency increases Positive gene regulation|\n| |(CAP is activated by binding to cAMP)|\n|2) Repressors|2) Repressor (in both lac and trp operon)|\n| |bind to silencers|\n| |bends spacer DNA allows repressor bind to general transcription factors hence preventing activators from binding to general transcription factors|\n| |transcription frequency decreases|\n| |(Bound repressor may recruit histone deacetylase and repressive chromatin remodeling complex to decrease accessibility of promoter to general transcription factors and RNA polymerase)|\n| |binds to the operator, preventing RNA polymerase from binding to the promoter|\n| |transcription frequency decreases Negative gene regulation|\n| |(Genes with related functions are clustered in an operon are controlled by a single promoter and operator region and transcribed into a single polycistronic mRNA and are expressed together)|\n\n# Prepared by:\n\nMrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\n# Raffles Institution (Yr 5-6)\n\n# 3",
+                "images": [],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.48, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 269, "y": 31, "w": 250.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 734, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Purpose of regulation of gene expression:",
+                        "md": "# Purpose of regulation of gene expression:",
+                        "bBox": { "x": 36, "y": 44, "w": 159.68, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- Cellular differentiation: regulation of genes production of different proteins cells have different ultrastructures that their functions i.e. in a multicellular organism, all somatic cells carry identical genes but cells show a wide variation in structure and function\n- Adapt to changes: vary according to circumstances and demand\n- Conserve resources (transcriptional level control predominates as it is the most efficient mechanism with minimal wastage, especially in prokaryotes)\n- More varied proteome despite limited genome size",
+                        "md": "- Cellular differentiation: regulation of genes production of different proteins cells have different ultrastructures that their functions i.e. in a multicellular organism, all somatic cells carry identical genes but cells show a wide variation in structure and function\n- Adapt to changes: vary according to circumstances and demand\n- Conserve resources (transcriptional level control predominates as it is the most efficient mechanism with minimal wastage, especially in prokaryotes)\n- More varied proteome despite limited genome size",
+                        "bBox": { "x": 36, "y": 63, "w": 585.28, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Regulation of gene expression at various stages in eukaryotes",
+                        "md": "# Regulation of gene expression at various stages in eukaryotes",
+                        "bBox": { "x": 36, "y": 121, "w": 237.62, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genomic/DNA",
+                        "md": "# Genomic/DNA",
+                        "bBox": { "x": 36, "y": 139, "w": 46.22, "h": 6.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Eukaryotes (only)",
+                        "md": "# Eukaryotes (only)",
+                        "bBox": { "x": 108, "y": 139, "w": 66.95, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1) Histone acetylation & deacetylation",
+                        "md": "# 1) Histone acetylation & deacetylation",
+                        "bBox": { "x": 41, "y": 177, "w": 51.07, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["(+)", "Histone acetylation"],
+                            [
+                                "",
+                                "addition of acetyl group to certain amino acids (e.g. lysine) in the histone by histone acetyltransferase/acetylase"
+                            ],
+                            ["", "removes +ve charge on histones"],
+                            [
+                                "",
+                                "decreases electrostatic attraction between \u2013vely charged DNA and histones"
+                            ],
+                            [
+                                "",
+                                "promoter region is more accessible to RNA polymerase and general transcription factors"
+                            ],
+                            [
+                                "",
+                                "promotes transcription as it promotes assembly of transcription initiation complex"
+                            ],
+                            ["(-)", "Histone deacetylation"],
+                            [
+                                "",
+                                "removal of acetyl groups from histones by histone deacetylase"
+                            ],
+                            ["", "restores +ve charge on histones"],
+                            [
+                                "",
+                                "restores tighter interaction between DNA & histones"
+                            ],
+                            [
+                                "",
+                                "promoter region is less accessible to RNA polymerase and general transcription factors"
+                            ],
+                            [
+                                "",
+                                "inhibits transcription as it prevents assembly of transcription initiation complex"
+                            ]
+                        ],
+                        "md": "|(+)|Histone acetylation|\n|---|---|\n| |addition of acetyl group to certain amino acids (e.g. lysine) in the histone by histone acetyltransferase/acetylase|\n| |removes +ve charge on histones|\n| |decreases electrostatic attraction between \u2013vely charged DNA and histones|\n| |promoter region is more accessible to RNA polymerase and general transcription factors|\n| |promotes transcription as it promotes assembly of transcription initiation complex|\n|(-)|Histone deacetylation|\n| |removal of acetyl groups from histones by histone deacetylase|\n| |restores +ve charge on histones|\n| |restores tighter interaction between DNA & histones|\n| |promoter region is less accessible to RNA polymerase and general transcription factors|\n| |inhibits transcription as it prevents assembly of transcription initiation complex|",
+                        "isPerfectTable": true,
+                        "csv": "\"(+)\",\"Histone acetylation\"\n\"\",\"addition of acetyl group to certain amino acids (e.g. lysine) in the histone by histone acetyltransferase/acetylase\"\n\"\",\"removes +ve charge on histones\"\n\"\",\"decreases electrostatic attraction between \u2013vely charged DNA and histones\"\n\"\",\"promoter region is more accessible to RNA polymerase and general transcription factors\"\n\"\",\"promotes transcription as it promotes assembly of transcription initiation complex\"\n\"(-)\",\"Histone deacetylation\"\n\"\",\"removal of acetyl groups from histones by histone deacetylase\"\n\"\",\"restores +ve charge on histones\"\n\"\",\"restores tighter interaction between DNA & histones\"\n\"\",\"promoter region is less accessible to RNA polymerase and general transcription factors\"\n\"\",\"inhibits transcription as it prevents assembly of transcription initiation complex\"",
+                        "bBox": { "x": 36, "y": 195, "w": 312.7, "h": 173.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2) Chromatin remodeling complex",
+                        "md": "# 2) Chromatin remodeling complex",
+                        "bBox": { "x": 42, "y": 195, "w": 111.53, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "",
+                                "Chromatin remodeling complex are protein complexes which alter structure of nucleosomes temporarily"
+                            ],
+                            [
+                                "(-)",
+                                "can cause DNA to be more tightly coiled around histones"
+                            ],
+                            [
+                                "",
+                                "inhibits transcription as it prevents assembly of transcription initiation complex"
+                            ],
+                            [
+                                "(+)",
+                                "can cause DNA to be less tightly coiled around histones"
+                            ],
+                            [
+                                "",
+                                "promotes transcription as it promotes assembly of transcription initiation complex"
+                            ]
+                        ],
+                        "md": "| |Chromatin remodeling complex are protein complexes which alter structure of nucleosomes temporarily|\n|---|---|\n|(-)|can cause DNA to be more tightly coiled around histones|\n| |inhibits transcription as it prevents assembly of transcription initiation complex|\n|(+)|can cause DNA to be less tightly coiled around histones|\n| |promotes transcription as it promotes assembly of transcription initiation complex|",
+                        "isPerfectTable": true,
+                        "csv": "\"\",\"Chromatin remodeling complex are protein complexes which alter structure of nucleosomes temporarily\"\n\"(-)\",\"can cause DNA to be more tightly coiled around histones\"\n\"\",\"inhibits transcription as it prevents assembly of transcription initiation complex\"\n\"(+)\",\"can cause DNA to be less tightly coiled around histones\"\n\"\",\"promotes transcription as it promotes assembly of transcription initiation complex\"",
+                        "bBox": { "x": 36, "y": 195, "w": 312.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "3) DNA methylation",
+                        "md": "# 3) DNA methylation",
+                        "bBox": { "x": 44, "y": 325, "w": 44.83, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["(-)", "DNA methylation"],
+                            [
+                                "",
+                                "addition of a methyl group by DNA methylases to selected cytosine residues inhibits transcription by"
+                            ],
+                            [
+                                "",
+                                "1) blocking the binding of transcription factors at the promoter and hence preventing the formation of the transcription initiation complex"
+                            ],
+                            [
+                                "",
+                                "2) recruiting DNA-binding proteins (e.g. transcriptional repressors, histone deacetylases and repressive chromatin remodeling complexes)"
+                            ]
+                        ],
+                        "md": "|(-)|DNA methylation|\n|---|---|\n| |addition of a methyl group by DNA methylases to selected cytosine residues inhibits transcription by|\n| |1) blocking the binding of transcription factors at the promoter and hence preventing the formation of the transcription initiation complex|\n| |2) recruiting DNA-binding proteins (e.g. transcriptional repressors, histone deacetylases and repressive chromatin remodeling complexes)|",
+                        "isPerfectTable": true,
+                        "csv": "\"(-)\",\"DNA methylation\"\n\"\",\"addition of a methyl group by DNA methylases to selected cytosine residues inhibits transcription by\"\n\"\",\"1) blocking the binding of transcription factors at the promoter and hence preventing the formation of the transcription initiation complex\"\n\"\",\"2) recruiting DNA-binding proteins (e.g. transcriptional repressors, histone deacetylases and repressive chromatin remodeling complexes)\"",
+                        "bBox": { "x": 36, "y": 195, "w": 529.68, "h": 147.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Transcription",
+                        "md": "# Transcription",
+                        "bBox": { "x": 36, "y": 362, "w": 44.66, "h": 6.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Eukaryotes",
+                        "md": "# Eukaryotes",
+                        "bBox": { "x": 108, "y": 363, "w": 42.97, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Prokaryotes",
+                        "md": "# Prokaryotes",
+                        "bBox": { "x": 435, "y": 363, "w": 46.09, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "",
+                                "Specific transcription factors (activators and repressors)"
+                            ],
+                            ["1) Activators", "1) Activator (in lac operon)"],
+                            ["", "bind to enhancers"],
+                            [
+                                "",
+                                "is the activated Catabolite Activator Protein (CAP) which binds to the CAP binding site at the promoter of the lac operon and increases the affinity of RNA polymerase to the promoter"
+                            ],
+                            [
+                                "",
+                                "promote assembly of transcription initiation complex as bending of spacer DNA allows binding of activators with RNA polymerase and/or GTFs at the promoter"
+                            ],
+                            ["", "transcription frequency increases"],
+                            [
+                                "",
+                                "transcription frequency increases Positive gene regulation"
+                            ],
+                            ["", "(CAP is activated by binding to cAMP)"],
+                            [
+                                "2) Repressors",
+                                "2) Repressor (in both lac and trp operon)"
+                            ],
+                            ["", "bind to silencers"],
+                            [
+                                "",
+                                "bends spacer DNA allows repressor bind to general transcription factors hence preventing activators from binding to general transcription factors"
+                            ],
+                            ["", "transcription frequency decreases"],
+                            [
+                                "",
+                                "(Bound repressor may recruit histone deacetylase and repressive chromatin remodeling complex to decrease accessibility of promoter to general transcription factors and RNA polymerase)"
+                            ],
+                            [
+                                "",
+                                "binds to the operator, preventing RNA polymerase from binding to the promoter"
+                            ],
+                            [
+                                "",
+                                "transcription frequency decreases Negative gene regulation"
+                            ],
+                            [
+                                "",
+                                "(Genes with related functions are clustered in an operon are controlled by a single promoter and operator region and transcribed into a single polycistronic mRNA and are expressed together)"
+                            ]
+                        ],
+                        "md": "| |Specific transcription factors (activators and repressors)|\n|---|---|\n|1) Activators|1) Activator (in lac operon)|\n| |bind to enhancers|\n| |is the activated Catabolite Activator Protein (CAP) which binds to the CAP binding site at the promoter of the lac operon and increases the affinity of RNA polymerase to the promoter|\n| |promote assembly of transcription initiation complex as bending of spacer DNA allows binding of activators with RNA polymerase and/or GTFs at the promoter|\n| |transcription frequency increases|\n| |transcription frequency increases Positive gene regulation|\n| |(CAP is activated by binding to cAMP)|\n|2) Repressors|2) Repressor (in both lac and trp operon)|\n| |bind to silencers|\n| |bends spacer DNA allows repressor bind to general transcription factors hence preventing activators from binding to general transcription factors|\n| |transcription frequency decreases|\n| |(Bound repressor may recruit histone deacetylase and repressive chromatin remodeling complex to decrease accessibility of promoter to general transcription factors and RNA polymerase)|\n| |binds to the operator, preventing RNA polymerase from binding to the promoter|\n| |transcription frequency decreases Negative gene regulation|\n| |(Genes with related functions are clustered in an operon are controlled by a single promoter and operator region and transcribed into a single polycistronic mRNA and are expressed together)|",
+                        "isPerfectTable": true,
+                        "csv": "\"\",\"Specific transcription factors (activators and repressors)\"\n\"1) Activators\",\"1) Activator (in lac operon)\"\n\"\",\"bind to enhancers\"\n\"\",\"is the activated Catabolite Activator Protein (CAP) which binds to the CAP binding site at the promoter of the lac operon and increases the affinity of RNA polymerase to the promoter\"\n\"\",\"promote assembly of transcription initiation complex as bending of spacer DNA allows binding of activators with RNA polymerase and/or GTFs at the promoter\"\n\"\",\"transcription frequency increases\"\n\"\",\"transcription frequency increases Positive gene regulation\"\n\"\",\"(CAP is activated by binding to cAMP)\"\n\"2) Repressors\",\"2) Repressor (in both lac and trp operon)\"\n\"\",\"bind to silencers\"\n\"\",\"bends spacer DNA allows repressor bind to general transcription factors hence preventing activators from binding to general transcription factors\"\n\"\",\"transcription frequency decreases\"\n\"\",\"(Bound repressor may recruit histone deacetylase and repressive chromatin remodeling complex to decrease accessibility of promoter to general transcription factors and RNA polymerase)\"\n\"\",\"binds to the operator, preventing RNA polymerase from binding to the promoter\"\n\"\",\"transcription frequency decreases Negative gene regulation\"\n\"\",\"(Genes with related functions are clustered in an operon are controlled by a single promoter and operator region and transcribed into a single polycistronic mRNA and are expressed together)\"",
+                        "bBox": { "x": 36, "y": 195, "w": 303.42, "h": 175.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Prepared by:",
+                        "md": "# Prepared by:",
+                        "bBox": { "x": 0, "y": 0, "w": 792, "h": 612 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui",
+                        "md": "Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui",
+                        "bBox": { "x": 0, "y": 0, "w": 792, "h": 612 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Raffles Institution (Yr 5-6)",
+                        "md": "# Raffles Institution (Yr 5-6)",
+                        "bBox": { "x": 402, "y": 580, "w": 97.26, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "3",
+                        "md": "# 3",
+                        "bBox": { "x": 744, "y": 580, "w": 4.47, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 4,
+                "text": "Genetics and Inheritance (9744)                                                      Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                                                                    2018\n Post-                     Eukaryotes (only)\n transcriptional\n\n                           - Addition of a 7-methylguanosine nucleotide is added to the 5\u2019 end of the pre-mRNA\n   1) Addition of          - occurs shortly after transcription begins i.e. it occurs co-transcriptionally\n        5\u2019cap              - (role) - 1. helps the cell to recognize mRNA (amongst other RNAs) so that subsequent steps such as splicing and polyadenylation can occur\n                                    - 2. signal to export mRNA out of nucleus\n                                    - 3. protects the growing pre-mRNA chain from degradation by ribonucleases\n                                    - 4. promotes initiation of translation as it is recognized by translation initiation factors that help recruit mRNA to small ribosomal subunit\n\n                           1. When the introns (noncoding regions within a gene) are excised and exons (coding regions within a gene) are joined together by spliceosomes (a complex of snRNA and\n       2) Intron             proteins: snRNPs) which recognize the sequences at intron-exon boundaries (points of excision)                                   so that functional proteins can be produced\n       splicing            2. Alternative splicing            where different exons of a single pre- mRNA can be joined together such that different mature mRNAs and so                                           different proteins can be produced\n\n                           - When 3\u2019end of pre-mRNA is cleaved by endonucleases to make it shorter and a poly-A polymerase recognises the polyadenylation signal (AAUAAA) and adds a long\n   3) Addition of             sequence of adenine nucleotides to 3\u2019 end of the pre-mRNA, forming a poly(A) tail\n     poly A tail           - occurs immediately after transcription\n  (polyadenylation)        - (role) - 1. signal to export mature mRNA out of nucleus\n                                    - 2. protects mature mRNA from degradation by ribonucleases                            more proteins can be made\n                                    - 3. required, together with 5\u2019cap for initiation of translation\n\n Translation               Eukaryotes\n\n   1) mRNA half-           mRNA half-life is determined by the length of its poly-A tail. The longer the poly-A tail, the longer the mRNA can be used as a template to make proteins.\n          life             The poly-A tail is removed by ribonucleases in the 3\u2019 to 5\u2019 direction until a critical length is reached which will triggers removal of the 5\u2019cap and degradation of the mRNA from the\n                           5\u2019end too.\n\n                           1) During translation initiation, small ribosomal subunit binds to 5\u2019cap of mRNA\n  2) Formation of             This can be prevented by binding of translational repressor to (1) 5\u2019cap, (2) 5\u2019UTR (untranslated region), (3) 3\u2019 UTR\n     translation              which interferes with the interaction between the 3\u2019 poly-A tail, the 5\u2019cap, initiation factors, and the small ribosomal subunit which are needed for translation initiation\n      initiation\n      complex              2) During translation initiation, translation initiation factors facilitate the binding of the small ribosomal subunit to the 5\u2019cap\n                              The availability of translation initiation factors is determined by whether or not they are phosphorylated. Some initiation factors are activated by phosphorylation while others\n                              are inactivated by phosphorylation. Without activated translations initiation factors, translation cannot begin.\n\n Post-translational        Eukaryotes\n  1) Formation\n  of functional            Covalent modification/cleavage (eg. attachment of prosthetic groups, glycosylation, disulfide bond formation) of polypeptides make them functional proteins\n     proteins\n\n 2) Regulation of          Phosphorylation / dephosphorylation of translation initiation factors can activate / deactivate the protein and hence up / down regulate its activity.\n  protein activity\n\n      3) Protein           Protein degradation by proteasomes determines how long a protein remains in a cell.\n    degradation            Proteins targetted for degradation are tagged with ubiqutin (by ubiquitin ligase) and then recognised and degraded by the proteasome.\n\n Causative factors which increase chances of cancer the chances of cancerous growth\n\n A. Environmental factors               exposure to carcinogens (eg. tar in cigarette smoke, asbestos etc.) and ionizing radiation (e.g. uv radiation, X-rays) can cause mutations that lead to cancer\n B. Loss of immunity due to infection with certain viruses                         HIV can weaken the immune system and reduces the body\u2019s ability to fight infections by other viruses that can cause to cancer.\n                                                                                   For example, Karposi\u2019s sarcoma-associated Herpes virus genome can integrate into part of the human genome that controls DNA\n                                                                                   synthesis, or that affects cell division or that affects tumour suppression pathways and may lead to cancer\n C. Genetic predisposition               due to gene mutations (in the germ cells) which we inherit from our parents (e.g. BRCA1 gene, a tumour suppressor gene)\n D. Age        chances of getting cancer increases with age due to accumulation of mutations in a cell over a lifetime\n\n Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui                                                                 Raffles Institution (Yr 5-6)                                                                                          4",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# Post-transcriptional\n\n# 1) Addition of 5\u2019 cap\n\n- Addition of a 7-methylguanosine nucleotide is added to the 5\u2019 end of the pre-mRNA\n- occurs shortly after transcription begins i.e. it occurs co-transcriptionally\n- (role)\n1. helps the cell to recognize mRNA (amongst other RNAs) so that subsequent steps such as splicing and polyadenylation can occur\n2. signal to export mRNA out of nucleus\n3. protects the growing pre-mRNA chain from degradation by ribonucleases\n4. promotes initiation of translation as it is recognized by translation initiation factors that help recruit mRNA to small ribosomal subunit\n\n# 2) Intron splicing\n\n- When the introns (noncoding regions within a gene) are excised and exons (coding regions within a gene) are joined together by spliceosomes (a complex of snRNA and proteins: snRNPs) which recognize the sequences at intron-exon boundaries (points of excision) so that functional proteins can be produced\n- Alternative splicing where different exons of a single pre-mRNA can be joined together such that different mature mRNAs and so different proteins can be produced\n\n# 3) Addition of poly A tail (polyadenylation)\n\n- When 3\u2019end of pre-mRNA is cleaved by endonucleases to make it shorter and a poly-A polymerase recognizes the polyadenylation signal (AAUAAA) and adds a long sequence of adenine nucleotides to 3\u2019 end of the pre-mRNA, forming a poly(A) tail\n- occurs immediately after transcription\n- (role)\n1. signal to export mature mRNA out of nucleus\n2. protects mature mRNA from degradation by ribonucleases\n3. required, together with 5\u2019 cap for initiation of translation\n\n# Translation\n\n# Eukaryotes\n\n# 1) mRNA half-life\n\nmRNA half-life is determined by the length of its poly-A tail. The longer the poly-A tail, the longer the mRNA can be used as a template to make proteins. The poly-A tail is removed by ribonucleases in the 3\u2019 to 5\u2019 direction until a critical length is reached which will trigger removal of the 5\u2019 cap and degradation of the mRNA from the 5\u2019 end too.\n\n# 2) Formation of translation initiation complex\n\nDuring translation initiation, small ribosomal subunit binds to 5\u2019 cap of mRNA. This can be prevented by binding of translational repressor to (1) 5\u2019 cap, (2) 5\u2019 UTR (untranslated region), (3) 3\u2019 UTR which interferes with the interaction between the 3\u2019 poly-A tail, the 5\u2019 cap, initiation factors, and the small ribosomal subunit which are needed for translation initiation.\n\nDuring translation initiation, translation initiation factors facilitate the binding of the small ribosomal subunit to the 5\u2019 cap. The availability of translation initiation factors is determined by whether or not they are phosphorylated. Some initiation factors are activated by phosphorylation while others are inactivated by phosphorylation. Without activated translation initiation factors, translation cannot begin.\n\n# Post-translational\n\n# Eukaryotes\n\n# 1) Formation of functional proteins\n\nCovalent modification/cleavage (eg. attachment of prosthetic groups, glycosylation, disulfide bond formation) of polypeptides make them functional proteins.\n\n# 2) Regulation of protein activity\n\nPhosphorylation / dephosphorylation of translation initiation factors can activate / deactivate the protein and hence up / down regulate its activity.\n\n# 3) Protein degradation\n\nProtein degradation by proteasomes determines how long a protein remains in a cell. Proteins targeted for degradation are tagged with ubiquitin (by ubiquitin ligase) and then recognized and degraded by the proteasome.\n\n# Causative factors which increase chances of cancer\n\n- A. Environmental factors: exposure to carcinogens (eg. tar in cigarette smoke, asbestos etc.) and ionizing radiation (e.g. uv radiation, X-rays) can cause mutations that lead to cancer\n- B. Loss of immunity due to infection with certain viruses: HIV can weaken the immune system and reduces the body\u2019s ability to fight infections by other viruses that can cause cancer. For example, Kaposi\u2019s sarcoma-associated Herpes virus genome can integrate into part of the human genome that controls DNA synthesis, or that affects cell division or that affects tumour suppression pathways and may lead to cancer\n- C. Genetic predisposition: due to gene mutations (in the germ cells) which we inherit from our parents (e.g. BRCA1 gene, a tumour suppressor gene)\n- D. Age: chances of getting cancer increases with age due to accumulation of mutations in a cell over a lifetime\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n4",
+                "images": [],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.48, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 269, "y": 31, "w": 250.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 734, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Post-transcriptional",
+                        "md": "# Post-transcriptional",
+                        "bBox": { "x": 36, "y": 43, "w": 48.47, "h": 6.96 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1) Addition of 5\u2019 cap",
+                        "md": "# 1) Addition of 5\u2019 cap",
+                        "bBox": { "x": 41, "y": 79, "w": 51.14, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- Addition of a 7-methylguanosine nucleotide is added to the 5\u2019 end of the pre-mRNA\n- occurs shortly after transcription begins i.e. it occurs co-transcriptionally\n- (role)\n1. helps the cell to recognize mRNA (amongst other RNAs) so that subsequent steps such as splicing and polyadenylation can occur\n2. signal to export mRNA out of nucleus\n3. protects the growing pre-mRNA chain from degradation by ribonucleases\n4. promotes initiation of translation as it is recognized by translation initiation factors that help recruit mRNA to small ribosomal subunit",
+                        "md": "- Addition of a 7-methylguanosine nucleotide is added to the 5\u2019 end of the pre-mRNA\n- occurs shortly after transcription begins i.e. it occurs co-transcriptionally\n- (role)\n1. helps the cell to recognize mRNA (amongst other RNAs) so that subsequent steps such as splicing and polyadenylation can occur\n2. signal to export mRNA out of nucleus\n3. protects the growing pre-mRNA chain from degradation by ribonucleases\n4. promotes initiation of translation as it is recognized by translation initiation factors that help recruit mRNA to small ribosomal subunit",
+                        "bBox": { "x": 36, "y": 51, "w": 310.71, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2) Intron splicing",
+                        "md": "# 2) Intron splicing",
+                        "bBox": { "x": 51, "y": 153, "w": 31.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- When the introns (noncoding regions within a gene) are excised and exons (coding regions within a gene) are joined together by spliceosomes (a complex of snRNA and proteins: snRNPs) which recognize the sequences at intron-exon boundaries (points of excision) so that functional proteins can be produced\n- Alternative splicing where different exons of a single pre-mRNA can be joined together such that different mature mRNAs and so different proteins can be produced",
+                        "md": "- When the introns (noncoding regions within a gene) are excised and exons (coding regions within a gene) are joined together by spliceosomes (a complex of snRNA and proteins: snRNPs) which recognize the sequences at intron-exon boundaries (points of excision) so that functional proteins can be produced\n- Alternative splicing where different exons of a single pre-mRNA can be joined together such that different mature mRNAs and so different proteins can be produced",
+                        "bBox": { "x": 47, "y": 153, "w": 416.31, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "3) Addition of poly A tail (polyadenylation)",
+                        "md": "# 3) Addition of poly A tail (polyadenylation)",
+                        "bBox": { "x": 38, "y": 199, "w": 57.74, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- When 3\u2019end of pre-mRNA is cleaved by endonucleases to make it shorter and a poly-A polymerase recognizes the polyadenylation signal (AAUAAA) and adds a long sequence of adenine nucleotides to 3\u2019 end of the pre-mRNA, forming a poly(A) tail\n- occurs immediately after transcription\n- (role)\n1. signal to export mature mRNA out of nucleus\n2. protects mature mRNA from degradation by ribonucleases\n3. required, together with 5\u2019 cap for initiation of translation",
+                        "md": "- When 3\u2019end of pre-mRNA is cleaved by endonucleases to make it shorter and a poly-A polymerase recognizes the polyadenylation signal (AAUAAA) and adds a long sequence of adenine nucleotides to 3\u2019 end of the pre-mRNA, forming a poly(A) tail\n- occurs immediately after transcription\n- (role)\n1. signal to export mature mRNA out of nucleus\n2. protects mature mRNA from degradation by ribonucleases\n3. required, together with 5\u2019 cap for initiation of translation",
+                        "bBox": { "x": 36, "y": 199, "w": 377.8, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Translation",
+                        "md": "# Translation",
+                        "bBox": { "x": 36, "y": 254, "w": 41.37, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Eukaryotes",
+                        "md": "# Eukaryotes",
+                        "bBox": { "x": 108, "y": 255, "w": 42.97, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1) mRNA half-life",
+                        "md": "# 1) mRNA half-life",
+                        "bBox": { "x": 40, "y": 274, "w": 52.68, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "mRNA half-life is determined by the length of its poly-A tail. The longer the poly-A tail, the longer the mRNA can be used as a template to make proteins. The poly-A tail is removed by ribonucleases in the 3\u2019 to 5\u2019 direction until a critical length is reached which will trigger removal of the 5\u2019 cap and degradation of the mRNA from the 5\u2019 end too.",
+                        "md": "mRNA half-life is determined by the length of its poly-A tail. The longer the poly-A tail, the longer the mRNA can be used as a template to make proteins. The poly-A tail is removed by ribonucleases in the 3\u2019 to 5\u2019 direction until a critical length is reached which will trigger removal of the 5\u2019 cap and degradation of the mRNA from the 5\u2019 end too.",
+                        "bBox": { "x": 44, "y": 274, "w": 632.24, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2) Formation of translation initiation complex",
+                        "md": "# 2) Formation of translation initiation complex",
+                        "bBox": { "x": 36, "y": 254, "w": 59.05, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "During translation initiation, small ribosomal subunit binds to 5\u2019 cap of mRNA. This can be prevented by binding of translational repressor to (1) 5\u2019 cap, (2) 5\u2019 UTR (untranslated region), (3) 3\u2019 UTR which interferes with the interaction between the 3\u2019 poly-A tail, the 5\u2019 cap, initiation factors, and the small ribosomal subunit which are needed for translation initiation.\n\nDuring translation initiation, translation initiation factors facilitate the binding of the small ribosomal subunit to the 5\u2019 cap. The availability of translation initiation factors is determined by whether or not they are phosphorylated. Some initiation factors are activated by phosphorylation while others are inactivated by phosphorylation. Without activated translation initiation factors, translation cannot begin.",
+                        "md": "During translation initiation, small ribosomal subunit binds to 5\u2019 cap of mRNA. This can be prevented by binding of translational repressor to (1) 5\u2019 cap, (2) 5\u2019 UTR (untranslated region), (3) 3\u2019 UTR which interferes with the interaction between the 3\u2019 poly-A tail, the 5\u2019 cap, initiation factors, and the small ribosomal subunit which are needed for translation initiation.\n\nDuring translation initiation, translation initiation factors facilitate the binding of the small ribosomal subunit to the 5\u2019 cap. The availability of translation initiation factors is determined by whether or not they are phosphorylated. Some initiation factors are activated by phosphorylation while others are inactivated by phosphorylation. Without activated translation initiation factors, translation cannot begin.",
+                        "bBox": { "x": 36, "y": 254, "w": 632.35, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Post-translational",
+                        "md": "# Post-translational",
+                        "bBox": { "x": 36, "y": 43, "w": 58.63, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Eukaryotes",
+                        "md": "# Eukaryotes",
+                        "bBox": { "x": 108, "y": 255, "w": 42.97, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "1) Formation of functional proteins",
+                        "md": "# 1) Formation of functional proteins",
+                        "bBox": { "x": 38, "y": 404, "w": 48.56, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Covalent modification/cleavage (eg. attachment of prosthetic groups, glycosylation, disulfide bond formation) of polypeptides make them functional proteins.",
+                        "md": "Covalent modification/cleavage (eg. attachment of prosthetic groups, glycosylation, disulfide bond formation) of polypeptides make them functional proteins.",
+                        "bBox": { "x": 47, "y": 413, "w": 647.24, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2) Regulation of protein activity",
+                        "md": "# 2) Regulation of protein activity",
+                        "bBox": { "x": 36, "y": 442, "w": 61.24, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Phosphorylation / dephosphorylation of translation initiation factors can activate / deactivate the protein and hence up / down regulate its activity.",
+                        "md": "Phosphorylation / dephosphorylation of translation initiation factors can activate / deactivate the protein and hence up / down regulate its activity.",
+                        "bBox": { "x": 36, "y": 254, "w": 547.24, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "3) Protein degradation",
+                        "md": "# 3) Protein degradation",
+                        "bBox": { "x": 44, "y": 470, "w": 45.94, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Protein degradation by proteasomes determines how long a protein remains in a cell. Proteins targeted for degradation are tagged with ubiquitin (by ubiquitin ligase) and then recognized and degraded by the proteasome.",
+                        "md": "Protein degradation by proteasomes determines how long a protein remains in a cell. Proteins targeted for degradation are tagged with ubiquitin (by ubiquitin ligase) and then recognized and degraded by the proteasome.",
+                        "bBox": { "x": 44, "y": 423, "w": 315.95, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Causative factors which increase chances of cancer",
+                        "md": "# Causative factors which increase chances of cancer",
+                        "bBox": { "x": 0, "y": 0, "w": 792, "h": 612 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- A. Environmental factors: exposure to carcinogens (eg. tar in cigarette smoke, asbestos etc.) and ionizing radiation (e.g. uv radiation, X-rays) can cause mutations that lead to cancer\n- B. Loss of immunity due to infection with certain viruses: HIV can weaken the immune system and reduces the body\u2019s ability to fight infections by other viruses that can cause cancer. For example, Kaposi\u2019s sarcoma-associated Herpes virus genome can integrate into part of the human genome that controls DNA synthesis, or that affects cell division or that affects tumour suppression pathways and may lead to cancer\n- C. Genetic predisposition: due to gene mutations (in the germ cells) which we inherit from our parents (e.g. BRCA1 gene, a tumour suppressor gene)\n- D. Age: chances of getting cancer increases with age due to accumulation of mutations in a cell over a lifetime\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n4",
+                        "md": "- A. Environmental factors: exposure to carcinogens (eg. tar in cigarette smoke, asbestos etc.) and ionizing radiation (e.g. uv radiation, X-rays) can cause mutations that lead to cancer\n- B. Loss of immunity due to infection with certain viruses: HIV can weaken the immune system and reduces the body\u2019s ability to fight infections by other viruses that can cause cancer. For example, Kaposi\u2019s sarcoma-associated Herpes virus genome can integrate into part of the human genome that controls DNA synthesis, or that affects cell division or that affects tumour suppression pathways and may lead to cancer\n- C. Genetic predisposition: due to gene mutations (in the germ cells) which we inherit from our parents (e.g. BRCA1 gene, a tumour suppressor gene)\n- D. Age: chances of getting cancer increases with age due to accumulation of mutations in a cell over a lifetime\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n4",
+                        "bBox": { "x": 36, "y": 283, "w": 587.3, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 5,
+                "text": "Genetics and Inheritance (9744)                                                       Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                                                            2018\n  Proto-oncogenes\n  1. code for proteins (e.g. growth factors, activators, growth signal transduction factors) that stimulate normal cell division/proliferation\n  2. when mutated, they are known as oncogenes which\n     (a) increase the amount of proto-oncogene\u2019s protein product\n          (i) by a point mutation in base sequences of regulatory elements (e.g. stronger promoter created)\n               This can lead to increased frequency of transcription, and excess production of the proto-oncogene protein product (e.g. growth factor) and can lead to                                              uncontrolled cell division\n          (ii) gene amplification, where the number of copies of a proto-oncogene in a cell is increased due to a mistake made during DNA replication\n               This can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to                                   uncontrolled cell division\n          (iii) chromosomal translocation such that the proto-oncogene ends up under the control of a enhancer\n               This can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to                                   uncontrolled cell division\n          (iv) by retroviral integration\n               1)    can inactivate a silencer of a proto-oncogene\n               2)    can result in the insertion of a viral enhancer that upregulates expression of a proto-oncogene\n               3)    can insert a viral homologue of proto-oncogene\n          All 3 events can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to                                     uncontrolled cell division\n     (b) increase the intrinsic activity of the proto-oncogene protein product\n          (i) by a point mutation within the proto-oncogene\n               This changes the amino acid sequence of the proto-oncogene protein (e.g. growth factor) which can then become hyperactive or more resistant to degradation and can lead to\n                   uncontrolled cell divison\n  3. e.g. ras gene: mutation in the ras gene results in a constitutively active Ras protein that irreversibly binds to GTP and increases cell division even in the absence of growth factors\n\n  Tumour suppressor genes\n  1. codes for protein products that inhibit cell division and prevent uncontrolled cell division or by activating cell cycle arrest, DNA repair and/or apoptosis.\n  2. when mutated, they are inactivated. Mutations could be in promoter or coding sequence of gene. Note that both copies of the tumour suppressor allele needs to be mutated for the effect of the\n     mutations to be observed.\n  3. e.g. p53 gene: codes for a specific transcription factor (an activator) that can activate genes involved in\n     (a)       cell cycle arrest         gives the cell enough time to repair damaged DNA and prevent formation of mutant daughter cells\n     (b)       DNA repair         prevents mutations that may lead to the formation of oncogenes or inactivated tumour suppressor genes\n     (c)       initiating apoptosis (programmed cell death) when DNA damage is beyond repair                                       which will thus remove cells with damaged DNA with the potential to cause cancer\n\n  Gain-in-function and loss-of-function mutations\n  Gain-in-function mutation              e.g. when a proto-oncogene (e.g.ras) is mutated to form an oncogene\n  (dominant mutation)                 mutation in just one copy of the allele results can result in uncontrolled cell division due to the increased synthesis/activity of a functional product (which was not produced\n                                        previously) due to mutation.\n                                        Thus the mutation is said to be dominant.\n  Loss-of-function mutation              e.g. mutations in tumour suppressor genes (e.g.p53)\n  (recessive mutations)                mutations in both copies of the allele necessary for the loss-of-function phenotype to be observed.\n                                         even when one copy is mutated, the non-mutant copy still produces a functional gene product.\n                                        Thus the non-mutant copy will mask the effect of the mutant copy and hence the mutation is said to be recessive.\n\n  Why is development of cancer a multi-step process?\n\u25aa The development of cancer requires the accumulation of mutations in the genes which control regulatory checkpoints of the cell cycle in a single cell\n\u25aa This will disrupt the normal cell cycle, thus causing the cell to undergo excessive cell proliferation\n\u25aa A gain-in-function mutation is a dominant mutation where mutation in just one allele of a proto-oncogene will result in its overexpression which will result in the production of excessive amounts of\n  growth factors or hyperactive/degradation resistant growth factors leading to excessive cell proliferation\n\u25aa Loss-of-function mutation is a recessive mutation where mutations in both alleles of a tumour suppressor gene will result in the non-functional/missing protein which will disrupt their ability to\n  inhibit cell cycle, enable DNA repair and promote apoptosis\n\u25aa Activation of the genes coding for telomerase result in telomeres being lengthened allowing the cell to dividing indefinitely as the chromosomes are prevented from shortening with each DNA\n  replication cycle. (       A single cell that is immortal and continues to divide will accumulate more and more mutations)\n\u25aa Loss of contact inhibition* will enable the cells to grow into a benign tumour (mass of cells).\n\u25aa Angiogenesis occur within the tumour so that the blood vessels formed can transport oxygen and nutrients for its growth.\n\u25aa The presence of blood vessels can result in the formation of a malignant tumour capable of metastasizing to other parts of the body via the bloodstream to form secondary tumours\n\u25aa As it takes years to accumulate these mutations, the chances of developing cancer increases with age.\n\n \u2022 Not all cells need to be replaced at the same rate or at the same time. There are built-in controls in the cell cycle, (i.e. checkpoints), that ensure normal cell division\n  \u2022 Dysregulation of the checkpoints in the cell cycle can result in uncontrolled cell division leading to tumour formation and eventually cancer.\n\n  Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui                                                                  Raffles Institution (Yr 5-6)                                                                                 5",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# Proto-oncogenes\n\n1. code for proteins (e.g. growth factors, activators, growth signal transduction factors) that stimulate normal cell division/proliferation\n2. when mutated, they are known as oncogenes which\n1. increase the amount of proto-oncogene\u2019s protein product\n1. by a point mutation in base sequences of regulatory elements (e.g. stronger promoter created)\nThis can lead to increased frequency of transcription, and excess production of the proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. gene amplification, where the number of copies of a proto-oncogene in a cell is increased due to a mistake made during DNA replication\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n3. chromosomal translocation such that the proto-oncogene ends up under the control of an enhancer\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n4. by retroviral integration\n1. can inactivate a silencer of a proto-oncogene\n2. can result in the insertion of a viral enhancer that upregulates expression of a proto-oncogene\n3. can insert a viral homologue of proto-oncogene\n\nAll 3 events can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. increase the intrinsic activity of the proto-oncogene protein product\n1. by a point mutation within the proto-oncogene\nThis changes the amino acid sequence of the proto-oncogene protein (e.g. growth factor) which can then become hyperactive or more resistant to degradation and can lead to uncontrolled cell division.\n3. e.g. ras gene: mutation in the ras gene results in a constitutively active Ras protein that irreversibly binds to GTP and increases cell division even in the absence of growth factors\n\n# Tumour suppressor genes\n\n1. codes for protein products that inhibit cell division and prevent uncontrolled cell division or by activating cell cycle arrest, DNA repair and/or apoptosis.\n2. when mutated, they are inactivated. Mutations could be in promoter or coding sequence of gene. Note that both copies of the tumour suppressor allele needs to be mutated for the effect of the mutations to be observed.\n3. e.g. p53 gene: codes for a specific transcription factor (an activator) that can activate genes involved in\n1. cell cycle arrest gives the cell enough time to repair damaged DNA and prevent formation of mutant daughter cells\n2. DNA repair prevents mutations that may lead to the formation of oncogenes or inactivated tumour suppressor genes\n3. initiating apoptosis (programmed cell death) when DNA damage is beyond repair which will thus remove cells with damaged DNA with the potential to cause cancer\n\n# Gain-in-function and loss-of-function mutations\n\nGain-in-function mutation e.g. when a proto-oncogene (e.g. ras) is mutated to form an oncogene (dominant mutation) mutation in just one copy of the allele results can result in uncontrolled cell division due to the increased synthesis/activity of a functional product (which was not produced previously) due to mutation. Thus the mutation is said to be dominant.\n\nLoss-of-function mutation e.g. mutations in tumour suppressor genes (e.g. p53) (recessive mutations) mutations in both copies of the allele necessary for the loss-of-function phenotype to be observed. even when one copy is mutated, the non-mutant copy still produces a functional gene product. Thus the non-mutant copy will mask the effect of the mutant copy and hence the mutation is said to be recessive.\n\n# Why is development of cancer a multi-step process?\n\n- The development of cancer requires the accumulation of mutations in the genes which control regulatory checkpoints of the cell cycle in a single cell\n- This will disrupt the normal cell cycle, thus causing the cell to undergo excessive cell proliferation\n- A gain-in-function mutation is a dominant mutation where mutation in just one allele of a proto-oncogene will result in its overexpression which will result in the production of excessive amounts of growth factors or hyperactive/degradation resistant growth factors leading to excessive cell proliferation\n- Loss-of-function mutation is a recessive mutation where mutations in both alleles of a tumour suppressor gene will result in the non-functional/missing protein which will disrupt their ability to inhibit cell cycle, enable DNA repair and promote apoptosis\n- Activation of the genes coding for telomerase result in telomeres being lengthened allowing the cell to divide indefinitely as the chromosomes are prevented from shortening with each DNA replication cycle. (A single cell that is immortal and continues to divide will accumulate more and more mutations)\n- Loss of contact inhibition will enable the cells to grow into a benign tumour (mass of cells).\n- Angiogenesis occur within the tumour so that the blood vessels formed can transport oxygen and nutrients for its growth.\n- The presence of blood vessels can result in the formation of a malignant tumour capable of metastasizing to other parts of the body via the bloodstream to form secondary tumours\n- As it takes years to accumulate these mutations, the chances of developing cancer increases with age.\n\nNot all cells need to be replaced at the same rate or at the same time. There are built-in controls in the cell cycle, (i.e. checkpoints), that ensure normal cell division.\n\nDysregulation of the checkpoints in the cell cycle can result in uncontrolled cell division leading to tumour formation and eventually cancer.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n5",
+                "images": [],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.48, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 269, "y": 31, "w": 250.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 734, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Proto-oncogenes",
+                        "md": "# Proto-oncogenes",
+                        "bBox": { "x": 36, "y": 44, "w": 65.47, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. code for proteins (e.g. growth factors, activators, growth signal transduction factors) that stimulate normal cell division/proliferation\n2. when mutated, they are known as oncogenes which\n1. increase the amount of proto-oncogene\u2019s protein product\n1. by a point mutation in base sequences of regulatory elements (e.g. stronger promoter created)\nThis can lead to increased frequency of transcription, and excess production of the proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. gene amplification, where the number of copies of a proto-oncogene in a cell is increased due to a mistake made during DNA replication\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n3. chromosomal translocation such that the proto-oncogene ends up under the control of an enhancer\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n4. by retroviral integration\n1. can inactivate a silencer of a proto-oncogene\n2. can result in the insertion of a viral enhancer that upregulates expression of a proto-oncogene\n3. can insert a viral homologue of proto-oncogene\n\nAll 3 events can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. increase the intrinsic activity of the proto-oncogene protein product\n1. by a point mutation within the proto-oncogene\nThis changes the amino acid sequence of the proto-oncogene protein (e.g. growth factor) which can then become hyperactive or more resistant to degradation and can lead to uncontrolled cell division.\n3. e.g. ras gene: mutation in the ras gene results in a constitutively active Ras protein that irreversibly binds to GTP and increases cell division even in the absence of growth factors",
+                        "md": "1. code for proteins (e.g. growth factors, activators, growth signal transduction factors) that stimulate normal cell division/proliferation\n2. when mutated, they are known as oncogenes which\n1. increase the amount of proto-oncogene\u2019s protein product\n1. by a point mutation in base sequences of regulatory elements (e.g. stronger promoter created)\nThis can lead to increased frequency of transcription, and excess production of the proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. gene amplification, where the number of copies of a proto-oncogene in a cell is increased due to a mistake made during DNA replication\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n3. chromosomal translocation such that the proto-oncogene ends up under the control of an enhancer\nThis can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n4. by retroviral integration\n1. can inactivate a silencer of a proto-oncogene\n2. can result in the insertion of a viral enhancer that upregulates expression of a proto-oncogene\n3. can insert a viral homologue of proto-oncogene\n\nAll 3 events can lead to excessive production of proto-oncogene protein product (e.g. growth factor) and can lead to uncontrolled cell division.\n2. increase the intrinsic activity of the proto-oncogene protein product\n1. by a point mutation within the proto-oncogene\nThis changes the amino acid sequence of the proto-oncogene protein (e.g. growth factor) which can then become hyperactive or more resistant to degradation and can lead to uncontrolled cell division.\n3. e.g. ras gene: mutation in the ras gene results in a constitutively active Ras protein that irreversibly binds to GTP and increases cell division even in the absence of growth factors",
+                        "bBox": { "x": 36, "y": 54, "w": 638.09, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Tumour suppressor genes",
+                        "md": "# Tumour suppressor genes",
+                        "bBox": { "x": 36, "y": 239, "w": 100.47, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. codes for protein products that inhibit cell division and prevent uncontrolled cell division or by activating cell cycle arrest, DNA repair and/or apoptosis.\n2. when mutated, they are inactivated. Mutations could be in promoter or coding sequence of gene. Note that both copies of the tumour suppressor allele needs to be mutated for the effect of the mutations to be observed.\n3. e.g. p53 gene: codes for a specific transcription factor (an activator) that can activate genes involved in\n1. cell cycle arrest gives the cell enough time to repair damaged DNA and prevent formation of mutant daughter cells\n2. DNA repair prevents mutations that may lead to the formation of oncogenes or inactivated tumour suppressor genes\n3. initiating apoptosis (programmed cell death) when DNA damage is beyond repair which will thus remove cells with damaged DNA with the potential to cause cancer",
+                        "md": "1. codes for protein products that inhibit cell division and prevent uncontrolled cell division or by activating cell cycle arrest, DNA repair and/or apoptosis.\n2. when mutated, they are inactivated. Mutations could be in promoter or coding sequence of gene. Note that both copies of the tumour suppressor allele needs to be mutated for the effect of the mutations to be observed.\n3. e.g. p53 gene: codes for a specific transcription factor (an activator) that can activate genes involved in\n1. cell cycle arrest gives the cell enough time to repair damaged DNA and prevent formation of mutant daughter cells\n2. DNA repair prevents mutations that may lead to the formation of oncogenes or inactivated tumour suppressor genes\n3. initiating apoptosis (programmed cell death) when DNA damage is beyond repair which will thus remove cells with damaged DNA with the potential to cause cancer",
+                        "bBox": { "x": 36, "y": 91, "w": 707.67, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Gain-in-function and loss-of-function mutations",
+                        "md": "# Gain-in-function and loss-of-function mutations",
+                        "bBox": { "x": 36, "y": 323, "w": 181, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Gain-in-function mutation e.g. when a proto-oncogene (e.g. ras) is mutated to form an oncogene (dominant mutation) mutation in just one copy of the allele results can result in uncontrolled cell division due to the increased synthesis/activity of a functional product (which was not produced previously) due to mutation. Thus the mutation is said to be dominant.\n\nLoss-of-function mutation e.g. mutations in tumour suppressor genes (e.g. p53) (recessive mutations) mutations in both copies of the allele necessary for the loss-of-function phenotype to be observed. even when one copy is mutated, the non-mutant copy still produces a functional gene product. Thus the non-mutant copy will mask the effect of the mutant copy and hence the mutation is said to be recessive.",
+                        "md": "Gain-in-function mutation e.g. when a proto-oncogene (e.g. ras) is mutated to form an oncogene (dominant mutation) mutation in just one copy of the allele results can result in uncontrolled cell division due to the increased synthesis/activity of a functional product (which was not produced previously) due to mutation. Thus the mutation is said to be dominant.\n\nLoss-of-function mutation e.g. mutations in tumour suppressor genes (e.g. p53) (recessive mutations) mutations in both copies of the allele necessary for the loss-of-function phenotype to be observed. even when one copy is mutated, the non-mutant copy still produces a functional gene product. Thus the non-mutant copy will mask the effect of the mutant copy and hence the mutation is said to be recessive.",
+                        "bBox": { "x": 36, "y": 91, "w": 677.83, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Why is development of cancer a multi-step process?",
+                        "md": "# Why is development of cancer a multi-step process?",
+                        "bBox": { "x": 36, "y": 417, "w": 199.22, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "- The development of cancer requires the accumulation of mutations in the genes which control regulatory checkpoints of the cell cycle in a single cell\n- This will disrupt the normal cell cycle, thus causing the cell to undergo excessive cell proliferation\n- A gain-in-function mutation is a dominant mutation where mutation in just one allele of a proto-oncogene will result in its overexpression which will result in the production of excessive amounts of growth factors or hyperactive/degradation resistant growth factors leading to excessive cell proliferation\n- Loss-of-function mutation is a recessive mutation where mutations in both alleles of a tumour suppressor gene will result in the non-functional/missing protein which will disrupt their ability to inhibit cell cycle, enable DNA repair and promote apoptosis\n- Activation of the genes coding for telomerase result in telomeres being lengthened allowing the cell to divide indefinitely as the chromosomes are prevented from shortening with each DNA replication cycle. (A single cell that is immortal and continues to divide will accumulate more and more mutations)\n- Loss of contact inhibition will enable the cells to grow into a benign tumour (mass of cells).\n- Angiogenesis occur within the tumour so that the blood vessels formed can transport oxygen and nutrients for its growth.\n- The presence of blood vessels can result in the formation of a malignant tumour capable of metastasizing to other parts of the body via the bloodstream to form secondary tumours\n- As it takes years to accumulate these mutations, the chances of developing cancer increases with age.\n\nNot all cells need to be replaced at the same rate or at the same time. There are built-in controls in the cell cycle, (i.e. checkpoints), that ensure normal cell division.\n\nDysregulation of the checkpoints in the cell cycle can result in uncontrolled cell division leading to tumour formation and eventually cancer.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n5",
+                        "md": "- The development of cancer requires the accumulation of mutations in the genes which control regulatory checkpoints of the cell cycle in a single cell\n- This will disrupt the normal cell cycle, thus causing the cell to undergo excessive cell proliferation\n- A gain-in-function mutation is a dominant mutation where mutation in just one allele of a proto-oncogene will result in its overexpression which will result in the production of excessive amounts of growth factors or hyperactive/degradation resistant growth factors leading to excessive cell proliferation\n- Loss-of-function mutation is a recessive mutation where mutations in both alleles of a tumour suppressor gene will result in the non-functional/missing protein which will disrupt their ability to inhibit cell cycle, enable DNA repair and promote apoptosis\n- Activation of the genes coding for telomerase result in telomeres being lengthened allowing the cell to divide indefinitely as the chromosomes are prevented from shortening with each DNA replication cycle. (A single cell that is immortal and continues to divide will accumulate more and more mutations)\n- Loss of contact inhibition will enable the cells to grow into a benign tumour (mass of cells).\n- Angiogenesis occur within the tumour so that the blood vessels formed can transport oxygen and nutrients for its growth.\n- The presence of blood vessels can result in the formation of a malignant tumour capable of metastasizing to other parts of the body via the bloodstream to form secondary tumours\n- As it takes years to accumulate these mutations, the chances of developing cancer increases with age.\n\nNot all cells need to be replaced at the same rate or at the same time. There are built-in controls in the cell cycle, (i.e. checkpoints), that ensure normal cell division.\n\nDysregulation of the checkpoints in the cell cycle can result in uncontrolled cell division leading to tumour formation and eventually cancer.\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)\n\n5",
+                        "bBox": { "x": 36, "y": 91, "w": 677.83, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            },
+            {
+                "page": 6,
+                "text": "Genetics and Inheritance (9744)                                                             Organisation and Control of Prokaryotic and Eukaryotic Genomes                                                                                                                      2018\n       Histones    1. Histone acetylation/deacetylation                                4. Activators bind enhancers                                    6. RNA splicing            RNA transcript (pro-MRNA)\n                                                                                   Activators                               Promoter     Gene\n                                                                 COCH;      DNA                                                                                       Exon                    Intron                    Exon\n                                     Histone                         COCH)\n                                     acolylaso                                     Enhanccrs                                TATA                                  Proteln                                                        Note:\n                                                                               Activator protcins bind                      box                                                 26                          Other protelns       1-3: Regulation at chromatin level\n                                                                                  enhancer sequences                                                              snRNA\n                                    Hislone                                    in the DNA\n                                    dencelyase                                                                                                                              snRNPS                                               4-5: Regulation at transcriptional level\n                                                COCH;                                                                                                                                     Spliceosome                            6-7: Regulation at post-transcriptional\n                                                                 Acolya        DNA bending brings the                       Transcription\n                                                                  dioud                                                     lactors                                                                                                     level\n                                                                               bound activalors closer\n                                                                               lo Iho promotcr. Olher\n                             atandard nucloaomas                               transcription factors                                                                                                                             8-10: Regulation at translation level\n                                                                               and RNA polymcraso\n     2. Chromatin                                   chromatin-                 are nearby:                                          ANA                                                                                          11: Regulation at post-translational\n     remodeling                                     remodeling                                                                      polymerase\n     complex                                        complo;                                                                                                                                                                           level\n                                                                               Prolein-binding domains\n                                                                               on thc activators attach lo                             RNA\n                                                                               certain transcriplion                                   polymerase\n                                                                               lactors and help them                                                                    Spliceosome\n                                                                               lorm an aclive                                                                           componcnts\n                                                                               Iranscription initiation      TRANSCA PTION                                                                                                Exciaed\n                                                                               complex on the promoler-              COUPLEX         RNA synthesisnincing *le                                                             intron\n                                                                                                                           uinding silo        Iot aciwvalor                                  mRNA\n        less tightly bound DNA                    more tightly bound DNA5. Repressors bind silencers                       {or (cprossor                                               Exon           Exon                                        pre-mRNA\n         cytosine3. DNA methylation5-methylcytosine                                                                                                                   7. Alternative\n                                            H~                                                                                                                       Normal RNA splicing\n                                                                                                                                                                      splicing                      Alternative RNA splicing (possibilty           Alterative RNA splicing (possiblity 2)\n                                     H;C;                             direct interaction\n                                                                      with the general                                   TFIId\n                         methylation                                transcrption faciors                                                                           polypeptide                               polypepiide                                 polypeplide\n                                                                                                                                    TATA                                   8. mRNA \u00bd life                 Protein-coding segment              Polyadenylation signal\n                                                       9. Availability of activated translationantisensc RNA                                                                                                                                          AAUAAA                  AAA\"AAA\n                                                       initiation factors UACGCGCCUACGsite                             10. Binding of                                            5' Cap          Utr     Start codon         Stop codon              3' UtR                   Poly-A tail\n                                                                                                   Large               translational repressor\n        Initiator                                                                                  ribosomal                                                                               Ubountn                                                  Proteasome\n           IRNA                                      GTPK    GDP                     mRNA (sense strand)subunit                                                                                                                                     and ubiqucin\n                                                                                               RNA                                                         m7G                                                                                        bC rccycled\n                                                                             Anti-sense                  forms           double-                                                                                  Proteasoma\n           mRNA                                                              stranded        and     reduces        half-life                           elF-4E\n                                                                             mRNA.\n                    Start codon                                                                                                    Translational\n                                        Small                                                                                      repressor\n        mRNA binding site               ribosomal                   Translation initiation complex                                                          AAAA n) 3\"\n                                        subunit                                                                                                  3' UTR                      Protein A to              Ubiqumated                                                  Protein Iragmens\n        Initiation factors (\"IF\\' in diagram) are needed for translation initiation.                                                                                           degraded                protein                                                     (peptides)\n                                                                                                                                                                                                                                Protein enteringa\n                                                                                                                                                                            11. Protein degradation                             proleascine\n\n   Feature                                     Normal Cells                                                                                                                                Cancerous Cells\n   Nuclei                                      Normal nuclei with low nucleo-cytoplasmic ratio                                                                                             Abnormal nuclei with high nucleo-cytoplasmic ratio\n   Genes                                       Proto-oncogenes, tumour suppressor genes not mutated                                                                                        Oncogenes and mutated tumour suppressor genes present\n   Cell division                               Undergo controlled cell division & proliferation                                                                                            Undergo excessive uncontrolled cell division & proliferation\n   Apoptosis                                   Undergo apoptosis: divide for a certain number of times and then stop dividing                                                              Do not undergo apoptosis: can divide indefinitely\n   Contact inhibition                          Show contact inhibition: do not divide further when in contact with other cells                               monolayer of cells            Do not show contact inhibition               multiple layers of cells\n   Differentiation                             Can differentiate to become specialized cells                                                                                               Do not differentiate\n   Cell adhesion/ metastasis                   Cell adhesion           formation of tissues and organs                                                                                     Can detach from surrounding cells and metastasize\n   Angiogenesis                                Do not stimulate new blood vessels                                                                                                          Stimulate growth of new blood vessels\n\n Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui                                                                            Raffles Institution (Yr 5-6)                                                                                                         6",
+                "md": "# Genetics and Inheritance (9744)\n\n# Organisation and Control of Prokaryotic and Eukaryotic Genomes\n\n# 2018\n\n# Histones\n\n1. Histone acetylation/deacetylation\n2. Chromatin remodeling complex\n3. DNA methylation\n4. Activators bind enhancers\n5. Repressors bind silencers\n6. RNA splicing\n\nRNA transcript (pro-MRNA)\n\n|Histone|COCH;|DNA|\n|---|---|---|\n|Activators|Enhanccrs|TATA|\n|Protein|26|Other proteins|\n|snRNA|snRNPS|Spliceosome|\n\nNote:\n\n1. Regulation at chromatin level\n2. Regulation at transcriptional level\n3. Regulation at post-transcriptional level\n4. Regulation at translation level\n5. Regulation at post-translational level\n\n# Transcription Complex\n\nRNA synthesis linking site to activator\n\nless tightly bound DNA\n\nmore tightly bound DNA\n\n# Alternative RNA Splicing\n\n|Normal RNA splicing|Alternative RNA splicing (possibility 1)|Alternative RNA splicing (possibility 2)|\n|---|---|---|\n|polypeptide|polypeptide|polypeptide|\n\n# mRNA Structure\n\n|5' Cap|Utr|Start codon|Stop codon|3' UTR|Poly-A tail|\n|---|---|---|---|---|---|\n|mRNA (sense strand)|GTP|GDP|m7G|Ubiquitin|Proteasome|\n\n# Feature Comparison\n\n|Feature|Normal Cells|Cancerous Cells|\n|---|---|---|\n|Nuclei|Normal nuclei with low nucleo-cytoplasmic ratio|Abnormal nuclei with high nucleo-cytoplasmic ratio|\n|Genes|Proto-oncogenes, tumour suppressor genes not mutated|Oncogenes and mutated tumour suppressor genes present|\n|Cell division|Undergo controlled cell division & proliferation|Undergo excessive uncontrolled cell division & proliferation|\n|Apoptosis|Undergo apoptosis: divide for a certain number of times and then stop dividing|Do not undergo apoptosis: can divide indefinitely|\n|Contact inhibition|Show contact inhibition: do not divide further when in contact with other cells|Do not show contact inhibition|\n|Differentiation|Can differentiate to become specialized cells|Do not differentiate|\n|Cell adhesion/ metastasis|Cell adhesion formation of tissues and organs|Can detach from surrounding cells and metastasize|\n|Angiogenesis|Do not stimulate new blood vessels|Stimulate growth of new blood vessels|\n\nPrepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                "images": [
+                    {
+                        "name": "img_p5_1.png",
+                        "height": 402,
+                        "width": 392,
+                        "x": 421.95,
+                        "y": 43.19999999999999,
+                        "original_width": 406,
+                        "original_height": 418
+                    },
+                    {
+                        "name": "img_p5_2.png",
+                        "height": 149,
+                        "width": 602,
+                        "x": 451.9,
+                        "y": 246.10000000000002,
+                        "original_width": 823,
+                        "original_height": 187
+                    },
+                    {
+                        "name": "img_p5_3.png",
+                        "height": 195,
+                        "width": 368,
+                        "x": 48,
+                        "y": 37.50000000000003,
+                        "original_width": 364,
+                        "original_height": 193
+                    },
+                    {
+                        "name": "img_p5_4.png",
+                        "height": 236,
+                        "width": 349,
+                        "x": 48,
+                        "y": 126.5,
+                        "original_width": 373,
+                        "original_height": 249
+                    },
+                    {
+                        "name": "img_p5_5.png",
+                        "height": 370,
+                        "width": 380,
+                        "x": 227.1,
+                        "y": 51.19999999999999,
+                        "original_width": 506,
+                        "original_height": 492
+                    },
+                    {
+                        "name": "img_p5_6.png",
+                        "height": 179,
+                        "width": 347,
+                        "x": 227.1,
+                        "y": 334.65,
+                        "original_width": 297,
+                        "original_height": 153
+                    },
+                    {
+                        "name": "img_p5_7.png",
+                        "height": 166,
+                        "width": 245,
+                        "x": 339.7,
+                        "y": 356.35,
+                        "original_width": 393,
+                        "original_height": 265
+                    },
+                    {
+                        "name": "img_p5_8.png",
+                        "height": 263,
+                        "width": 590,
+                        "x": 48,
+                        "y": 324.75,
+                        "original_width": 552,
+                        "original_height": 245
+                    },
+                    {
+                        "name": "img_p5_9.png",
+                        "height": 133,
+                        "width": 257,
+                        "x": 46.5,
+                        "y": 255.65,
+                        "original_width": 454,
+                        "original_height": 235
+                    },
+                    {
+                        "name": "img_p5_10.png",
+                        "height": 199,
+                        "width": 446,
+                        "x": 206.3,
+                        "y": 226.4,
+                        "original_width": 479,
+                        "original_height": 215
+                    },
+                    {
+                        "name": "img_p5_11.png",
+                        "height": 81,
+                        "width": 578,
+                        "x": 472.65,
+                        "y": 321.95,
+                        "original_width": 873,
+                        "original_height": 121
+                    },
+                    {
+                        "name": "img_p5_12.png",
+                        "height": 183,
+                        "width": 535,
+                        "x": 473.35,
+                        "y": 361.8,
+                        "original_width": 840,
+                        "original_height": 287
+                    }
+                ],
+                "items": [
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Genetics and Inheritance (9744)",
+                        "md": "# Genetics and Inheritance (9744)",
+                        "bBox": { "x": 31, "y": 31, "w": 120.48, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "md": "# Organisation and Control of Prokaryotic and Eukaryotic Genomes",
+                        "bBox": { "x": 269, "y": 31, "w": 250.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "2018",
+                        "md": "# 2018",
+                        "bBox": { "x": 734, "y": 31, "w": 17.79, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Histones",
+                        "md": "# Histones",
+                        "bBox": { "x": 50.47, "y": 40.95, "w": 23.75, "h": 6.9 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "1. Histone acetylation/deacetylation\n2. Chromatin remodeling complex\n3. DNA methylation\n4. Activators bind enhancers\n5. Repressors bind silencers\n6. RNA splicing\n\nRNA transcript (pro-MRNA)",
+                        "md": "1. Histone acetylation/deacetylation\n2. Chromatin remodeling complex\n3. DNA methylation\n4. Activators bind enhancers\n5. Repressors bind silencers\n6. RNA splicing\n\nRNA transcript (pro-MRNA)",
+                        "bBox": { "x": 44, "y": 48, "w": 173.59, "h": 9.89 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Histone", "COCH;", "DNA"],
+                            ["Activators", "Enhanccrs", "TATA"],
+                            ["Protein", "26", "Other proteins"],
+                            ["snRNA", "snRNPS", "Spliceosome"]
+                        ],
+                        "md": "|Histone|COCH;|DNA|\n|---|---|---|\n|Activators|Enhanccrs|TATA|\n|Protein|26|Other proteins|\n|snRNA|snRNPS|Spliceosome|",
+                        "isPerfectTable": true,
+                        "csv": "\"Histone\",\"COCH;\",\"DNA\"\n\"Activators\",\"Enhanccrs\",\"TATA\"\n\"Protein\",\"26\",\"Other proteins\"\n\"snRNA\",\"snRNPS\",\"Spliceosome\"",
+                        "bBox": {
+                            "x": 127.67,
+                            "y": 55.64,
+                            "w": 43.53,
+                            "h": 19.8
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Note:\n\n1. Regulation at chromatin level\n2. Regulation at transcriptional level\n3. Regulation at post-transcriptional level\n4. Regulation at translation level\n5. Regulation at post-translational level",
+                        "md": "Note:\n\n1. Regulation at chromatin level\n2. Regulation at transcriptional level\n3. Regulation at post-transcriptional level\n4. Regulation at translation level\n5. Regulation at post-translational level",
+                        "bBox": { "x": 351.11, "y": 75, "w": 281.32, "h": 8.04 }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Transcription Complex",
+                        "md": "# Transcription Complex",
+                        "bBox": { "x": 44, "y": 123.79, "w": 341.7, "h": 8.04 }
+                    },
+                    {
+                        "type": "text",
+                        "value": "RNA synthesis linking site to activator\n\nless tightly bound DNA\n\nmore tightly bound DNA",
+                        "md": "RNA synthesis linking site to activator\n\nless tightly bound DNA\n\nmore tightly bound DNA",
+                        "bBox": {
+                            "x": 53.44,
+                            "y": 64.53,
+                            "w": 212.2,
+                            "h": 9.89
+                        }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Alternative RNA Splicing",
+                        "md": "# Alternative RNA Splicing",
+                        "bBox": {
+                            "x": 277.02,
+                            "y": 198.84,
+                            "w": 134.07,
+                            "h": 9.89
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "Normal RNA splicing",
+                                "Alternative RNA splicing (possibility 1)",
+                                "Alternative RNA splicing (possibility 2)"
+                            ],
+                            ["polypeptide", "polypeptide", "polypeptide"]
+                        ],
+                        "md": "|Normal RNA splicing|Alternative RNA splicing (possibility 1)|Alternative RNA splicing (possibility 2)|\n|---|---|---|\n|polypeptide|polypeptide|polypeptide|",
+                        "isPerfectTable": true,
+                        "csv": "\"Normal RNA splicing\",\"Alternative RNA splicing (possibility 1)\",\"Alternative RNA splicing (possibility 2)\"\n\"polypeptide\",\"polypeptide\",\"polypeptide\"",
+                        "bBox": {
+                            "x": 277.02,
+                            "y": 198.84,
+                            "w": 155.17,
+                            "h": 9.89
+                        }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "mRNA Structure",
+                        "md": "# mRNA Structure",
+                        "bBox": {
+                            "x": 59.37,
+                            "y": 198.84,
+                            "w": 342.16,
+                            "h": 9.89
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            [
+                                "5' Cap",
+                                "Utr",
+                                "Start codon",
+                                "Stop codon",
+                                "3' UTR",
+                                "Poly-A tail"
+                            ],
+                            [
+                                "mRNA (sense strand)",
+                                "GTP",
+                                "GDP",
+                                "m7G",
+                                "Ubiquitin",
+                                "Proteasome"
+                            ]
+                        ],
+                        "md": "|5' Cap|Utr|Start codon|Stop codon|3' UTR|Poly-A tail|\n|---|---|---|---|---|---|\n|mRNA (sense strand)|GTP|GDP|m7G|Ubiquitin|Proteasome|",
+                        "isPerfectTable": true,
+                        "csv": "\"5' Cap\",\"Utr\",\"Start codon\",\"Stop codon\",\"3' UTR\",\"Poly-A tail\"\n\"mRNA (sense strand)\",\"GTP\",\"GDP\",\"m7G\",\"Ubiquitin\",\"Proteasome\"",
+                        "bBox": {
+                            "x": 59.37,
+                            "y": 198.84,
+                            "w": 463.22,
+                            "h": 162.91
+                        }
+                    },
+                    {
+                        "type": "heading",
+                        "lvl": 1,
+                        "value": "Feature Comparison",
+                        "md": "# Feature Comparison",
+                        "bBox": { "x": 41, "y": 473, "w": 28.94, "h": 8.04 }
+                    },
+                    {
+                        "type": "table",
+                        "rows": [
+                            ["Feature", "Normal Cells", "Cancerous Cells"],
+                            [
+                                "Nuclei",
+                                "Normal nuclei with low nucleo-cytoplasmic ratio",
+                                "Abnormal nuclei with high nucleo-cytoplasmic ratio"
+                            ],
+                            [
+                                "Genes",
+                                "Proto-oncogenes, tumour suppressor genes not mutated",
+                                "Oncogenes and mutated tumour suppressor genes present"
+                            ],
+                            [
+                                "Cell division",
+                                "Undergo controlled cell division & proliferation",
+                                "Undergo excessive uncontrolled cell division & proliferation"
+                            ],
+                            [
+                                "Apoptosis",
+                                "Undergo apoptosis: divide for a certain number of times and then stop dividing",
+                                "Do not undergo apoptosis: can divide indefinitely"
+                            ],
+                            [
+                                "Contact inhibition",
+                                "Show contact inhibition: do not divide further when in contact with other cells",
+                                "Do not show contact inhibition"
+                            ],
+                            [
+                                "Differentiation",
+                                "Can differentiate to become specialized cells",
+                                "Do not differentiate"
+                            ],
+                            [
+                                "Cell adhesion/ metastasis",
+                                "Cell adhesion formation of tissues and organs",
+                                "Can detach from surrounding cells and metastasize"
+                            ],
+                            [
+                                "Angiogenesis",
+                                "Do not stimulate new blood vessels",
+                                "Stimulate growth of new blood vessels"
+                            ]
+                        ],
+                        "md": "|Feature|Normal Cells|Cancerous Cells|\n|---|---|---|\n|Nuclei|Normal nuclei with low nucleo-cytoplasmic ratio|Abnormal nuclei with high nucleo-cytoplasmic ratio|\n|Genes|Proto-oncogenes, tumour suppressor genes not mutated|Oncogenes and mutated tumour suppressor genes present|\n|Cell division|Undergo controlled cell division & proliferation|Undergo excessive uncontrolled cell division & proliferation|\n|Apoptosis|Undergo apoptosis: divide for a certain number of times and then stop dividing|Do not undergo apoptosis: can divide indefinitely|\n|Contact inhibition|Show contact inhibition: do not divide further when in contact with other cells|Do not show contact inhibition|\n|Differentiation|Can differentiate to become specialized cells|Do not differentiate|\n|Cell adhesion/ metastasis|Cell adhesion formation of tissues and organs|Can detach from surrounding cells and metastasize|\n|Angiogenesis|Do not stimulate new blood vessels|Stimulate growth of new blood vessels|",
+                        "isPerfectTable": true,
+                        "csv": "\"Feature\",\"Normal Cells\",\"Cancerous Cells\"\n\"Nuclei\",\"Normal nuclei with low nucleo-cytoplasmic ratio\",\"Abnormal nuclei with high nucleo-cytoplasmic ratio\"\n\"Genes\",\"Proto-oncogenes, tumour suppressor genes not mutated\",\"Oncogenes and mutated tumour suppressor genes present\"\n\"Cell division\",\"Undergo controlled cell division & proliferation\",\"Undergo excessive uncontrolled cell division & proliferation\"\n\"Apoptosis\",\"Undergo apoptosis: divide for a certain number of times and then stop dividing\",\"Do not undergo apoptosis: can divide indefinitely\"\n\"Contact inhibition\",\"Show contact inhibition: do not divide further when in contact with other cells\",\"Do not show contact inhibition\"\n\"Differentiation\",\"Can differentiate to become specialized cells\",\"Do not differentiate\"\n\"Cell adhesion/ metastasis\",\"Cell adhesion formation of tissues and organs\",\"Can detach from surrounding cells and metastasize\"\n\"Angiogenesis\",\"Do not stimulate new blood vessels\",\"Stimulate growth of new blood vessels\"",
+                        "bBox": {
+                            "x": 41,
+                            "y": 59.59,
+                            "w": 276.42,
+                            "h": 421.45
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "value": "Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                        "md": "Prepared by: Mrs Jeanne Wan, Mrs Selvamani Nair, Mrs Wong Seok Hui\n\nRaffles Institution (Yr 5-6)",
+                        "bBox": { "x": 36, "y": 580, "w": 272.16, "h": 8.04 }
+                    }
+                ],
+                "status": "OK",
+                "links": []
+            }
+        ],
+        "job_metadata": {
+            "credits_used": 53.0,
+            "job_credits_usage": 6,
+            "job_pages": 6,
+            "job_is_cache_hit": false,
+            "credits_max": 1000
+        },
+        "job_id": "b1c7f11f-0fed-425f-8afb-7b725fa33b53",
+        "file_path": "src/16.pdf"
+    }
+]
