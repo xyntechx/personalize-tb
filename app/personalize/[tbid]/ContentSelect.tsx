@@ -10,18 +10,12 @@ import {
 
 interface IProps {
     chapters: string[];
-    grafs: string[];
-    selectedGraf: string | undefined;
     saveChapDetails: (arg: string) => void;
-    savedGrafDetails: (arg: string) => void;
 }
 
 const ContentSelect = ({
     chapters,
-    grafs,
-    selectedGraf,
-    saveChapDetails,
-    savedGrafDetails,
+    saveChapDetails
 }: IProps) => {
     return (
         <>
@@ -36,27 +30,6 @@ const ContentSelect = ({
                             {chap.slice(0, chap.length - 3).trim()}
                         </SelectItem>
                     ))}
-                </SelectContent>
-            </Select>
-
-            {/* Paragraph selection */}
-            <Select
-                value={selectedGraf || ""}
-                onValueChange={(val) => savedGrafDetails(val)}
-                disabled={grafs.length === 0}
-            >
-                <SelectTrigger className="w-[250px] md:w-[500px]">
-                    <SelectValue placeholder="Select Paragraph" />
-                </SelectTrigger>
-                <SelectContent className="w-[250px] md:w-[500px] h-[250px]">
-                    {grafs.map(
-                        (graf) =>
-                            graf && (
-                                <SelectItem key={graf} value={graf}>
-                                    {graf}
-                                </SelectItem>
-                            )
-                    )}
                 </SelectContent>
             </Select>
         </>
