@@ -1,9 +1,7 @@
 # Personalize Textbooks
-
-## 🚀 About Project
-
-### Goal
 Increase learner motivation via tailor-made textbooks filled with personalized examples
+
+## 🚀 Project Details
 
 ### Pipeline
 - LLM V: Interest Extraction
