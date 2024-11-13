@@ -25,12 +25,12 @@ const Home = () => {
                             className={clsx(
                                 "w-full text-center px-4 py-2 rounded-md transition-colors border border-transparent hover:border-black",
                                 {
-                                    "bg-blue-100 hover:bg-blue-200":
+                                    "bg-blue-500 hover:bg-blue-600":
                                         i % 3 === 0,
                                 },
-                                { "bg-red-100 hover:bg-red-200": i % 3 === 1 },
+                                { "bg-red-500 hover:bg-red-600": i % 3 === 1 },
                                 {
-                                    "bg-green-100 hover:bg-green-200":
+                                    "bg-green-500 hover:bg-green-600":
                                         i % 3 === 2,
                                 }
                             )}
