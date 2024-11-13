@@ -1,23 +1,22 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import { Inter, Roboto_Mono } from "next/font/google";
 import "./globals.css";
 
-const geistSans = localFont({
-    src: "./fonts/GeistVF.woff",
-    variable: "--font-geist-sans",
-    weight: "100 900",
+const inter = Inter({
+    subsets: ["latin"],
+    display: "swap",
+    variable: "--font-inter",
 });
 
-const geistMono = localFont({
-    src: "./fonts/GeistMonoVF.woff",
-    variable: "--font-geist-mono",
-    weight: "100 900",
+const roboto_mono = Roboto_Mono({
+    subsets: ["latin"],
+    display: "swap",
+    variable: "--font-roboto-mono",
 });
 
 export const metadata: Metadata = {
     title: "Personalize Textbook",
-    description:
-        "Personalizing textbooks to enhance learner motivation in online CS courses",
+    description: "Personalizing textbooks to enhance learner motivation",
 };
 
 export default function RootLayout({
@@ -28,7 +27,7 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body
-                className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+                className={`${inter.variable} ${roboto_mono.variable} antialiased`}
             >
                 {children}
             </body>
