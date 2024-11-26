@@ -8,6 +8,7 @@ import remarkGfm from "remark-gfm";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { atomDark } from "react-syntax-highlighter/dist/esm/styles/prism";
 import rehypeRaw from "rehype-raw";
+import RadioButtonGroup from './RadioButtonGroup';
 
 import { encode } from "gpt-tokenizer";
 
@@ -46,6 +47,9 @@ const GPTOutput = ({
 
     const [isLoading, setIsLoading] = useState(false);
     const [loadingText, setLoadingText] = useState<string>();
+
+    const [doClassify, setDoClassify] = useState(false);
+    const [doGroup, setDoGroup] = useState(false);
 
     useEffect(() => {
         if (typeof window !== undefined) {
@@ -110,23 +114,32 @@ const GPTOutput = ({
         let baseIdx = 0;
 
         for (const chunk of chunks) {
-            const res = await fetch(`/api/x-graf-classification`, {
-                method: "POST",
-                body: JSON.stringify({
-                    chapterText: chunk,
-                }),
-            });
-
-            const data = await res.json();
-            for (const graf of data.classifications) {
-                classifications.push({
-                    block: graf.block,
-                    index: graf.index + baseIdx,
-                    is_example_based: graf.is_example_based,
+            if (doClassify) {
+                const res = await fetch(`/api/x-graf-classification`, {
+                    method: "POST",
+                    body: JSON.stringify({
+                        chapterText: chunk,
+                    }),
                 });
+                const data = await res.json();
+                for (const graf of data.classifications) {
+                    classifications.push({
+                        block: graf.block,
+                        index: graf.index + baseIdx,
+                        is_example_based: graf.is_example_based,
+                    });
+                }
+                baseIdx = classifications.length;
+            } else {
+                for (const graf of chunk) {
+                    classifications.push({
+                        block: graf,
+                        index: baseIdx,
+                        is_example_based: true,
+                    });
+                    baseIdx++;
+                }
             }
-
-            baseIdx = classifications.length;
         }
 
         return classifications;
@@ -150,15 +163,30 @@ const GPTOutput = ({
     const chunkGrafs = async (classifications: GrafInfo[]) => {
         const exampleGrafs = extractExampleGrafs(classifications);
 
-        const res = await fetch(`/api/y-graf-chunking`, {
-            method: "POST",
-            body: JSON.stringify({
-                exampleGrafs,
-            }),
-        });
-
-        const data = await res.json();
-        return data.chunks;
+        if (doGroup) {
+            const res = await fetch(`/api/y-graf-chunking`, {
+                method: "POST",
+                body: JSON.stringify({
+                    exampleGrafs,
+                }),
+            });
+    
+            const data = await res.json();
+            return data.chunks;
+        } else {
+            // Let everything be in one chunk
+            // For each graf, assign it to the same example id
+            const chunks: ExampleChunk[] = [];
+            for (const graf of classifications) {
+                if (graf.is_example_based) {
+                    chunks.push({
+                        index: graf.index,
+                        example_id: 1,
+                    });
+                }
+            }
+            return chunks;
+        }
     };
 
     const groupGrafs = (
@@ -278,6 +306,24 @@ const GPTOutput = ({
 
     return (
         <div className="flex items-center justify-start flex-col w-full h-fit gap-y-2 p-4">
+            <RadioButtonGroup
+                name="classifyOption"
+                options={[
+                    { label: 'Enable Classification', value: 'true' },
+                    { label: 'Disable Classification', value: 'false' },
+                ]}
+                selectedValue={doClassify ? 'true' : 'false'}
+                onChange={(value) => setDoClassify(value === 'true')}
+            />
+            <RadioButtonGroup
+                name="groupOption"
+                options={[
+                    { label: 'Enable Grouping', value: 'true' },
+                    { label: 'Disable Grouping', value: 'false' },
+                ]}
+                selectedValue={doGroup ? 'true' : 'false'}
+                onChange={(value) => setDoGroup(value === 'true')}
+            />
             <Button
                 onClick={() => personalize()}
                 variant="default"
